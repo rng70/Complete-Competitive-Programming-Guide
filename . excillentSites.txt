@@ -31,3 +31,7 @@ Some useful Sites & blogs link:
 	- https://blog.anudeep2011.com/heavy-light-decomposition/
 	- https://cp-algorithms.com/graph/hld.html
 	- https://www.geeksforgeeks.org/heavy-light-decomposition-set-2-implementation/
+ 	- http://cp-algorithms.com
+	- http://shafaetsplanet.com/planetcoding/
+	- http://progkriya.org/gyan/
+	- https://codeforces.com/blog/entry/15729
