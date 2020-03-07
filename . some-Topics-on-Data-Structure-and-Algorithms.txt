@@ -151,7 +151,7 @@ Data Structure:
 	- Splay tree
 	- Diameter of a tree
 	- Sparse table
-	-
+	- tree compression
 Dynamic Programming : 
 	- Bitmask 
 	- Modular DP (DP with MOD value as state)
