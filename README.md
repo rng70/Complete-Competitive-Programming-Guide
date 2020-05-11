@@ -39,8 +39,13 @@
 
       Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
 
-      1. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their wiki(http://wcipeg.com/wiki/Main_Page) more useful than their problems.
-      2. 
+      1. [DM::OJ]() The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
+
+         Do you love interactive problem? Then it is really appropriate for you.
+
+      2. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
+
+      3. 
 
 2. Courses;
 
