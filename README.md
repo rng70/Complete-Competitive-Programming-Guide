@@ -47,7 +47,7 @@
 
    [Another-Collection](http://codechef17.rssing.com/chan-12597213/all_p1394.html "http://codechef17.rssing.com/chan-12597213/all_p1394.html")
 
-   [PS-Community Topics Collections]([https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C](https://namnamseo.tistory.com/entry/PS-토픽-모음) "[https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C](https://namnamseo.tistory.com/entry/PS-토픽-모음)")
+   [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "[https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C](https://namnamseo.tistory.com/entry/PS-토픽-모음)")
 
    1. Number Theory:
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
