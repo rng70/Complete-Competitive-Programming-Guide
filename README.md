@@ -35,11 +35,18 @@
 
    1. [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
 
+      
+
+      Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
+
+      1. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their wiki(http://wcipeg.com/wiki/Main_Page) more useful than their problems.
+      2. 
+
 2. Courses;
 
    1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
    2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
-   3. [CLIP Zul]([https://www.clipzui.com/search?k=sqrt-%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F](https://www.clipzui.com/search?k=sqrt-декомпозиция) "[https://www.clipzui.com/search?k=sqrt-%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F](https://www.clipzui.com/search?k=sqrt-декомпозиция)") If you know russian well then it is a good place for you to learn.
+   3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know russian well then it is a good place for you to learn.
 
 3. Topics:
 
@@ -47,7 +54,7 @@
 
    [Another-Collection](http://codechef17.rssing.com/chan-12597213/all_p1394.html "http://codechef17.rssing.com/chan-12597213/all_p1394.html")
 
-   [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "[https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C](https://namnamseo.tistory.com/entry/PS-토픽-모음)")
+   [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "https://namnamseo.tistory.com/entry/PS-토픽-모음")
 
    1. Number Theory:
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
@@ -84,6 +91,8 @@
 5. Data Structure and Algorithm:
 
    1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
+   2. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
+   3. 
 
 ### Development:
 
