@@ -8,7 +8,7 @@
 
 
 
-# Read It First
+<h1>Read It First</h1>
 
 ---
 
@@ -78,7 +78,7 @@
 
          1. Fermat’s Little Theorem
 
-      6. Big mod ( $$a^b$$ % p)
+      6. Big mod ( $$a^b \mod p $$ ) 
 
       7. Euclid and extended euclid
 
@@ -179,7 +179,6 @@
       20. Havel-Hakimi Algorithm
           * Construct a graph given degree of nodes
       21. Erdos & Galli Theorem
-      22. 
 
    5. Game Theory:
 
@@ -192,20 +191,69 @@
       1. Task Scheduling
 
       2. Maximum sum subarray
+         $$
+         \Bbb{\textcolor{aqua}{\boxed{\mathscr{\pmb{\text{Kadane's  Algorithm} \Rightarrow \begin{cases}
+          &\text{1-D array in }\Omicron (N)\\
+          &\text{2-D array in }\Omicron (N^3)\\
+         \end{cases}}}}}}
+         $$
 
-         
+      3. Maximum rectangle $$ \Omicron (N^2) $$
 
-         \begin{rcases}
+   7. Dynamic Programming:
 
-         & Pd \\\
+      1. Modular DP (DP with MOD value as state)
+      2. Digit DP
+      3. Broken Profile DP
+      4. DP on TREE
+      5. Matrix chain Multiplication
+      6. LIS/LDS in $$\Omicron(N \log N) $$
+      7. BitMask
 
-         & Dd \\\
+   8. String Algorithms:
 
-         \end{rcases}	&  Kadane’s Algorithm
+      1. $$\mathscr{\textcolor{aqua}{\pmb{\text{KMP}}}}$$ Mathcher
+      2. Suffix Array
+      3. $$\mathscr{\textcolor{aqua}{\pmb{\text{Aho Chorasic Algorithm}}}}$$
+      4. $$\mathscr{\textcolor{aqua}{\pmb{\text{Z-Algorithm}}}}$$
+      5. $$\mathscr{\textcolor{aqua}{\pmb{\text{Manacher Algorithm}}}}$$ 
 
-         
+   9. Miscellaneous:
 
-          
+      1. Meet-in-the-Middle Approach
+
+      2. Konig’s Theorem
+
+      3. Matrix Tree Theorem
+
+      4. Knight Problem
+         $$
+         \Bbb{\textcolor{aqua}{\boxed{\pmb{\mathscr{\text{Joseph Problem} \Rightarrow\begin{cases}
+         &\text{Using recursion in }\Omicron(N^2)\\
+         &\text{Using recursion in }\Omicron(N)
+         \end{cases}}}}}}
+         $$
+
+      5. Hashing
+
+      6. $$\mathscr{\textcolor{aqua}{\pmb{\text{Huffman}}}}$$ Coding
+
+      7. Backtracking with pruning
+
+      8. Finding K-th number from a sequence of unsorted numbers in $$\Omicron(\log N)$$
+
+      9. Matrix exponentiation
+
+      10. $$\mathscr{\textcolor{aqua}{\pmb{\text{Zeller's}}}}$$ Congruence
+
+      11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+
+   10. $$\mathscr{\textcolor{red}{\pmb{\text{Some Useful Library:}}}}$$
+
+       1. Segment Tree Library with Lazy
+       2. ModInt Library
+       3. FFT Library
+       4. Geometry Library
 
 4. Blogs & Sites:
 
@@ -229,15 +277,7 @@
 
 ### Development:
 
-1. ```Markdown
-   $$
-   \begin{align*}
-   y = y(x,t) &= A e^{i\theta} \\
-   &= A (\cos \theta + i \sin \theta) \\
-   &= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\
-   &= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \\
-   &= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \\
-   &= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
-   \end{align*}
-   $$
-   ```
+$$\frac{a}{b}$$
+
+
+
