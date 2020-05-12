@@ -62,22 +62,150 @@
    [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "https://namnamseo.tistory.com/entry/PS-토픽-모음")
 
    1. Number Theory:
+
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
-      2. Advanced:
-         1. Fast Fourier Transform(FFT):
-            1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
-            2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
+
+      2. Fast Power (Binary exponentiation)
+
+      3. GCD and LCM
+
+      4. Prime Generation
+
+         1. Sieve and it’s optimization
+            1. Bitwise Sieve
+
+      5. Modular Inverse (Mod Inverse)
+
+         1. Fermat’s Little Theorem
+
+      6. Big mod ( $$a^b$$ % p)
+
+      7. Euclid and extended euclid
+
+      8. Euler phi and inverse phi
+
+      9. Prime factorization
+
+      10. Sum of Divisor and number of divisor
+
+      11. Factorizing $$n!$$ 
+
+      12. Shanks Algorithm
+
+      13. Probability theory [topcoder]
+
+      14. Dilworth’s Theorem
+
+      15. Chinese Reminder Theorem
+
+      16. Gaussian Elimination
+
+      17. Burnsian Lemma
+
+      18. Finding real roots of a n-degree Equation
+
+      19. Given sum of divisor, Find Possible n
+
+      20. Miller Rabin primality and decimal Test
+
+      21. Pollard’s rho algorithm
+
+      22. $${}^n$$P$$_r$$ and $${}^n$$C$$_r$$ 
+
+      23. Coordinate Compression
+
+      24. XOR transformation
+
+      25. Inclusion and Exclusion
+
+      26. Fibonacci Number
+
+          
+
+          
+
+      27. Advanced:
+
+          1. Fast Fourier Transform(FFT):
+             1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
+             2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
+
    2. Combinatorics:
+
       1. Advanced:
          1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
          2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
          3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
+
    3. Computational Geometry:
+
       1. [Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
       2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
       3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
-   4. Game Theory:
-   5. 
+
+   4. Graph Theory:
+
+      1. Representation and BFS and DFS
+      2. Dijkstra and Variation
+      3. Bellman-Ford Algorithm and it’s variation
+      4. Floyd Warshall and it’s variation
+      5. Johnson’s Algorithm
+      6. Shortest path and k-th shortest path
+         1. SPFA
+         2. Yen’s Algorithm
+      7. Minimum Spanning Tree
+         1. Prims
+         2. Kruskal
+            * For directed graph see also
+      8. Topological Sorting
+         1. using DFS
+         2. Khan’s Algorithm
+      9. Strongly Connected Components
+         1. Kosaraju’s Algorithm
+      10. Articulation Point
+      11. Euler path (Construction and optimization)
+      12. Maximum Flow
+          1. Ford Fulkerson
+          2. Dinic
+      13. Maximum Independent set
+      14. Maximum flow minimum cost
+      15. Largest Clique
+      16. IDA* Search 
+          * Advanced topics
+      17. Stable Marriage Problem
+      18. Stoer Wagner Algorithm 
+          * Finding Minimum Cut
+      19. Planar Graph Detection
+      20. Havel-Hakimi Algorithm
+          * Construct a graph given degree of nodes
+      21. Erdos & Galli Theorem
+      22. 
+
+   5. Game Theory:
+
+      1. Nim
+      2. Grundy Number and DP Formulation
+      3. Alpha Beta Pruning Minimax
+
+   6. Greedy:
+
+      1. Task Scheduling
+
+      2. Maximum sum subarray
+
+         
+
+         \begin{rcases}
+
+         & Pd \\\
+
+         & Dd \\\
+
+         \end{rcases}	&  Kadane’s Algorithm
+
+         
+
+          
 
 4. Blogs & Sites:
 
@@ -101,4 +229,15 @@
 
 ### Development:
 
-1. 
+1. ```Markdown
+   $$
+   \begin{align*}
+   y = y(x,t) &= A e^{i\theta} \\
+   &= A (\cos \theta + i \sin \theta) \\
+   &= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \\
+   &= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \\
+   &= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \\
+   &= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)
+   \end{align*}
+   $$
+   ```
