@@ -78,7 +78,7 @@
 
          1. Fermat’s Little Theorem
 
-      6. Big mod ( $$a^b \mod p $$ ) 
+      6. Big mod ( ![a^b \mod p](https://render.githubusercontent.com/render/math?math=a%5Eb%20%5Cmod%20p) ) 
 
       7. Euclid and extended euclid
 
@@ -198,7 +198,7 @@
          \end{cases}}}}}}
          $$
 
-      3. Maximum rectangle $$ \Omicron (N^2) $$
+      3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
    7. Dynamic Programming:
 
@@ -207,16 +207,16 @@
       3. Broken Profile DP
       4. DP on TREE
       5. Matrix chain Multiplication
-      6. LIS/LDS in $$\Omicron(N \log N) $$
+      6. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
       7. BitMask
 
    8. String Algorithms:
 
-      1. $$\mathscr{\textcolor{aqua}{\pmb{\text{KMP}}}}$$ Mathcher
+      1. KMP Mathcher
       2. Suffix Array
-      3. $$\mathscr{\textcolor{aqua}{\pmb{\text{Aho Chorasic Algorithm}}}}$$
-      4. $$\mathscr{\textcolor{aqua}{\pmb{\text{Z-Algorithm}}}}$$
-      5. $$\mathscr{\textcolor{aqua}{\pmb{\text{Manacher Algorithm}}}}$$ 
+      3. Aho Chorasic Algorithm
+      4. Z-Algorithm
+      5. Manacher Algorithm 
 
    9. Miscellaneous:
 
@@ -240,7 +240,7 @@
 
       7. Backtracking with pruning
 
-      8. Finding K-th number from a sequence of unsorted numbers in $$\Omicron(\log N)$$
+      8. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
 
       9. Matrix exponentiation
 
