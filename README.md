@@ -45,8 +45,6 @@
 
       2. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
 
-      3. 
-
 2. Courses;
 
    1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
@@ -64,67 +62,45 @@
    1. Number Theory:
 
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
-
       2. Fast Power (Binary exponentiation)
-
       3. GCD and LCM
-
       4. Prime Generation
 
          1. Sieve and it’s optimization
             1. Bitwise Sieve
-
       5. Modular Inverse (Mod Inverse)
 
          1. Fermat’s Little Theorem
-
       6. Big mod ( ![a^b \mod p](https://render.githubusercontent.com/render/math?math=a%5Eb%20%5Cmod%20p) ) 
-
       7. Euclid and extended euclid
-
       8. Euler phi and inverse phi
-
       9. Prime factorization
-
       10. Sum of Divisor and number of divisor
-
       11. Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
-
       12. Shanks Algorithm
-
       13. Probability theory [topcoder]
-
       14. Dilworth’s Theorem
-
       15. Chinese Reminder Theorem
-
       16. Gaussian Elimination
-
       17. Burnsian Lemma
-
       18. Finding real roots of a n-degree Equation
-
       19. Given sum of divisor, Find Possible n
-
       20. Miller Rabin primality and decimal Test
-
       21. Pollard’s rho algorithm
-
       22. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
-
       23. Coordinate Compression
-
       24. XOR transformation
-
       25. Inclusion and Exclusion
-
       26. Fibonacci Number
-
-          
-
-          
-
-      27. Advanced:
+      27. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+          1. [Again one](https://tamref.com/30 "https://tamref.com/30")
+      28. Karatsuba algorithm
+      29. Alien’s Trick
+          1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
+          2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
+      30. Sqrt decomposition
+          1. Mo's algorithm
+      31. Advanced:
 
           1. Fast Fourier Transform(FFT):
              1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -137,11 +113,20 @@
          2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
          3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
 
-   3. Computational Geometry:
+   3. Geometry and Computational Geometry:
 
       1. [Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
       2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
       3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
+      4. Convex Hull (Counterclockwise CCW function)
+      5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+      6. Picks Theorem
+      7. Segement-Segment intersection
+      8. Line sweeping
+      9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+      10. Fortune’s Algorithm 
+          1. Voronoi Diagram
+      11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
 
    4. Graph Theory:
 
@@ -179,6 +164,9 @@
       20. Havel-Hakimi Algorithm
           * Construct a graph given degree of nodes
       21. Erdos & Galli Theorem
+      22. Flow
+          1. Network flow
+          2. Flow decomposition
 
    5. Game Theory:
 
@@ -191,7 +179,7 @@
       1. Task Scheduling
 
       2. Maximum sum subarray
-     
+       
             ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
@@ -260,12 +248,37 @@
    9. [Note Book](http://dipusnotebook.blogspot.com/ "http://dipusnotebook.blogspot.com/") Topics with implementation
    10. [Aaman007](https://aaman007.wordpress.com/ "https://aaman007.wordpress.com/") A Noob Programmer's CodeHub… but why?? ;)
    11. [TUNG M PHUNG’S BLOG](https://tungmphung.com/ "https://tungmphung.com/")
+   12. [Yoshipo’s Diary](https://yosupo.hatenablog.com/ "https://yosupo.hatenablog.com/") A moderate Japanese blog-post.
+   13. [tamref.com](https://tamref.com/ "https://tamref.com/")
+   14. [cubelover’s Blog](https://cubelover.tistory.com/ "https://cubelover.tistory.com/")
+   15. [SERBANOLOGY](http://serbanology.com/ "http://serbanology.com/")
 
 5. Data Structure and Algorithm:
 
    1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
    2. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
-   3. 
+   3. Binary Indexed Tree
+   4. Partial sum technique
+   5. Segment Tree
+      1. Lazy Propagation
+      2. sweeping using segment tree
+      3. Persistent segment tree
+         1. merge sort tree associate with PST
+   6. Binary Search Tree
+      1. optimal
+   7. Trie
+      1. Diameter
+      2. Height
+   8. KD-tree
+   9. Disjoint Set Union (DSU)
+   10. Heap and Treap
+   11. Splay tree
+   12. Link-Cut tree
+   13. Sparse Table
+   14. Tree compression
+   15. Range-minimum query
+   16. Least Common Ancestor
+   17. Ternary Search
 
 ### Development:
 
