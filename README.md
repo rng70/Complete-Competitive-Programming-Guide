@@ -110,7 +110,7 @@
 
       21. Pollard’s rho algorithm
 
-      22. <sup>n</sup>P<sub>r</sub> 
+      22. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
 
       23. Coordinate Compression
 
@@ -191,12 +191,8 @@
       1. Task Scheduling
 
       2. Maximum sum subarray
-         $$
-         \Bbb{\textcolor{aqua}{\boxed{\mathscr{\pmb{\text{Kadane's  Algorithm} \Rightarrow \begin{cases}
-          &\text{1-D array in }\Omicron (N)\\
-          &\text{2-D array in }\Omicron (N^3)\\
-         \end{cases}}}}}}
-         $$
+     
+            ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
@@ -226,13 +222,9 @@
 
       3. Matrix Tree Theorem
 
-      4. Knight Problem
-         $$
-         \Bbb{\textcolor{aqua}{\boxed{\pmb{\mathscr{\text{Joseph Problem} \Rightarrow\begin{cases}
-         &\text{Using recursion in }\Omicron(N^2)\\
-         &\text{Using recursion in }\Omicron(N)
-         \end{cases}}}}}}
-         $$
+      4. Counting-out Game
+         
+            ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
 
       5. Hashing
 
