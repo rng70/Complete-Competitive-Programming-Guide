@@ -88,7 +88,7 @@
 
       10. Sum of Divisor and number of divisor
 
-      11. Factorizing $$n!$$ 
+      11. Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
 
       12. Shanks Algorithm
 
@@ -110,7 +110,7 @@
 
       21. Pollard’s rho algorithm
 
-      22. $${}^n$$P$$_r$$ and $${}^n$$C$$_r$$ 
+      22. <sup>n</sup>P<sub>r</sub> 
 
       23. Coordinate Compression
 
@@ -236,7 +236,7 @@
 
       5. Hashing
 
-      6. $$\mathscr{\textcolor{aqua}{\pmb{\text{Huffman}}}}$$ Coding
+      6. Huffman Coding
 
       7. Backtracking with pruning
 
@@ -244,11 +244,11 @@
 
       9. Matrix exponentiation
 
-      10. $$\mathscr{\textcolor{aqua}{\pmb{\text{Zeller's}}}}$$ Congruence
+      10. Zeller's Congruence
 
       11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
 
-   10. $$\mathscr{\textcolor{red}{\pmb{\text{Some Useful Library:}}}}$$
+   10. Some Useful Library:
 
        1. Segment Tree Library with Lazy
        2. ModInt Library
@@ -276,8 +276,6 @@
    3. 
 
 ### Development:
-
-$$\frac{a}{b}$$
 
 
 
