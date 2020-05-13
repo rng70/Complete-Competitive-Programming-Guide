@@ -1,3 +1,99 @@
+Some notation that was followed here : 
+	D - if a topics starts with "D - name" means it's a data structure 
+	A - if a topics starts with "A - name" means it's a algorithms
+	U - if a topics starts with "U - name" means it's unknown to me but found somewhere
+
+
+STL :
+	- String 
+	- vector
+	- pair
+	- stack
+	- queue
+	- dequeue
+	- sort
+	- reverse
+	- next_permutation
+	- set
+	- map
+	- iterator
+	- priority_queue
+Number Theory : 
+	- Fast Power (Binary exponentiation)
+	- GCD, LCM
+	- Prime Generation
+	- Sieve and it's optimization
+	- Bitwise Sieve
+	- Modular Arithmatic
+	- Modular Inverse (Mod Inverse) (Fermat’s Little Theorem)
+	- Big Mod ( a^b % p )
+	- Extended Euclid
+	- Euler phi and inverse phi
+	- Prime Factorization
+	- Number of divisor
+	- Sum of Divisor
+	- Factorizing n!
+	- Shanks Algorithm
+	- Probability Theory ( topcoder )
+	- Dilworth's Theorem
+	- Chinese Reminder Theorem
+	- Gaussian Elinimation
+	- Burnsian Lemma
+	- Finding real roots of a n-degree Equation
+	- Given sum of divisors, Find possible n
+	- Miller Rabin primality test
+	- Pollard's rho algorithm
+	- nPr
+	- nC
+	- Compute ignition with matrix
+	- Coordinate compression
+	- Miller-Rabin decimal test
+	- FFT 
+		-- XOR transformation
+	-  Inclusion Exclusion (Basic)
+	- Fibonacci Number
+	- Bitwise Operation
+	- Probability and expectations
+
+Graph Theory :
+	- Graph representation ( adjacency list & matrix ) 
+	- BFS
+	- DFS
+	- Dijkstra and variations
+	- Topological Sorting ( i.e Khan's Algorithm )
+	- Strongly Connected Components (SCC)
+	- Bicoloring
+	- Articulation Point
+	- Bridge
+	- Bellman ford and variations
+	- Floyd Warshall and variations
+	- k-th shortest path
+	- Minimum Spanning Tree ( Prims , Kruskal )
+	- Minimum Spanning Tree ( Directed Graph)
+	- Euler Path (Construction and optimization)
+	- Maximum Flow ( Ford Fulkerson, Dinic )
+	- Maximum Bipartite Matching and variations
+	- Maximum Independent Set
+	- Minimum cont maximum flow
+	- Vertex and Edge cover
+	- Largest Clique
+	- Weighted Bipartite Matching
+	- IDA* Search Problem(15 puzzle)
+	- Group Theory
+	- Hamiltonian cycle
+	- Minimum weight cycles 
+	- Graph coloring
+	- Stable Marriage Problem
+	- Stoer Wagner Algorithm ( finding minimum cut of a graph )
+	- Planar Graph Detection
+	- Havel-Hakimi Algorithm ( Construct a graph given degree of nodes )
+	- Erdos & Gallai Theorem
+	- Biconnected Components
+	- Shortest path algorithm called SPFA
+Game Theorty:
+	- Nim
+	- Grundy Number and DP Formulation
+	- Alpha Beta Pruning Minimax
 Geometry:
 	- Convex Hull ( CCW (counterclockwise) function ) 
 	- Point inside Convex Polygon ( log(n) )
@@ -14,6 +110,17 @@ Geometry:
 	- Closest pair
 	- Voronoi Diagrams using Fortune's algorithms
 	- Largest empty circle ( O(nlog(n)) )
+
+String Algorithms:
+	- KMP Matcher
+	- Suffix Array Construction
+	- Longest Common Substring(LCS)
+	- Aho Chorasic Algorithm
+	- Z Algorithm
+	- Longest Common Pallindromic Subsquence(LCPS)
+	- Shortest Common SuperString
+	- Manacher Algorithm . Suffix array and longest common prefix . failure function and KMP algorithm.
+	- String Hasing
 Algorithms without no Category:
 	- Binary Search 
 	- Ternary Search
@@ -45,3 +152,47 @@ Data Structure:
 	- Diameter of a tree
 	- Sparse table
 	- tree compression
+Dynamic Programming : 
+	- Bitmask 
+	- Modular DP (DP with MOD value as state)
+	- Coin change
+	- Edit Distance
+	- LIS/LDS in nlog(n)
+	- Matrix Chain Multiplication
+	- DP on tree
+	- Broken Profile DP
+	- Digit DP
+	
+Greedy Algorithms : 
+	- Task Scheduling
+	- Maximum Sum Subarray
+		- 1D in O(n) { Kadane's Algorithm }
+		- 2D in O(n^3) { Kadane's Algorithm }
+	- Maximum Rectangle O(n^2)
+Some Useful Libraries:
+	- Segment tree library
+	- Lazy segment tree libraries
+	- ModInt library
+	- FFT library
+	- Geometry library
+	
+Miscellaneous:
+	- Meet in the Middle Approach
+	- Konigs Theorem
+	- Matrix Tree Theorem
+	- Joseph Problem (Using queue n^2)
+	- Joseph Problem (Using recursion n)
+	- Manaing BigInteger
+	- Permutations and Combinations
+	- Tower of Hanoi and variations .i.e Multi peg
+	- N Queens Problem
+	- Hashing
+	- Finding N-th permutation
+	- Huffman coding
+	- Travelling salesman Problem ( Backtracking with pruning)
+	- Finding Determinant of a Matrix
+	- Finding k-th number from a sequence of unsorted numbers in log(n)
+	- Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+	- Matrix Multiplication
+	- Solving Linear Recurrence with Matrix Exponentiation
+	- Zeller’s Congruence
