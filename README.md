@@ -179,7 +179,7 @@
       1. Task Scheduling
 
       2. Maximum sum subarray
-       
+      
             ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
@@ -257,28 +257,30 @@
 
    1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
    2. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
-   3. Binary Indexed Tree
    4. Partial sum technique
-   5. Segment Tree
-      1. Lazy Propagation
-      2. sweeping using segment tree
-      3. Persistent segment tree
-         1. merge sort tree associate with PST
-   6. Binary Search Tree
-      1. optimal
    7. Trie
       1. Diameter
       2. Height
-   8. KD-tree
-   9. Disjoint Set Union (DSU)
-   10. Heap and Treap
-   11. Splay tree
-   12. Link-Cut tree
-   13. Sparse Table
-   14. Tree compression
-   15. Range-minimum query
-   16. Least Common Ancestor
-   17. Ternary Search
+   5. Tree
+      1. Binary Search Tree (BST)
+         1. Optimal
+      2. Binary Indexed Tree
+      3. Segment Tree
+         1. Lazy Propagation
+         2. Sweeping using segment tree
+         3. Persistent Segment tree
+            1. merge sort tree associate with PST
+      4. Splay Tree
+      5. Link-Cut Tree
+      6. Wavelet Tree
+      7. KD-tree
+   6. Disjoint Set Union (DSU)
+   7. Heap and Treap
+   8. Sparse Table
+   9. Tree compression
+   10. Range-minimum query
+   11. Least Common Ancestor
+   12. Ternary Search
 
 ### Development:
 
