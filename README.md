@@ -49,7 +49,7 @@
 
    1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
    2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
-   3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know russian well then it is a good place for you to learn.
+   3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
 
 3. Topics:
 
@@ -72,35 +72,42 @@
 
          1. Fermat’s Little Theorem
       6. Big mod ( ![a^b \mod p](https://render.githubusercontent.com/render/math?math=a%5Eb%20%5Cmod%20p) ) 
-      7. Euclid and extended euclid
-      8. Euler phi and inverse phi
-      9. Prime factorization
-      10. Sum of Divisor and number of divisor
-      11. Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
-      12. Shanks Algorithm
-      13. Probability theory [topcoder]
-      14. Dilworth’s Theorem
-      15. Chinese Reminder Theorem
-      16. Gaussian Elimination
-      17. Burnsian Lemma
-      18. Finding real roots of a n-degree Equation
-      19. Given sum of divisor, Find Possible n
-      20. Miller Rabin primality and decimal Test
-      21. Pollard’s rho algorithm
-      22. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
-      23. Coordinate Compression
-      24. XOR transformation
-      25. Inclusion and Exclusion
-      26. Fibonacci Number
-      27. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+      7. Euclid and extended Euclid
+      8. Hensel's lemma
+      9. Euler phi and inverse phi
+      10. Prime factorization
+          1. Quadratic sievep
+      11. Sum of Divisor and number of divisor
+      12. Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
+      13. Shanks Algorithm
+      14. Probability theory [topcoder]
+      15. Dilworth’s Theorem
+      16. Bezout’s Identity
+      17. Chinese Reminder Theorem
+      18. Gaussian Elimination
+      19. Burnsian Lemma
+      20. Finding real roots of a n-degree Equation
+      21. Given sum of divisor, Find Possible n
+      22. Miller Rabin primality and decimal Test
+      23. Pollard’s rho algorithm
+      24. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
+      25. Binomial coefficient
+      26. Burnside's lemma
+      27. Coordinate Compression
+      28. XOR transformation
+      29. Inclusion and Exclusion
+      30. Fibonacci Number
+      31. Derangements
+      32. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
           1. [Again one](https://tamref.com/30 "https://tamref.com/30")
-      28. Karatsuba algorithm
-      29. Alien’s Trick
+      33. Karatsuba algorithm
+      34. Mirsky’s Theorem
+      35. Alien’s Trick
           1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
           2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      30. Sqrt decomposition
+      36. Sqrt decomposition
           1. Mo's algorithm
-      31. Advanced:
+      37. Advanced:
 
           1. Fast Fourier Transform(FFT):
              1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -115,58 +122,78 @@
 
    3. Geometry and Computational Geometry:
 
-      1. [Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
+      1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
       2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
       3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
-      4. Convex Hull (Counterclockwise CCW function)
+      4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
       5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
-      6. Picks Theorem
-      7. Segement-Segment intersection
+      6. Pick’s Theorem
+      7. Segment-Segment intersection
       8. Line sweeping
       9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
       10. Fortune’s Algorithm 
           1. Voronoi Diagram
       11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+      12. Delaunay triangulation
 
    4. Graph Theory:
 
       1. Representation and BFS and DFS
       2. Dijkstra and Variation
       3. Bellman-Ford Algorithm and it’s variation
-      4. Floyd Warshall and it’s variation
-      5. Johnson’s Algorithm
-      6. Shortest path and k-th shortest path
+      4. Eularian Paths
+         1. Hierhozer’s Algorithm
+      5. Floyd Warshall and it’s variation
+      6. Johnson’s Algorithm
+      7. Shortest path and k-th shortest path
          1. SPFA
          2. Yen’s Algorithm
-      7. Minimum Spanning Tree
+         3. Seidel's  algorithm, unweighted APSP
+      8. Minimum Spanning Tree
          1. Prims
          2. Kruskal
             * For directed graph see also
-      8. Topological Sorting
+      9. Topological Sorting
          1. using DFS
          2. Khan’s Algorithm
-      9. Strongly Connected Components
+      10. Strongly Connected Components
          1. Kosaraju’s Algorithm
-      10. Articulation Point
-      11. Euler path (Construction and optimization)
-      12. Maximum Flow
+      11. Articulation Point
+      12. Euler path (Construction and optimization)
+      13. Maximum Flow
           1. Ford Fulkerson
           2. Dinic
-      13. Maximum Independent set
-      14. Maximum flow minimum cost
-      15. Largest Clique
-      16. IDA* Search 
+      14. Maximum Independent set
+      15. Maximum flow minimum cost
+      16. Largest Clique
+      17. IDA* Search (Iterative deepening  and Iterative deepening A*)
           * Advanced topics
-      17. Stable Marriage Problem
-      18. Stoer Wagner Algorithm 
+      18. Stable Marriage Problem
+      19. Stoer Wagner Algorithm 
           * Finding Minimum Cut
-      19. Planar Graph Detection
-      20. Havel-Hakimi Algorithm
+      20. Planar Graph Detection
+      21. Havel-Hakimi Algorithm
           * Construct a graph given degree of nodes
-      21. Erdos & Galli Theorem
-      22. Flow
-          1. Network flow
-          2. Flow decomposition
+      22. Erdos & Galli Theorem
+      23. DAG and Grid
+      24. Numbers
+          1. Euler
+          2. Catalan
+          3. Stirling
+             1. First Kind
+             2. Second Kind
+      25. Level ancestors and Ladder Algorithm
+      26. Flow
+          1. Max-flow-Min-cut theorem
+          2. Push–relabel maximum flow algorithm
+          3. Min cost flow (lower priority)
+          4. Network flow
+          5. Flow decomposition
+      27. Constraint satisfaction problem
+      28. Kirchhoff's  Matrix Tree Theorem
+      29. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
+      30. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
+          1. Lengauer-Tarjan Algorithm
 
    5. Game Theory:
 
@@ -188,19 +215,31 @@
 
       1. Modular DP (DP with MOD value as state)
       2. Digit DP
-      3. Broken Profile DP
-      4. DP on TREE
-      5. Matrix chain Multiplication
-      6. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      7. BitMask
+      3. DP with counting
+      4. Broken Profile DP
+      5. DP on TREE
+         1. DP On  Rooted Trees
+         2. DP On  DAGs
+         3. Path  Counting using Matrix Exponentiation
+         4. Tree  Child-Sibling notation DP
+         5. Tree-rerooting DP
+         6. Unrooted Tree DP
+      6. Matrix chain Multiplication
+      7. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+      8. Bitmask
+         1. Subset Bitmask DP
+            1. ternary bitmask DP
 
    8. String Algorithms:
 
-      1. KMP Mathcher
-      2. Suffix Array
+      1. KMP Matcher
+      2. Suffix Array and Suffix Tree
+         1. Ukkonen's Algorithm
       3. Aho Chorasic Algorithm
       4. Z-Algorithm
-      5. Manacher Algorithm 
+      5. Manacher Algorithm
+      6. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
+      7. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
 
    9. Miscellaneous:
 
@@ -227,6 +266,14 @@
       10. Zeller's Congruence
 
       11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+
+      12. Knight tours
+
+      13. Simulated annealing and Hill climbing
+
+      14. 15 Puzzle
+
+             1. A* and Meet-in-the-Middle
 
    10. Some Useful Library:
 
@@ -255,32 +302,105 @@
 
 5. Data Structure and Algorithm:
 
-   1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
-   2. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
-   4. Partial sum technique
-   7. Trie
-      1. Diameter
-      2. Height
-   5. Tree
-      1. Binary Search Tree (BST)
-         1. Optimal
-      2. Binary Indexed Tree
-      3. Segment Tree
-         1. Lazy Propagation
-         2. Sweeping using segment tree
-         3. Persistent Segment tree
-            1. merge sort tree associate with PST
-      4. Splay Tree
-      5. Link-Cut Tree
-      6. Wavelet Tree
-      7. KD-tree
-   6. Disjoint Set Union (DSU)
-   7. Heap and Treap
-   8. Sparse Table
-   9. Tree compression
-   10. Range-minimum query
-   11. Least Common Ancestor
-   12. Ternary Search
+   1. Data Structure:
+
+      1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
+
+      2. Array and Linked List
+
+         1. Singly linked list
+         2. Doubly linked list
+         3. Multiply linked list
+         4. Circular linked list
+         5. XOR Linked list
+
+      3. Stack, Queue and Deque
+
+      4. Persistent
+
+         1. Array
+         2. Stack
+         3. Queue
+
+      5. Trie
+
+         1. Diameter
+         2. Height
+
+      6. Tree
+
+         Traversal ( Pre-Post-In-Level-&-Reversed Order)
+
+         1. Binary Search Tree (BST)
+            1. Optimal
+            2. Randomized BST
+            3. [Augmented BST + BST as Segment Tree](https://codeforces.com/blog/entry/15890 "https://codeforces.com/blog/entry/15890")
+         2. Binary Indexed Tree (Fenwick Tree)
+            1. Point Update + Range Query
+            2. Range Update + Point Query
+         3. [Segment Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
+            1. With and without Lazy Propagation
+            2. Sweeping using segment tree
+            3. Persistent Segment tree
+               1. merge sort tree associate with PST
+            4. Binary Search on ST
+            5. 2D Segment Tree
+         4. AVL tree
+         5. Red-Black Tree
+         6. Splay Tree
+         7. Link-Cut Tree
+         8. Wavelet Tree
+         9. KD-tree
+         10. [Euler tour Tree](https://codeforces.com/blog/entry/18369 "https://codeforces.com/blog/entry/18369") not a data structure but it’s a tree 
+         11. Scapegoat tree
+
+      7. Disjoint Set Union (DSU)
+
+      8. Heap and Treap
+
+         1. Binomial Heap
+         2. Priority Queue
+         3. [Treap with lazy propagation](https://codeforces.com/blog/entry/10314 "https://codeforces.com/blog/entry/10314")
+
+      9. Sparse Table
+
+      10. Tree compression
+
+      11. Least Common Ancestor
+
+      12. [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html "https://cp-algorithms.com/algebra/big-integer.html")
+
+      13. Prefix Sum
+
+      14. Decremental connectivity
+
+          1. Online
+          2. Offline
+
+   2. Algorithms:
+
+      1. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
+      2. Partial sum technique
+      3. Sorting
+         1. Insertion
+         2. Merge & Quick
+         3. Counting
+         4. Radix
+         5. Heap
+      4. Searching
+         1. Linear
+         2. Binary 
+         3. Ternary
+         4. Interpolation
+         5. Exponential 
+         6. Alpha-beta pruning
+      5. [Quick Select Algorithm](https://www.techiedelight.com/quickselect-algorithm/ "https://www.techiedelight.com/quickselect-algorithm/")
+      6. Range-minimum query
+         1. [RMQ = LCA](https://cp-algorithms.com/graph/rmq_linear.html "https://cp-algorithms.com/graph/rmq_linear.html")
+         2. [Sliding RMQ](https://wcipeg.com/wiki/Sliding_range_minimum_query "https://wcipeg.com/wiki/Sliding_range_minimum_query")
+      7. [String Search Algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm "https://en.wikipedia.org/wiki/String-searching_algorithm")
+      8. Ant colony optimization algorithm
+      9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
 
 ### Development:
 
