@@ -31,6 +31,8 @@
 
 [HAlexV - Competitive Programming Resources](https://halexv.blogspot.com/2015/10/competitive-programming-resources.html "https://halexv.blogspot.com/2015/10/competitive-programming-resources.html") and [BlogPosts](https://halexv.blogspot.com/)
 
+[Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#_=_ "https://github.com/lnishan/awesome-competitive-programming#_=_")
+
 1. Online Judges(Practice):
 
    1. [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
@@ -64,6 +66,8 @@
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
       2. Fast Power (Binary exponentiation)
       3. GCD and LCM
+         1. Binary GCD algorithm(Stein’s Algorithm)
+         2.  Euclidean algorithm
       4. Prime Generation
 
          1. Sieve and it’s optimization
@@ -98,16 +102,18 @@
       29. Inclusion and Exclusion
       30. Fibonacci Number
       31. Derangements
-      32. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+      32. Möbius function
+      33. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
           1. [Again one](https://tamref.com/30 "https://tamref.com/30")
-      33. Karatsuba algorithm
-      34. Mirsky’s Theorem
-      35. Alien’s Trick
+      34. Karatsuba algorithm
+      35. Mertens' theorem
+      36. Mirsky’s Theorem
+      37. Alien’s Trick
           1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
           2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      36. Sqrt decomposition
+      38. Sqrt decomposition
           1. Mo's algorithm
-      37. Advanced:
+      39. Advanced:
 
           1. Fast Fourier Transform(FFT):
              1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -149,6 +155,7 @@
          1. SPFA
          2. Yen’s Algorithm
          3. Seidel's  algorithm, unweighted APSP
+         4. 0-1 BFS
       8. Minimum Spanning Tree
          1. Prims
          2. Kruskal
@@ -176,23 +183,24 @@
           * Construct a graph given degree of nodes
       22. Erdos & Galli Theorem
       23. DAG and Grid
-      24. Numbers
+      25. Modular decomposition
+      26. Numbers
           1. Euler
           2. Catalan
           3. Stirling
              1. First Kind
              2. Second Kind
-      25. Level ancestors and Ladder Algorithm
-      26. Flow
+      27. Level ancestors and Ladder Algorithm
+      28. Flow
           1. Max-flow-Min-cut theorem
           2. Push–relabel maximum flow algorithm
           3. Min cost flow (lower priority)
           4. Network flow
           5. Flow decomposition
-      27. Constraint satisfaction problem
-      28. Kirchhoff's  Matrix Tree Theorem
-      29. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
-      30. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
+      29. Constraint satisfaction problem
+      30. Kirchhoff's  Matrix Tree Theorem
+      31. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
+      32. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
           1. Lengauer-Tarjan Algorithm
 
    5. Game Theory:
@@ -229,6 +237,7 @@
       8. Bitmask
          1. Subset Bitmask DP
             1. ternary bitmask DP
+      9. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
 
    8. String Algorithms:
 
@@ -240,8 +249,15 @@
       5. Manacher Algorithm
       6. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
       7. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
+      8. Levenshtein distance
 
-   9. Miscellaneous:
+   9. Bitwise:
+
+      1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
+      2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
+      3. 
+
+   10. Miscellaneous:
 
       1. Meet-in-the-Middle Approach
 
@@ -275,7 +291,7 @@
 
              1. A* and Meet-in-the-Middle
 
-   10. Some Useful Library:
+   11. Some Useful Library:
 
        1. Segment Tree Library with Lazy
        2. ModInt Library
@@ -299,10 +315,13 @@
    13. [tamref.com](https://tamref.com/ "https://tamref.com/")
    14. [cubelover’s Blog](https://cubelover.tistory.com/ "https://cubelover.tistory.com/")
    15. [SERBANOLOGY](http://serbanology.com/ "http://serbanology.com/")
+   16. [Programming Pages](http://programming.sirrida.de "http://programming.sirrida.de")
 
 5. Data Structure and Algorithm:
 
    1. Data Structure:
+
+      [Lists of Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures "https://en.wikipedia.org/wiki/List_of_data_structures")
 
       1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
 
@@ -338,6 +357,7 @@
          2. Binary Indexed Tree (Fenwick Tree)
             1. Point Update + Range Query
             2. Range Update + Point Query
+            3. [Where's the tree in Fenwick tree?](https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE "https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE")
          3. [Segment Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
             1. With and without Lazy Propagation
             2. Sweeping using segment tree
@@ -379,6 +399,8 @@
 
    2. Algorithms:
 
+      [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
+
       1. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
       2. Partial sum technique
       3. Sorting
@@ -401,14 +423,24 @@
       7. [String Search Algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm "https://en.wikipedia.org/wiki/String-searching_algorithm")
       8. Ant colony optimization algorithm
       9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
-      
+      10. [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/ "http://aggregate.org/MAGIC/")
+      11. [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html "https://graphics.stanford.edu/~seander/bithacks.html")
+
    3. STL
-   
+
       1. [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers")
       2. [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/ "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/")
       3. [STL Basics GeeksforGeeks](http://www.geeksforgeeks.org/cpp-stl-tutorial/ "http://www.geeksforgeeks.org/cpp-stl-tutorial/")
       4. [Pairs](http://www.geeksforgeeks.org/pair-in-cpp-stl/ "http://www.geeksforgeeks.org/pair-in-cpp-stl/")
       5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
+      6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
+
+6. Challenges:
+
+   1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
+   2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
+   3. [Tech-Interview](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/ "https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/")
+   4. 
 
 ### Development:
 
