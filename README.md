@@ -37,6 +37,10 @@
 
 [CPBR](https://discuss.codechef.com/t/competitive-programming-best-resource/29619 "https://discuss.codechef.com/t/competitive-programming-best-resource/29619")
 
+[CP-resources](https://codeforces.com/topic/48102/en4 "https://codeforces.com/topic/48102/en4")
+
+[All the good tutorials found for Competitive Programming](https://codeforces.com/blog/entry/57282)
+
 1. Online Judges(Practice):
 
    1. [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
@@ -84,6 +88,7 @@
 
          1. Sieve and it’s optimization
             1. Bitwise Sieve
+            2. Segmented Sieve
       5. Modular Inverse (Mod Inverse)
 
          1. Fermat’s Little Theorem
@@ -92,7 +97,7 @@
       8. Hensel's lemma
       9. Euler phi and inverse phi
       10. Prime factorization
-             1. Quadratic sievep
+             1. Quadratic sieve
       11. Sum of Divisor and number of divisor
       12. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
       13. Shanks Algorithm
@@ -120,12 +125,13 @@
       34. Karatsuba algorithm
       35. Mertens' theorem
       36. Mirsky’s Theorem
-      37. Alien’s Trick
+      37. Faulhaber's formula
+      38. Alien’s Trick
              1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      38. Sqrt decomposition
+      39. Sqrt decomposition
              1. Mo's algorithm
-      39. Advanced:
+      40. Advanced:
 
              1. Fast Fourier Transform(FFT):
                 1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -219,6 +225,9 @@
       31. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
       32. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
           1. Lengauer-Tarjan Algorithm
+      33. Kempe’s Graph-coloring Algorithm
+          1. Chaitin's algorithm
+          2. Kempe’s Algorithm
 
    5. Game Theory:
 
@@ -238,23 +247,32 @@
 
    7. Dynamic Programming:
 
+      [[Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)]
+
       1. Modular DP (DP with MOD value as state)
       2. Digit DP
       3. DP with counting
-      4. Broken Profile DP
-      5. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
+      4. [DP with Profile](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html "http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html")
+         1. [Broken Profile DP](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html "https://cp-algorithms.com/dynamic_programming/profile-dynamics.html")
+            1. [tcBrokenProfile](https://apps.topcoder.com/forums/?module=Thread&threadID=697369 "https://apps.topcoder.com/forums/?module=Thread&threadID=697369")
+            2. [cfBrokenProfile](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html "https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html")
+      5. [SOS DP](https://codeforces.com/blog/entry/45223 "https://codeforces.com/blog/entry/45223")
+      6. [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
+      7. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
          1. DP On  Rooted Trees
          2. DP On  DAGs
          3. Path  Counting using Matrix Exponentiation
          4. Tree  Child-Sibling notation DP
          5. Tree-rerooting DP
          6. Unrooted Tree DP
-      6. Matrix chain Multiplication
-      7. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      8. Bitmask
+         7. [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
+      8. Matrix chain Multiplication
+      9. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+      10. Bitmask
          1. Subset Bitmask DP
             1. ternary bitmask DP
-      9. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
+      11. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
+          1. [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
 
    8. String Algorithms:
 
@@ -272,43 +290,46 @@
 
       1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
       2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
-      3. 
+      3. [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html "https://graphics.stanford.edu/~seander/bithacks.html")
+      4. [zobayer’s Blog](http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html "http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html")
+      5. [catonmat bit hacks](https://catonmat.net/low-level-bit-hacks "https://catonmat.net/low-level-bit-hacks")
+      6. [Understanding Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
 
    10. Miscellaneous:
 
-      11. Meet-in-the-Middle Approach
+          1. Meet-in-the-Middle Approach
 
-      12. Konig’s Theorem
+          2. Konig’s Theorem
 
-      13. Matrix Tree Theorem
+          3. Matrix Tree Theorem
 
-      14. Counting-out Game
+          4. Counting-out Game
 
-             ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
+             ​	![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
 
-      15. Hashing
+          5. Hashing
 
-      16. Huffman Coding
+          6. Huffman Coding
 
-      17. Backtracking with pruning
+          7. Backtracking with pruning
 
-      18. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+          8. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
 
-      19. Matrix exponentiation
+          9. Matrix exponentiation
 
-      20. Zeller's Congruence
+          10. Zeller's Congruence
 
-      21. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+          11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
 
-      22. Knight tours
+          12. Knight tours
 
-      23. Simulated annealing and Hill climbing
+          13. Simulated annealing and Hill climbing
 
-      24. 15 Puzzle
+          14. 15 Puzzle 
 
-                1. A* and Meet-in-the-Middle
+                 1. A* and Meet-in-the-Middle
 
-   25. Some Useful Library:
+   11. Some Useful Library:
 
           1. Segment Tree Library with Lazy
           2. ModInt Library
@@ -340,10 +361,24 @@
    21. [CodeUp](https://codeup.kr/index.php "https://codeup.kr/index.php")
    22. [Useful links](https://codeforces.com/blog/entry/512 "https://codeforces.com/blog/entry/512")
    23. [Dev Skill](https://devskill.com "https://devskill.com")
+   24. [CodeMarshal Blog](https://www.codemarshal.com/blog/ "https://www.codemarshal.com/blog/")
+   25. [XiTiJ](http://xitijshukla.blogspot.com "http://xitijshukla.blogspot.com")
+   26. [SEVERYN KOZAK](https://sevko.io/)
+   27. [Andrew's Algorithm Solutions](http://andrew-algorithm.blogspot.com/)
+   28. [vexorian's blog](https://www.vexorian.com)
+   29. [MATHBLOG](http://www.mathblog.dk "http://www.mathblog.dk")
+   30. [ProbToreal](https://ojsolver.blogspot.com "https://ojsolver.blogspot.com")
+   31. [Blog of AsEs](https://adnansarker.wordpress.com/)
+   32. [Techie Delight](https://www.techiedelight.com "https://www.techiedelight.com")
+   33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
 
 5. Data Structure and Algorithm:
 
    [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
+
+   [All you need](https://discuss.codechef.com/t/ds-and-algo-competitive-programming-all-you-need/9783)
+
+   [Again-One](https://codeforces.com/blog/entry/16221 "https://codeforces.com/blog/entry/16221")
 
    1. Data Structure:
 
@@ -380,6 +415,7 @@
             1. Optimal
             2. Randomized BST
             3. [Augmented BST + BST as Segment Tree](https://codeforces.com/blog/entry/15890 "https://codeforces.com/blog/entry/15890")
+            4. Order statistic tree
          2. Binary Indexed Tree (Fenwick Tree)
             1. Point Update + Range Query
             2. Range Update + Point Query
@@ -395,7 +431,7 @@
          5. Red-Black Tree
          6. Splay Tree
          7. Link-Cut Tree
-         8. Wavelet Tree
+         8. [Wavelet Tree](https://codeforces.com/blog/entry/52854 "https://codeforces.com/blog/entry/52854")
          9. KD-tree
          10. [Euler tour Tree](https://codeforces.com/blog/entry/18369 "https://codeforces.com/blog/entry/18369") not a data structure but it’s a tree 
          11. Scapegoat tree
@@ -429,6 +465,8 @@
 
       [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
 
+      [FXT: a library of algorithms](https://www.jjj.de/fxt/#fxtbook "https://www.jjj.de/fxt/#fxtbook")
+
       1. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
       2. Partial sum technique
       3. Sorting
@@ -452,7 +490,6 @@
       8. Ant colony optimization algorithm
       9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
       10. [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/ "http://aggregate.org/MAGIC/")
-      11. [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html "https://graphics.stanford.edu/~seander/bithacks.html")
 
    3. STL
 
@@ -468,14 +505,17 @@
    1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
    2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
    3. [Tech-Interview](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/ "https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/")
-   4. 
+   4. [An awesome beginner’s list for competitive programming](https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/ "https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/")
+   5. [Dhaka regional Analysis](https://docs.google.com/document/d/10XeCliJagbMGmMTajx5m9v59LC1Dhgd32nhqLWOUd3E/edit?fbclid=IwAR2XGGmvZu3DmRL3gc8pTB0U6qJBjQw8AsDAOmV2pLhts24kMnYiZCB2pvw#heading=h.dpgebo8zawhc)
+   6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
 
 ### Development:
 
 1. Web Development:
    1. Guide:
       1. [Programmer-Roadmap](https://github.com/kamranahmedse/developer-roadmap "https://github.com/kamranahmedse/developer-roadmap") This is pretty much good guideline for web developers
-      2. 
+      
+         
 
 ---
 
@@ -495,7 +535,7 @@
 
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 
-নতুন লিংক সংযোজন বা যে কোনো পরিবর্তন, পরিবর্ধনের জন্য পুল(Pull) রিকোয়েস্ট করুন। প্রতিটি কমিটে (Commit) একটির বেশি লিংক সংযোজন না করার অনুরোধ রইলো।
+[বাংলা ভাষায় লেখা প্রোগ্রামিং এর সবচেয়ে বড় রিসোর্স কালেকশন](https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1 "https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1")
 
 
 
@@ -557,6 +597,14 @@
 - [হাসিন হায়দার](https://hasin.me/)
 - [দিবাকর সূত্রধর](https://with.dibakar.me/)
 - [জুনায়েদ আহমেদ](https://with.zonayed.me/bn)
+
+---
+
+---
+
+#### Not Listed:
+
+1. [হাবিজাবি হিজিবিজবিজ](https://zobayer2009.wordpress.com/)
 
 ---
 
