@@ -33,6 +33,10 @@
 
 [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#_=_ "https://github.com/lnishan/awesome-competitive-programming#_=_")
 
+[Getting Started](https://www.codechef.com/getting-started "https://www.codechef.com/getting-started")
+
+[CPBR](https://discuss.codechef.com/t/competitive-programming-best-resource/29619 "https://discuss.codechef.com/t/competitive-programming-best-resource/29619")
+
 1. Online Judges(Practice):
 
    1. [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
@@ -46,6 +50,8 @@
          Do you love interactive problem? Then it is really appropriate for you.
 
       2. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
+      
+      3. [oj.uz](https://oj.uz/ "https://oj.uz/") this site is good enough for practice.
 
 2. Courses;
 
@@ -61,7 +67,13 @@
 
    [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "https://namnamseo.tistory.com/entry/PS-토픽-모음")
 
+   [Problem Topics](https://codeforces.com/blog/entry/55274 "https://codeforces.com/blog/entry/55274")
+
    1. Number Theory:
+
+      [Number Theory for CP](https://www.geeksforgeeks.org/number-theory-competitive-programming/ "https://www.geeksforgeeks.org/number-theory-competitive-programming/")
+
+      [DSA](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4 "https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4")
 
       1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
       2. Fast Power (Binary exponentiation)
@@ -80,9 +92,9 @@
       8. Hensel's lemma
       9. Euler phi and inverse phi
       10. Prime factorization
-          1. Quadratic sievep
+             1. Quadratic sievep
       11. Sum of Divisor and number of divisor
-      12. Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
+      12. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
       13. Shanks Algorithm
       14. Probability theory [topcoder]
       15. Dilworth’s Theorem
@@ -104,20 +116,22 @@
       31. Derangements
       32. Möbius function
       33. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
-          1. [Again one](https://tamref.com/30 "https://tamref.com/30")
+             1. [Again one](https://tamref.com/30 "https://tamref.com/30")
       34. Karatsuba algorithm
       35. Mertens' theorem
       36. Mirsky’s Theorem
       37. Alien’s Trick
-          1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
-          2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
+             1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
+             2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
       38. Sqrt decomposition
-          1. Mo's algorithm
+             1. Mo's algorithm
       39. Advanced:
 
-          1. Fast Fourier Transform(FFT):
-             1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
-             2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
+             1. Fast Fourier Transform(FFT):
+                1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
+                2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
+                3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
+             2. Fast Walsh–Hadamard transform
 
    2. Combinatorics:
 
@@ -160,6 +174,9 @@
          1. Prims
          2. Kruskal
             * For directed graph see also
+         3. [Chu–Liu/Edmonds' algorithm](https://en.wikipedia.org/wiki/Edmonds%27_algorithm "https://en.wikipedia.org/wiki/Edmonds%27_algorithm")
+            1. [directed-mst](https://github.com/stjepang/snippets/blob/master/directed_mst.cpp "https://github.com/stjepang/snippets/blob/master/directed_mst.cpp")
+         4. Reverse-Delete Algorithm
       9. Topological Sorting
          1. using DFS
          2. Khan’s Algorithm
@@ -214,7 +231,7 @@
       1. Task Scheduling
 
       2. Maximum sum subarray
-      
+
             ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
@@ -225,7 +242,7 @@
       2. Digit DP
       3. DP with counting
       4. Broken Profile DP
-      5. DP on TREE
+      5. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
          1. DP On  Rooted Trees
          2. DP On  DAGs
          3. Path  Counting using Matrix Exponentiation
@@ -259,44 +276,44 @@
 
    10. Miscellaneous:
 
-      1. Meet-in-the-Middle Approach
+      11. Meet-in-the-Middle Approach
 
-      2. Konig’s Theorem
+      12. Konig’s Theorem
 
-      3. Matrix Tree Theorem
+      13. Matrix Tree Theorem
 
-      4. Counting-out Game
-         
-            ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
+      14. Counting-out Game
 
-      5. Hashing
+             ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
 
-      6. Huffman Coding
+      15. Hashing
 
-      7. Backtracking with pruning
+      16. Huffman Coding
 
-      8. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+      17. Backtracking with pruning
 
-      9. Matrix exponentiation
+      18. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
 
-      10. Zeller's Congruence
+      19. Matrix exponentiation
 
-      11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+      20. Zeller's Congruence
 
-      12. Knight tours
+      21. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
 
-      13. Simulated annealing and Hill climbing
+      22. Knight tours
 
-      14. 15 Puzzle
+      23. Simulated annealing and Hill climbing
 
-             1. A* and Meet-in-the-Middle
+      24. 15 Puzzle
 
-   11. Some Useful Library:
+                1. A* and Meet-in-the-Middle
 
-       1. Segment Tree Library with Lazy
-       2. ModInt Library
-       3. FFT Library
-       4. Geometry Library
+   25. Some Useful Library:
+
+          1. Segment Tree Library with Lazy
+          2. ModInt Library
+          3. FFT Library
+          4. Geometry Library
 
 4. Blogs & Sites:
 
@@ -316,8 +333,17 @@
    14. [cubelover’s Blog](https://cubelover.tistory.com/ "https://cubelover.tistory.com/")
    15. [SERBANOLOGY](http://serbanology.com/ "http://serbanology.com/")
    16. [Programming Pages](http://programming.sirrida.de "http://programming.sirrida.de")
+   17. [Programiz](https://www.programiz.com "https://www.programiz.com")
+   18. [Awesome Competitive Programming](https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html "https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html")
+   19. [Hackr](https://hackr.io "hackr.io")
+   20. [Earth](https://zigui.tistory.com/ "https://zigui.tistory.com/")
+   21. [CodeUp](https://codeup.kr/index.php "https://codeup.kr/index.php")
+   22. [Useful links](https://codeforces.com/blog/entry/512 "https://codeforces.com/blog/entry/512")
+   23. [Dev Skill](https://devskill.com "https://devskill.com")
 
 5. Data Structure and Algorithm:
+
+   [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
 
    1. Data Structure:
 
@@ -375,6 +401,8 @@
          11. Scapegoat tree
 
       7. Disjoint Set Union (DSU)
+
+         1. [Sack](https://codeforces.com/blog/entry/44351 "https://codeforces.com/blog/entry/44351")
 
       8. Heap and Treap
 
@@ -448,20 +476,6 @@
    1. Guide:
       1. [Programmer-Roadmap](https://github.com/kamranahmedse/developer-roadmap "https://github.com/kamranahmedse/developer-roadmap") This is pretty much good guideline for web developers
       2. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
