@@ -106,7 +106,7 @@
       16. Bezout’s Identity
       17. Chinese Reminder Theorem
       18. Gaussian Elimination
-      19. Burnsian Lemma
+      19. Burnsian/Burnside Lemma
       20. Finding real roots of a n-degree Equation
       21. Given sum of divisor, Find Possible n
       22. Miller Rabin primality and decimal Test
@@ -126,17 +126,26 @@
       35. Mertens' theorem
       36. Mirsky’s Theorem
       37. Faulhaber's formula
-      38. Alien’s Trick
+      38. Hockey-stick identity
+      39. Pólya enumeration theorem
+      40. Multipoint  Evaluation of Polynomial
+      41. Pell’s Equation
+      42. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
+      43. Mobius  Function
+          1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
+          2. Mobius  Inversion
+      44. Alien’s Trick/*WQS*-*Binary*-Search
              1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      39. Sqrt decomposition
+      45. Sqrt decomposition
              1. Mo's algorithm
-      40. Advanced:
+      46. Advanced:
 
              1. Fast Fourier Transform(FFT):
                 1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
                 2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
                 3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
+                4. [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
              2. Fast Walsh–Hadamard transform
 
    2. Combinatorics:
@@ -152,6 +161,9 @@
       2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
       3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
       4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
+         1. LiChao Tree
+            1. I will update it later.
+         2. 3-D convex hull
       5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
       6. Pick’s Theorem
       7. Segment-Segment intersection
@@ -161,6 +173,7 @@
           1. Voronoi Diagram
       11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
       12. Delaunay triangulation
+      13. Onion  peeling
 
    4. Graph Theory:
 
@@ -176,13 +189,18 @@
          2. Yen’s Algorithm
          3. Seidel's  algorithm, unweighted APSP
          4. 0-1 BFS
+         5. Johnson  algorithm
+         6. [Gomory-Hu Tree](https://www.geeksforgeeks.org/gomory-hu-tree-introduction/ "https://www.geeksforgeeks.org/gomory-hu-tree-introduction/")
+            1. All  pairs shortest path
       8. Minimum Spanning Tree
          1. Prims
          2. Kruskal
             * For directed graph see also
-         3. [Chu–Liu/Edmonds' algorithm](https://en.wikipedia.org/wiki/Edmonds%27_algorithm "https://en.wikipedia.org/wiki/Edmonds%27_algorithm")
+         3. Boruvka’s Algorithm
+         4. [Chu–Liu/Edmonds' algorithm](https://en.wikipedia.org/wiki/Edmonds%27_algorithm "https://en.wikipedia.org/wiki/Edmonds%27_algorithm")
             1. [directed-mst](https://github.com/stjepang/snippets/blob/master/directed_mst.cpp "https://github.com/stjepang/snippets/blob/master/directed_mst.cpp")
-         4. Reverse-Delete Algorithm
+         5. Reverse-Delete Algorithm
+            1. Minimum Diameter Spanning Tree
       9. Topological Sorting
          1. using DFS
          2. Khan’s Algorithm
@@ -228,6 +246,11 @@
       33. Kempe’s Graph-coloring Algorithm
           1. Chaitin's algorithm
           2. Kempe’s Algorithm
+      34. Hall's marriage theorem
+      35. Hungarian algorithm
+      36. Blossom Algorithm
+      37. Search for bridges online
+      38. Hopcroft–Karp algorithm
 
    5. Game Theory:
 
@@ -262,10 +285,14 @@
          1. DP On  Rooted Trees
          2. DP On  DAGs
          3. Path  Counting using Matrix Exponentiation
+            1. [Matrix expo](https://codeforces.com/blog/entry/67776 "https://codeforces.com/blog/entry/67776")
+            2. [Matrix expo](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/ "https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/")
+            3. [wilanw](http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html "http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html")
          4. Tree  Child-Sibling notation DP
          5. Tree-rerooting DP
          6. Unrooted Tree DP
          7. [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
+         8. Sibling DP [Blog - 1](https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/ "https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/") [Problems](https://codeforces.com/blog/entry/18523)
       8. Matrix chain Multiplication
       9. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
       10. Bitmask
@@ -273,18 +300,26 @@
             1. ternary bitmask DP
       11. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
           1. [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
+          2. [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
+          3. Convex  Hull Tricks (Offline / Dynamic)
+          4. DP  optimization using interval trees
+          5. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
+      12. Fast  Zeta and Mobius Transform
+      13. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
 
    8. String Algorithms:
 
-      1. KMP Matcher
-      2. Suffix Array and Suffix Tree
+      1. KMP
+      2. Rabin-Karp
+      3. Suffix Array and Suffix Tree
          1. Ukkonen's Algorithm
-      3. Aho Chorasic Algorithm
-      4. Z-Algorithm
-      5. Manacher Algorithm
-      6. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
-      7. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
-      8. Levenshtein distance
+      4. Aho Chorasic Algorithm
+      5. Z-Algorithm
+      6. Manacher Algorithm
+      7. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
+      8. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
+      9. Levenshtein distance
+      10. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
 
    9. Bitwise:
 
@@ -329,12 +364,19 @@
 
                  1. A* and Meet-in-the-Middle
 
+       15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
+
    11. Some Useful Library:
 
           1. Segment Tree Library with Lazy
           2. ModInt Library
           3. FFT Library
           4. Geometry Library
+
+   12. Adhoc
+
+       1. Interactive problems
+       2. Constructive algorithm
 
 4. Blogs & Sites:
 
@@ -401,11 +443,14 @@
          1. Array
          2. Stack
          3. Queue
+         4. Treap
+         5. Segment Tree
 
       5. Trie
 
-         1. Diameter
-         2. Height
+         1. DP on Trie
+            1. Diameter
+            2. Height
 
       6. Tree
 
@@ -420,6 +465,8 @@
             1. Point Update + Range Query
             2. Range Update + Point Query
             3. [Where's the tree in Fenwick tree?](https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE "https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE")
+            4. BIT on Tree
+            5. Segment Tree on BIT
          3. [Segment Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
             1. With and without Lazy Propagation
             2. Sweeping using segment tree
@@ -427,6 +474,13 @@
                1. merge sort tree associate with PST
             4. Binary Search on ST
             5. 2D Segment Tree
+            6. Segment  Tree on Euler path
+            7. Dynamic ST
+               1. [Tutorial -1](https://codeforces.com/topic/61182/en1)
+            8. [Segment Tree Beats](https://codeforces.com/blog/entry/57319)
+               1. [Errichto’s tutorial](https://www.youtube.com/watch?v=wFqKgrW1IMQ "https://www.youtube.com/watch?v=wFqKgrW1IMQ")
+            9. Ji  Driver segment tree
+               1. I will update it later
          4. AVL tree
          5. Red-Black Tree
          6. Splay Tree
@@ -435,6 +489,14 @@
          9. KD-tree
          10. [Euler tour Tree](https://codeforces.com/blog/entry/18369 "https://codeforces.com/blog/entry/18369") not a data structure but it’s a tree 
          11. Scapegoat tree
+         12. [Sqrt-tree](https://codeforces.com/blog/entry/57046)
+             1. [CP-Sqrt-Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html "https://cp-algorithms.com/data_structures/sqrt-tree.html")
+         13. Merge-Sort Tree
+         14. Cartesian  Tree
+         15. [Bridge Tree](https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph# "https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph#")
+         16. Block Cut Tree
+             1. [First](https://cpps.bacsbd.org/notebook/view-note/block-cut-tree "https://cpps.bacsbd.org/notebook/view-note/block-cut-tree")
+             2. [Second](https://en.wikipedia.org/wiki/Biconnected_component "https://en.wikipedia.org/wiki/Biconnected_component")
 
       7. Disjoint Set Union (DSU)
 
@@ -445,6 +507,7 @@
          1. Binomial Heap
          2. Priority Queue
          3. [Treap with lazy propagation](https://codeforces.com/blog/entry/10314 "https://codeforces.com/blog/entry/10314")
+         4. Binomial, Pairing, Randomized Medable Heap
 
       9. Sparse Table
 
@@ -460,6 +523,10 @@
 
           1. Online
           2. Offline
+
+      15. Skiplist
+
+          1. Indexable Skiplist
 
    2. Algorithms:
 
@@ -478,6 +545,7 @@
       4. Searching
          1. Linear
          2. Binary 
+            1. [Parallel   Binary Search](https://codeforces.com/blog/entry/45578)
          3. Ternary
          4. Interpolation
          5. Exponential 
@@ -490,6 +558,8 @@
       8. Ant colony optimization algorithm
       9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
       10. [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/ "http://aggregate.org/MAGIC/")
+      11. Sliding  window / Two pointers technique
+      12. Shunting-Yard algorithm
 
    3. STL
 
