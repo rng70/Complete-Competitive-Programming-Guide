@@ -1,6 +1,6 @@
 # Programming Resources
 
- This repository contains books, useful links, awesome courses and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. May be it will help you too :)
+ This repository contains books, useful links, awesome courses and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. May be it will help you too :smile:  
 
 
 
@@ -134,7 +134,7 @@
       43. Mobius  Function
           1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
           2. Mobius  Inversion
-      44. Alien’s Trick/*WQS*-*Binary*-Search
+      44. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
              1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
       45. Sqrt decomposition
@@ -162,7 +162,9 @@
       3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
       4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
          1. LiChao Tree
-            1. I will update it later.
+            1. [cp-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html "https://cp-algorithms.com/geometry/convex_hull_trick.html")
+            2. [LiChao tree](http://www.secmem.org/blog/2019/01/03/lichao-tree/ "http://www.secmem.org/blog/2019/01/03/lichao-tree/")
+            3. [Delete from LiChao tree](https://cp-algorithms.com/data_structures/deleting_in_log_n.html "https://cp-algorithms.com/data_structures/deleting_in_log_n.html")
          2. 3-D convex hull
       5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
       6. Pick’s Theorem
@@ -190,8 +192,6 @@
          3. Seidel's  algorithm, unweighted APSP
          4. 0-1 BFS
          5. Johnson  algorithm
-         6. [Gomory-Hu Tree](https://www.geeksforgeeks.org/gomory-hu-tree-introduction/ "https://www.geeksforgeeks.org/gomory-hu-tree-introduction/")
-            1. All  pairs shortest path
       8. Minimum Spanning Tree
          1. Prims
          2. Kruskal
@@ -262,6 +262,8 @@
 
       1. Task Scheduling
 
+            1. Chordal graph
+
       2. Maximum sum subarray
 
             > ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
@@ -270,7 +272,11 @@
 
    7. Dynamic Programming:
 
-      [[Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)]
+      [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
+
+      [Best DP](https://wiki.kimiyuki.net/動的計画法)
+
+      [DP-ever](https://codeforces.com/blog/entry/67679 "https://codeforces.com/blog/entry/67679")
 
       1. Modular DP (DP with MOD value as state)
       2. Digit DP
@@ -303,9 +309,13 @@
           2. [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
           3. Convex  Hull Tricks (Offline / Dynamic)
           4. DP  optimization using interval trees
-          5. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
+          5. [9 way DP optimization](https://koosaga.com/243 "https://koosaga.com/243")
+          6. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
       12. Fast  Zeta and Mobius Transform
       13. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
+      15. [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
+      16. [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
+          1. [Kuroni’s Blog](https://codeforces.com/blog/entry/77298 "https://codeforces.com/blog/entry/77298")
 
    8. String Algorithms:
 
@@ -445,6 +455,8 @@
          3. Queue
          4. Treap
          5. Segment Tree
+         6. [LiChao Tree](https://panty.run/dynamic-lichao-tree/ "https://panty.run/dynamic-lichao-tree/")
+            1. [Implementation](https://pastebin.com/fLcs75A9)
 
       5. Trie
 
@@ -497,6 +509,9 @@
          16. Block Cut Tree
              1. [First](https://cpps.bacsbd.org/notebook/view-note/block-cut-tree "https://cpps.bacsbd.org/notebook/view-note/block-cut-tree")
              2. [Second](https://en.wikipedia.org/wiki/Biconnected_component "https://en.wikipedia.org/wiki/Biconnected_component")
+         17. [Gomory-Hu Tree](https://www.geeksforgeeks.org/gomory-hu-tree-introduction/ "https://www.geeksforgeeks.org/gomory-hu-tree-introduction/")
+             1. All  pairs shortest path
+             2. [tutorial - 1](https://www.youtube.com/watch?v=MneGZIXwnS4 "https://www.youtube.com/watch?v=MneGZIXwnS4")
 
       7. Disjoint Set Union (DSU)
 
@@ -507,7 +522,7 @@
          1. Binomial Heap
          2. Priority Queue
          3. [Treap with lazy propagation](https://codeforces.com/blog/entry/10314 "https://codeforces.com/blog/entry/10314")
-         4. Binomial, Pairing, Randomized Medable Heap
+         4. Pairing, Randomized Medable Heap
 
       9. Sparse Table
 
@@ -527,6 +542,8 @@
       15. Skiplist
 
           1. Indexable Skiplist
+          
+      16. [Convex hull trick](https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant "https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant")
 
    2. Algorithms:
 
