@@ -96,6 +96,7 @@
          1. Sieve and it’s optimization
             1. Bitwise Sieve
             2. Segmented Sieve
+            3. Linear sieve
       5. Modular Inverse (Mod Inverse)
 
          1. Fermat’s Little Theorem
@@ -103,59 +104,72 @@
       7. Euclid and extended Euclid
       8. Hensel's lemma
       9. Euler phi and inverse phi
-      10. Prime factorization
+      10. Integer and Prime factorization
              1. Quadratic sieve
-      11. Sum of Divisor and number of divisor
-      12. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
-      13. Shanks Algorithm
-      14. Probability theory [topcoder]
-      15. Dilworth’s Theorem
-      16. Bezout’s Identity
-      17. Chinese Reminder Theorem
-      18. Gaussian Elimination
-      19. Burnsian/Burnside Lemma
-      20. Finding real roots of a n-degree Equation
-      21. Given sum of divisor, Find Possible n
-      22. Miller Rabin primality and decimal Test
-      23. Pollard’s rho algorithm
-      24. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
-      25. Binomial coefficient
-      26. Burnside's lemma
-      27. Coordinate Compression
-      28. XOR transformation
-      29. Inclusion and Exclusion
-      30. Fibonacci Number
-      31. Derangements
-      32. Möbius function
+                2. Duval Algorithm
+                3. Shanks's square forms factorization ([SQUFOF](http://en.wikipedia.org/wiki/Shanks'_square_forms_factorization))
+      11. Primitive root
+      12. Operations on Formal Power Series - [1](http://codeforces.com/blog/entry/56422) [2](http://codeforces.com/contest/865/problem/G)
+      13. Sum of Divisor and number of divisor
+      14. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
+      15. Shanks Algorithm
+      16. Probability theory [topcoder]
+      17. Dilworth’s Theorem
+      18. Bezout’s Identity
+      19. Chinese Reminder Theorem
+          1. [CRT with RSA](https://www.di-mgt.com.au/crt_rsa.html "https://www.di-mgt.com.au/crt_rsa.html")
+      20. Gaussian Elimination
+      21. Burnsian/Burnside Lemma
+      22. Finding real roots of a n-degree Equation
+      23. Given sum of divisor, Find Possible n
+      24. Miller Rabin primality and decimal Test
+      25. Pollard’s rho algorithm
+      26. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
+      27. Binomial coefficient
+      28. Burnside's lemma
+      29. Coordinate Compression
+      30. XOR transformation
+      31. Inclusion and Exclusion
+      32. Fibonacci Number
+      33. Derangements
+      34. Möbius function
           1. [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
-      33. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+      35. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
              1. [Again one](https://tamref.com/30 "https://tamref.com/30")
-      34. Karatsuba algorithm
-      35. Mertens' theorem
-      36. Mirsky’s Theorem
-      37. Faulhaber's formula
-      38. Hockey-stick identity
-      39. Pólya enumeration theorem
-      40. Multipoint  Evaluation of Polynomial
-      41. Pell’s Equation
-      42. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
-      43. Mobius  Function
+      36. Karatsuba algorithm
+      37. Mertens' theorem
+      38. Mirsky’s Theorem
+      39. Faulhaber's formula
+          1. [via Bernoulli numbers](https://www.codechef.com/JULY18A/problems/PFRUIT)
+      40. Hockey-stick identity
+      41. Pólya enumeration theorem
+      42. Polynomial
+          1. Division
+          2. Inverse
+          3. Multipoint  Evaluation 
+      43. Discrete logarithm and discrete root
+      44. Pell’s Equation
+      45. Exponential Generating Function
+      46. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
+      47. Mobius  Function
           1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
           2. Mobius  Inversion
-      44. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
+      48. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
              1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      45. Sqrt decomposition
+      49. Sqrt decomposition
                 1. Mo's algorithm
                          1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
                          2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
-      46. Advanced:
+      50. Tonelli–Shanks algorithm
+      51. Advanced:
 
              1. Fast Fourier Transform(FFT):
                 1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
                 2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
                 3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
                 4. [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
+                5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
              2. Fast Walsh–Hadamard transform
 
    2. Combinatorics:
@@ -198,10 +212,6 @@
           * [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
           * [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
 
-      
-
-      
-
       1. Representation and BFS and DFS
       2. Dijkstra and Variation
       3. Bellman-Ford Algorithm and it’s variation
@@ -224,6 +234,7 @@
             1. [directed-mst](https://github.com/stjepang/snippets/blob/master/directed_mst.cpp "https://github.com/stjepang/snippets/blob/master/directed_mst.cpp")
          5. Reverse-Delete Algorithm
             1. Minimum Diameter Spanning Tree
+         6. Rectilinear MST
       9. Topological Sorting
          1. using DFS
          2. Khan’s Algorithm
@@ -257,7 +268,7 @@
       27. Level ancestors and Ladder Algorithm
       28. Flow
           1. Max-flow-Min-cut theorem
-          2. Push–relabel maximum flow algorithm
+          2. Push–relabel maximum flow algorithm/Preflow-Push/Fast-flow
           3. Min cost flow (lower priority)
           4. Network flow
           5. Flow decomposition
@@ -276,6 +287,12 @@
       36. Blossom Algorithm
       37. Search for bridges online
       38. Hopcroft–Karp algorithm
+      39. Perfect order elimination
+          1. [Problem](https://www.codechef.com/JULY18A/problems/JERRYTOM)
+      40. Maximum matching
+          1. Edmonds-Blossom algorithm
+      41. Global min-cut
+      42. [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
 
    5. Game Theory:
 
@@ -293,7 +310,11 @@
       2. Grundy Number and DP Formulation
       3. Alpha Beta Pruning Minimax
 
-   6. Greedy:
+   6. Group Theory:
+
+      1. Schreier–Sims algorithm
+
+   7. Greedy:
 
       *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
 
@@ -314,7 +335,7 @@
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
-   7. Dynamic Programming:
+   8. Dynamic Programming:
 
       *Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.*
 
@@ -375,7 +396,7 @@
                 2. [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
                 3. [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
-   8. String Algorithms:
+   9. String Algorithms:
 
       1. KMP
       2. Rabin-Karp
@@ -383,15 +404,17 @@
          1. Ukkonen's Algorithm
          2. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
          3. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
-      4. Aho Chorasic Algorithm
-      5. Z-Algorithm
-      6. Manacher Algorithm
-      7. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
-      8. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
-      9. Levenshtein distance
-      10. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
+      4. Suffix automation
+      5. Aho Chorasic Algorithm
+      6. Z-Algorithm
+      7. Manacher Algorithm
+      8. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
+      9. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
+      10. Levenshtein distance
+      11. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
+          1. [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
-   9. Bitwise:
+   10. Bitwise:
 
       1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
       2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
@@ -403,7 +426,7 @@
          1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
          2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
 
-   10. Miscellaneous:
+   11. Miscellaneous:
 
           1. Meet-in-the-Middle Approach
 
@@ -439,14 +462,14 @@
 
        15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
 
-   11. Some Useful Library:
+   12. Some Useful Library:
 
           1. Segment Tree Library with Lazy
           2. ModInt Library
           3. FFT Library
           4. Geometry Library
 
-   12. Adhoc
+   13. Adhoc
 
        1. Interactive problems
        2. Constructive algorithm
@@ -487,7 +510,6 @@
    32. [Techie Delight](https://www.techiedelight.com "https://www.techiedelight.com")
    33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
    34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
-   35. 
 
 5. Data Structure and Algorithm:
 
@@ -594,6 +616,8 @@
 
          7. Link-Cut Tree
 
+            1. [Discussion -1](https://codeforces.com/blog/entry/74895)
+
          8. [Wavelet Tree](https://codeforces.com/blog/entry/52854 "https://codeforces.com/blog/entry/52854")
 
          9. KD-tree
@@ -655,6 +679,11 @@
           1. Indexable Skiplist
 
       16. [Convex hull trick](https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant "https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant")
+
+      17. Dynamic connectivity
+
+          1. Online
+          2. Offline
 
    2. Algorithms:
 
@@ -719,6 +748,7 @@
    4. [An awesome beginner’s list for competitive programming](https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/ "https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/")
    5. [Dhaka regional Analysis](https://docs.google.com/document/d/10XeCliJagbMGmMTajx5m9v59LC1Dhgd32nhqLWOUd3E/edit?fbclid=IwAR2XGGmvZu3DmRL3gc8pTB0U6qJBjQw8AsDAOmV2pLhts24kMnYiZCB2pvw#heading=h.dpgebo8zawhc)
    6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
+   7. [__int128](https://codeforces.com/blog/entry/75044 "https://codeforces.com/blog/entry/75044")
 
 ### Development:
 
