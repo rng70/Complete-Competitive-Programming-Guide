@@ -605,6 +605,10 @@
                1. [Tutorial -1](https://codeforces.com/topic/61182/en1)
             10. [Segment Tree Beats](https://codeforces.com/blog/entry/57319)
                1. [Errichto’s tutorial](https://www.youtube.com/watch?v=wFqKgrW1IMQ "https://www.youtube.com/watch?v=wFqKgrW1IMQ")
+               2. [Segment tree beats](https://smijake3.hatenablog.com/entry/2019/04/28/021457 "https://smijake3.hatenablog.com/entry/2019/04/28/021457")
+               3. [Segment Tree Chinese](https://wenku.baidu.com/view/27333c4e852458fb770b56e2.html)
+               4. [random](https://ch-random.net/post/8/)
+               5. [Implementation](https://www.codetd.com/article/5160951)
             11. Ji  Driver segment tree
                 1. I will update it later
 
