@@ -81,8 +81,8 @@
 
       - Theory
          	- [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
-         	- [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
-         	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
+            	- [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
+               	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
 
       
 
@@ -97,6 +97,8 @@
             1. Bitwise Sieve
             2. Segmented Sieve
             3. Linear sieve
+            4. Sieve of Atkin
+            5. Sieve of Sundaram
       5. Modular Inverse (Mod Inverse)
 
          1. Fermat’s Little Theorem
@@ -320,8 +322,8 @@
 
        - Theory
            	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
-           	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) - Tutorial on how to spot a greedy algorithm.
-           	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/) - Tutorial on greedy algorithms by [Akash Sharma](https://www.hackerearth.com/users/r3gz3n/).
+                	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) - Tutorial on how to spot a greedy algorithm.
+                   	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/) - Tutorial on greedy algorithms by [Akash Sharma](https://www.hackerearth.com/users/r3gz3n/).
 
       
 
@@ -715,7 +717,7 @@
              - Theory
 
                 	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
-                	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
+                    	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
                  - [Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/) - Tutorial on Ternary Search.
                  - [Parallel   Binary Search](https://codeforces.com/blog/entry/45578)
 
