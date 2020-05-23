@@ -361,8 +361,9 @@
             1. [tcBrokenProfile](https://apps.topcoder.com/forums/?module=Thread&threadID=697369 "https://apps.topcoder.com/forums/?module=Thread&threadID=697369")
             2. [cfBrokenProfile](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html "https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html")
       5. [SOS DP](https://codeforces.com/blog/entry/45223 "https://codeforces.com/blog/entry/45223")
-      6. [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
-      7. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
+      6. Interval DP
+      7. [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
+      8. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
          1. DP On  Rooted Trees
          2. DP On  DAGs
          3. Path  Counting using Matrix Exponentiation
@@ -374,24 +375,24 @@
          6. Unrooted Tree DP
          7. [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
          8. Sibling DP [Blog - 1](https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/ "https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/") [Problems](https://codeforces.com/blog/entry/18523)
-      8. Matrix chain Multiplication
-      9. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      10. Bitmask
-         1. Subset Bitmask DP
-            1. ternary bitmask DP
-      11. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
+      9. Matrix chain Multiplication
+      10. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+      11. Bitmask
+         12. Subset Bitmask DP
+             1. ternary bitmask DP
+      13. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
           1. [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
           2. [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
           3. Convex  Hull Tricks (Offline / Dynamic)
           4. DP  optimization using interval trees
           5. [9 way DP optimization](https://koosaga.com/243 "https://koosaga.com/243")
           6. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
-      13. Fast  Zeta and Mobius Transform
-      14. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
-      15. [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
-      16. [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
+      14. Fast  Zeta and Mobius Transform
+      15. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
+      16. [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
+      17. [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
           1. [Kuroni’s Blog](https://codeforces.com/blog/entry/77298 "https://codeforces.com/blog/entry/77298")
-      17. Matrix Exponentiation
+      18. Matrix Exponentiation
           1. *Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
              1. Theory
                 1. [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
