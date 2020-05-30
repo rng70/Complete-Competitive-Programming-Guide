@@ -164,7 +164,8 @@
                          1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
                          2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
       50. Tonelli–Shanks algorithm
-      51. Advanced:
+      51. Euclidean distances
+      52. Advanced:
 
              1. Fast Fourier Transform(FFT):
                 1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -215,6 +216,7 @@
           * [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
 
       1. Representation and BFS and DFS
+         1. Lexicographical BFS
       2. Dijkstra and Variation
       3. Bellman-Ford Algorithm and it’s variation
       4. Eularian Paths
@@ -241,25 +243,25 @@
          1. using DFS
          2. Khan’s Algorithm
       10. Strongly Connected Components
-         1. Kosaraju’s Algorithm
-      11. Articulation Point
-      12. Euler path (Construction and optimization)
-      13. Maximum Flow
+             11. Kosaraju’s Algorithm
+      12. Articulation Point
+      13. Euler path (Construction and optimization)
+      14. Maximum Flow
           1. Ford Fulkerson
           2. Dinic
-      14. Maximum Independent set
-      15. Maximum flow minimum cost
-      16. Largest Clique
-      17. IDA* Search (Iterative deepening  and Iterative deepening A*)
+      15. Maximum Independent set
+      16. Maximum flow minimum cost
+      17. Largest Clique
+      18. IDA* Search (Iterative deepening  and Iterative deepening A*)
           * Advanced topics
-      18. Stable Marriage Problem
-      19. Stoer Wagner Algorithm 
+      19. Stable Marriage Problem
+      20. Stoer Wagner Algorithm 
           * Finding Minimum Cut
-      20. Planar Graph Detection
-      21. Havel-Hakimi Algorithm
+      21. Planar Graph Detection
+      22. Havel-Hakimi Algorithm
           * Construct a graph given degree of nodes
-      22. Erdos & Galli Theorem
-      23. DAG and Grid
+      23. Erdos & Galli Theorem
+      24. DAG and Grid
       25. Modular decomposition
       26. Numbers
           1. Euler
@@ -590,7 +592,7 @@
             4. BIT on Tree
             5. Segment Tree on BIT
 
-         3. [Segment Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
+         3. [Segment Tree/Interval Tree/Tournament Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
 
             *Segment tree is a tree for which each node represents an interval.*
 
