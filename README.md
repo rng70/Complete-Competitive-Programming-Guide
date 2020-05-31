@@ -718,9 +718,8 @@
             *Ternary Search : The process of exploiting the property of a function having double differential of a constant sign to arrive to results in non linear time.*
 
              - Theory
-
-                	- [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
-                    	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
+                 - [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
+                 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
                  - [Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/) - Tutorial on Ternary Search.
                  - [Parallel   Binary Search](https://codeforces.com/blog/entry/45578)
 
