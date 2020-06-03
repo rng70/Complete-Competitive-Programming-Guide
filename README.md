@@ -41,29 +41,95 @@
 
 [All the good tutorials found for Competitive Programming](https://codeforces.com/blog/entry/57282)
 
-1. Online Judges(Practice):
+1. ## Contest Sites (Practice):
 
-   1. [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
+   [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
 
-      
+   
 
-      Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
+   Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
 
-      1. [DM::OJ]() The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
+   
 
-         Do you love interactive problem? Then it is really appropriate for you.
+   1. ### [Codeforces]()
 
-      2. [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
-      
-      3. [oj.uz](https://oj.uz/ "https://oj.uz/") this site is good enough for practice.
+      It is a Russian site, that provides high-quality contests with the highest frequency, sometimes up to twice a week. It features a blog system where you can ask questions and a practice problemset, which you can sort through with tags. It also has virtual contest support, and the ability to create groups to organize private contests.
 
-2. Courses;
+   2. ### [Topcoder](https://www.topcoder.com "https://www.topcoder.com")
+
+      It is a US-operated site, that hosts 1.5-hour SRM's (Single Round Matches). Topcoder also organizes the annual Topcoder Open tournament. It also hosts the TopCoder data science [tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/), a list of tutorials written by respected Topcoder members. One of the features that separate it from other sites is a separate challenge phase after contests.
+
+   3. ### [HackerRank](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerrank.com)
+
+      HackerRank is a technology company currently based in the US, that focuses on competitive programming challenges. It hosts HourRanks, CodeSprints, 101 Hacks and Week Of Code contests on a monthly basis. It has learning tracks for various CS topics and programming languages.
+
+   4. ### [CodeChef](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/codechef.com)
+
+      It is an Indian site, that hosts 3 contests monthly, the Long Challenge (10-day challenge) and the shorter Cook-Off and Lunchtime Challenges. The Long Challenge is one of the best starting points for a beginner programmer, as it allows you to learn new concepts to solve problems competitively. It also organizes an annual flagship coding competition, the CodeChef SnackDown.
+
+   5. ### [HackerEarth](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerearth.com/challenges)
+
+      HackerEarth is also an Indian company focusing on competitive programming and hiring challenges. It conducts the monthly Circuits, which are 9 day long challenges, as well as shorter challenges (HourStorms). It also hosts competitions conducted by various colleges around India.
+
+   6. ### [Hacker Blocks](https://hack.codingblocks.com/)
+
+      A problem archive organized by Coding Blocks, it hosts a large number of problems categorized by type. You can join contests with leaderboards, and race your way to the top. The practice section also contains innumerable problems categorized by type. You can also join its classroom or online courses, and get access to a community to help you when you get stuck with personalized support.
+
+   7. ### [CSAcademy](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/csacademy.com)
+
+      It is also a relatively new site that hosts regular 2-hour programming contests. It also supports virtual contest participation, and its interface involves features like a graph editor, geometry tool and a difference checker tool.
+
+   8. ### [AtCoder](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/atcoder.jp)
+
+      AtCoder is a Japanese programming contest site for anyone from beginners to experts. They hold weekly programming contests, of various difficulty levels (Beginner, Regular and Grand contests)
+
+2. ## Online Judges / Problem Archives:
+
+   These are some online judges with large problem archives, that you can use to practice topics as you learn when you are not doing contests.
+
+   1. ### [SPOJ](https://www.spoj.com/)
+      Contains thousands of problems, organized by tags. The list of classical problems, sorted by users who have solved, is the most popularly suggested learning route for beginner programmers. It also has a discussion forum.
+
+   2. ### [Timus OJ](http://acm.timus.ru/)
+      It is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from regional contests. It has problems classified by type, as well as the regionals they appeared in.
+
+   3. ### [UVa OJ](https://uva.onlinejudge.org/)
+      A problem archive with over 3500 programming problems. It is popularly used in accompaniment with the Competitive Programming 3 textbook by Steven and Felix Halim. [uHunt](http://uhunt.felix-halim.net/) and [UVaToolkit](http://uvatoolkit.com/) are some related tools.
+
+   4. ### [A2 OJ](https://a2oj.com/)
+      A problem archive with thousands of problems, which can be sorted by [category](https://a2oj.com/categories). This is useful when you study a new concept and want to practice problems related to it. It also features the Codeforces [ladders](https://a2oj.com/ladders), where you can join a ladder based on your CodeForces rating, and solve problems that suit your current skill level.
+
+   5. ### [DM::OJ](https://dmoj.ca)
+
+      The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
+
+      Do you love interactive problem? Then it is really appropriate for you.
+
+   6. ### [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") 
+
+      This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
+
+   7. ### [oj.uz](https://oj.uz/ "https://oj.uz/") 
+
+      This site is good enough for practice.
+
+   8. ### [Project Euler Archives](https://projecteuler.net/archives)
+
+      A series of challenging mathematical/computer programming problems, that become increasingly difficult as you proceed down the list. Great for brushing up your math skills.
+
+   9. ### [Google CodeJam Archives](https://codingcompetitions.withgoogle.com/codejam/archive)
+      Archives of the problems from the previous years Google CodeJams.
+
+   10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
+       Archives of the problems from the previous years ACM-ICPC regionals and world finals.
+
+3. ## Courses:
 
    1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
    2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
    3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
 
-3. Topics:
+4. ## Topics:
 
    [NOI.PH topics Lists](https://training.noi.ph/topics "https://training.noi.ph/topics")
 
@@ -73,7 +139,7 @@
 
    [Problem Topics](https://codeforces.com/blog/entry/55274 "https://codeforces.com/blog/entry/55274")
 
-   1. Number Theory:
+   1. ### Number Theory:
 
       [Number Theory for CP](https://www.geeksforgeeks.org/number-theory-competitive-programming/ "https://www.geeksforgeeks.org/number-theory-competitive-programming/")
 
@@ -175,14 +241,14 @@
                 5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
              2. Fast Walsh–Hadamard transform
 
-   2. Combinatorics:
+   2. ### Combinatorics:
 
       1. Advanced:
          1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
          2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
          3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
 
-   3. Geometry and Computational Geometry:
+   3. ### Geometry and Computational Geometry:
 
       1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
       2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
@@ -205,7 +271,7 @@
       12. Delaunay triangulation
       13. Onion  peeling
 
-   4. Graph Theory:
+   4. ### Graph Theory:
 
       * Theory
           * [Topcoder](https://topcoder.com)
@@ -298,7 +364,7 @@
       41. Global min-cut
       42. [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
 
-   5. Game Theory:
+   5. ### Game Theory:
 
       *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
 
@@ -314,11 +380,11 @@
       2. Grundy Number and DP Formulation
       3. Alpha Beta Pruning Minimax
 
-   6. Group Theory:
+   6. ### Group Theory:
 
       1. Schreier–Sims algorithm
 
-   7. Greedy:
+   7. ### Greedy:
 
       *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
 
@@ -339,7 +405,7 @@
 
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
-   8. Dynamic Programming:
+   8. ### Dynamic Programming:
 
       *Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.*
 
@@ -401,7 +467,7 @@
                 2. [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
                 3. [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
-   9. String Algorithms:
+   9. ### String Algorithms:
 
       1. KMP
       2. Rabin-Karp
@@ -419,7 +485,9 @@
       11. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
           1. [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
-   10. Bitwise:
+   10. ### Bitwise:
+
+       You can read my collection of some bit trick for [here](./.random notes/.Bit Trick.md)
 
           1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
           2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
@@ -431,7 +499,7 @@
              1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
              2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
 
-   11. Miscellaneous:
+   11. ### Miscellaneous:
 
           1. Meet-in-the-Middle Approach
 
@@ -467,19 +535,19 @@
 
        15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
 
-   12. Some Useful Library:
+   12. ### Some Useful Library:
 
           1. Segment Tree Library with Lazy
           2. ModInt Library
           3. FFT Library
           4. Geometry Library
 
-   13. Adhoc
+   13. ### Adhoc
 
        1. Interactive problems
        2. Constructive algorithm
 
-4. Blogs & Sites:
+5. ## Blogs & Sites:
 
    1. [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
    2. [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
@@ -516,7 +584,7 @@
    33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
    34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
 
-5. Data Structure and Algorithm:
+6. ## Data Structure and Algorithm:
 
    [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
 
@@ -748,7 +816,7 @@
       5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
       6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
 
-6. Challenges:
+7. ## Challenges:
 
    1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
    2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
@@ -760,7 +828,8 @@
 
 ### Development:
 
-1. Web Development:
+1. ### Web Development:
+   
    1. Guide:
       1. [Programmer-Roadmap](https://github.com/kamranahmedse/developer-roadmap "https://github.com/kamranahmedse/developer-roadmap") This is pretty much good guideline for web developers
       
