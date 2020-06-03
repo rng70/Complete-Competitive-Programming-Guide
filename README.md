@@ -123,13 +123,31 @@
    10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
        Archives of the problems from the previous years ACM-ICPC regionals and world finals.
 
-3. ## Courses:
+3. ## Visula Tools:
+
+   1. ### [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
+
+      This is a app by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools will help to visualize hard graph problems and to make graph to solve properly.
+
+   2. ### [Geometry Widget](https://csacademy.com/app/geometry_widget/ "https://csacademy.com/app/geometry_widget/")
+
+      This is a tools by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools that can help you solve problems that are hard to visualize properly.
+
+   3. ### [VisuAlgo](https://visualgo.net/en)
+
+      This is a website perfect for people trying to get an intuitive feel for algorithms. It features animations for most common data structures and algorithms.
+
+   4. ### [Algorithm Visualizer](https://algorithm-visualizer.org/) 
+
+      This is another website to visualize algorithms, data strucutres and the operations we can do on those data structures.
+
+4. ## Courses:
 
    1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
    2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
    3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
 
-4. ## Topics:
+5. ## Topics:
 
    [NOI.PH topics Lists](https://training.noi.ph/topics "https://training.noi.ph/topics")
 
@@ -547,7 +565,7 @@
        1. Interactive problems
        2. Constructive algorithm
 
-5. ## Blogs & Sites:
+6. ## Blogs & Sites:
 
    1. [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
    2. [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
@@ -584,7 +602,7 @@
    33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
    34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
 
-6. ## Data Structure and Algorithm:
+7. ## Data Structure and Algorithm:
 
    [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
 
@@ -592,7 +610,7 @@
 
    [Again-One](https://codeforces.com/blog/entry/16221 "https://codeforces.com/blog/entry/16221")
 
-   1. Data Structure:
+   1. ### Data Structure:
 
       [Lists of Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures "https://en.wikipedia.org/wiki/List_of_data_structures")
 
@@ -762,7 +780,7 @@
           1. Online
           2. Offline
 
-   2. Algorithms:
+   2. ### Algorithms:
 
       [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
 
@@ -807,7 +825,7 @@
       11. Sliding  window / Two pointers technique
       12. Shunting-Yard algorithm
 
-   3. STL
+   3. ### STL
 
       1. [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers")
       2. [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/ "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/")
@@ -816,7 +834,7 @@
       5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
       6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
 
-7. ## Challenges:
+8. ## Challenges:
 
    1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
    2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
