@@ -1,8 +1,6 @@
 # Programming Resources
 
- This repository contains books, useful links, awesome courses and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. May be it will help you too :smile:  
-
-
+ This repository contains books, useful links, awesome courses and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. May be it will help you too :smile::relaxed:
 
 ---
 
@@ -13,11 +11,12 @@
 ---
 
 1. You may wonder that why I'm keeping books on GitHub instead of drive because it's easy to maintain
+
 2. I have just put my all collections in one place and I have collected all the documents from online so as I have found them on online so I strongly believe that they are shareable. So I think no copyright issue will arise to do a simple collections sharing.
 
-2. If you have a collection to then please share or send a pull request to help others.
+3. If you have a collection to then please share or send a pull request to help others.
 
-3. **some quality issue**
+4. ### Some Quality Issue
 
     May be some resources are not too much good to read but well enough to read I think. May be it is the issue of file compression. So happy reading.
 
@@ -123,7 +122,7 @@
    10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
        Archives of the problems from the previous years ACM-ICPC regionals and world finals.
 
-3. ## Visula Tools:
+3. ## Visual Tools:
 
    1. ### [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
 
@@ -140,6 +139,10 @@
    4. ### [Algorithm Visualizer](https://algorithm-visualizer.org/) 
 
       This is another website to visualize algorithms, data strucutres and the operations we can do on those data structures.
+      
+   5. ### [TryAlgo](https://tryalgo.org/ "https://tryalgo.org/")
+
+      This is a French site and very good to practice some algorithms.
 
 4. ## Courses:
 
