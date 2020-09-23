@@ -74,7 +74,7 @@
 
       A problem archive organized by Coding Blocks, it hosts a large number of problems categorized by type. You can join contests with leaderboards, and race your way to the top. The practice section also contains innumerable problems categorized by type. You can also join its classroom or online courses, and get access to a community to help you when you get stuck with personalized support.
 
-   7. ### [CSAcademy](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/csacademy.com)
+   7. ### [CSAcademy](https://csacademy.com/)
 
       It is also a relatively new site that hosts regular 2-hour programming contests. It also supports virtual contest participation, and its interface involves features like a graph editor, geometry tool and a difference checker tool.
 
