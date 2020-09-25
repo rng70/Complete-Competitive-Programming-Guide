@@ -50,7 +50,7 @@
 
    
 
-   1. ### [Codeforces]()
+   1. ### [Codeforces](https://codeforces.com)
 
       It is a Russian site, that provides high-quality contests with the highest frequency, sometimes up to twice a week. It features a blog system where you can ask questions and a practice problemset, which you can sort through with tags. It also has virtual contest support, and the ability to create groups to organize private contests.
 
