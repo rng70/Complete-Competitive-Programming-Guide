@@ -247,9 +247,9 @@
              1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
       49. Sqrt decomposition
-                1. Mo's algorithm
-                         1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
-                         2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
+          1. Mo's algorithm
+             1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
+             2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
       50. Tonelli–Shanks algorithm
       51. Euclidean distances
       52. Advanced:
