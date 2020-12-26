@@ -244,7 +244,7 @@
           1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
           2. Mobius  Inversion
       48. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
-             1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The Trick From Aliens "http://serbanology.com/show_article.php?art=The Trick From Aliens")
+             1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens "http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens")
              2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
       49. Sqrt decomposition
           1. Mo's algorithm
