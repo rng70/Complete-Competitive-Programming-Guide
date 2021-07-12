@@ -1,6 +1,6 @@
 # Programming Resources
 
- This repository contains books, useful links, awesome courses and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. May be it will help you too :smile::relaxed:
+ This repository contains books, useful links, awesome courses, and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. Maybe it will help you too 😄
 
 ---
 
