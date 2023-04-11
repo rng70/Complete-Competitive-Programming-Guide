@@ -253,127 +253,186 @@ These are some online judges with large problem archives, that you can use to pr
       * [The Sieve of Sundaram &#8211; Lucky&#039;s Notes](https://luckytoilet.wordpress.com/2010/04/18/the-sieve-of-sundaram/)
       
       * [Find all primes with Sieve of Sundaram](https://iq.opengenus.org/sieve-of-sundaram/)
-1. Modular Inverse (Mod Inverse)
-   
-   1. Fermat’s Little Theorem
 
-2. Euclid and extended Euclid
+* Modular Inverse (Mod Inverse)
+1.     Fermat’s Little Theorem
 
-3. Hensel's lemma
 
-4. Euler phi and inverse phi
 
-5. Integer and Prime factorization
-   
-   1. Quadratic sieve
-      2. Duval Algorithm
-      3. Shanks's square forms factorization ([SQUFOF](http://en.wikipedia.org/wiki/Shanks'_square_forms_factorization))
+* Hensel's lemma
 
-6. Primitive root
+* Euler phi and inverse phi
+  
+  * [Euler's totient function - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/phi-function.html)
+  
+  * [Euler's Totient Function - GeeksforGeeks](https://www.geeksforgeeks.org/eulers-totient-function/)
+  
+  * [Euler Totient or Phi Function | forthright48](https://forthright48.com/euler-totient-or-phi-function/)
+  
+  * [Chinese Remainder Theorem](http://mathcenter.oxford.emory.edu/site/math125/chineseRemainderTheorem/)
+  
+  * [Blog: 7308 Codeforces](https://codeforces.com/blog/entry/7308)
+  
+  * [Inverse Phi Function]([Finding the Inverse of Euler Totient Function | The Notebook Archive](https://www.notebookarchive.org/finding-the-inverse-of-euler-totient-function--2018-10-10qtft8/)
+  
+  * [Inverse Totient Procedure - Rayner Gobran](https://www.raynergobran.com/2016/04/inverse-totient-procedure/)
 
-7. Operations on Formal Power Series - [1](http://codeforces.com/blog/entry/56422) [2](http://codeforces.com/contest/865/problem/G)
+* Integer and Prime factorization
+  
+  * [Integer factorization - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/factorization.html)
+  
+  * [Quadratic sieve - Wikipedia](https://en.wikipedia.org/wiki/Quadratic_sieve)
+  
+  * [Prime Factorization using Sieve O(log n) for multiple queries - GeeksforGeeks](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
+  
+  * [Duval Algorithm](https://codeforces.com/blog/entry/89629)
+  
+  * [Shanks's square forms factorization - Wikipedia](http://en.wikipedia.org/wiki/Shanks'_square_forms_factorization)
+  
+  * [Square form factorization - Rosetta Code](http://rosettacode.org/wiki/Square_form_factorization)
 
-8. Sum of Divisor and number of divisor
+* Primitive and Discrete Root
+  
+  * [Primitive Root - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/primitive-root.html)
+  
+  * [&#160;I, ME AND MYSELF !!!: Primitive Root](http://zobayer.blogspot.com/2010/02/primitive-root.html)
+  
+  * [Joni's Math Notes: Primitive roots and their applications](http://jonismathnotes.blogspot.com/2014/07/primitive-roots-and-their-applications.html)
+  
+  * [Primitive root of a prime number n modulo n - GeeksforGeeks](https://www.geeksforgeeks.org/primitive-root-of-a-prime-number-n-modulo-n/)
 
-9. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
+* Operations on Formal Power Series - [1](http://codeforces.com/blog/entry/56422) [2](http://codeforces.com/contest/865/problem/G)
 
-10. Shanks Algorithm
+* Sum of Divisor and number of divisor
 
-11. Probability theory [topcoder]
+* Factoradic and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!)
+  
+  * [Factorial number system - Wikipedia](https://en.wikipedia.org/wiki/Factorial_number_system) 
 
-12. Dilworth’s Theorem
-
-13. Bezout’s Identity
-
-14. Chinese Reminder Theorem
+* Shanks Algorithm
+  
+  * [Find Square Root under Modulo p | Set 2 (Shanks Tonelli algorithm) - GeeksforGeeks](https://www.geeksforgeeks.org/find-square-root-modulo-p-set-2-shanks-tonelli-algorithm/)
+  
+  * [Tonelli Shanks Algorithm](https://dave4math.com/tonelli-shanks-algorithm/)
+  
+  * [Tonelli–Shanks algorithm - HandWiki](https://handwiki.org/wiki/Tonelli%E2%80%93Shanks_algorithm)
+  
+  * [Tonelli-Shanks algorithm - Rosetta Code](https://rosettacode.org/wiki/Tonelli-Shanks_algorithm)
+  
+  * [A simple implementation of the Tonelli-Shanks algorithm to compute a square root in Z/pZ where p is prime. It could probably be made quite faster by using a faster pow_mod function instead of the recursive one and also by trying to avoid some of the modulus calculations. · GitHub](https://gist.github.com/LaurentMazare/6745649)
+  
+  * Problem
     
-    1. [CRT with RSA](https://www.di-mgt.com.au/crt_rsa.html "https://www.di-mgt.com.au/crt_rsa.html")
+    * [LCASQRT Problem | CodeChef](https://www.codechef.com/problems/LCASQRT)
 
-15. Gaussian Elimination
+* Probability theory [topcoder]
 
-16. Burnsian/Burnside Lemma
+* Dilworth’s Theorem
+  
+  * [Algorithms Weekly by Petr Mitrichev: A Dilworth week](https://petr-mitrichev.blogspot.com/2019/01/a-dilworth-week.html)
+  
+  * [Dilworth's Theorem - GeeksforGeeks](https://www.geeksforgeeks.org/dilworths-theorem/)
+  
+  * [Dilworth's Theorem - Codeforces](https://codeforces.com/blog/entry/3781)
+  
+  * [CodeForces 590E - BIRTHDAY (AC Automatic + DILWORTH Theorem + Dibae Match) - Programmer All](https://www.programmerall.com/article/97612038448/)
+  
+  * [Lecture 14 &#8211; Posets: Mirsky&#8217;s &#038; Dilworth&#8217;s Theorems &#8211; Math 3012 Open Resources](https://sites.gatech.edu/math3012openresources/lecture-videos/lecture-14/)
+  
+  * [Dilworth - YouTube](https://www.youtube.com/watch?v=S8mXDhGs_pg&ab_channel=UnacademyProgramming)
+  
+  * Problem
+    
+    * [Mobile menu](https://wiki.algo.is/Dilworth's%20theorem)
+1. Chinese Reminder Theorem
+   
+   1. [CRT with RSA](https://www.di-mgt.com.au/crt_rsa.html "https://www.di-mgt.com.au/crt_rsa.html")
 
-17. Finding real roots of a n-degree Equation
+2. Gaussian Elimination
 
-18. Given sum of divisor, Find Possible n
+3. Burnsian/Burnside Lemma
 
-19. Miller Rabin primality and decimal Test
+4. Finding real roots of a n-degree Equation
 
-20. Pollard’s rho algorithm
+5. Given sum of divisor, Find Possible n
 
-21. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
+6. Miller Rabin primality and decimal Test
 
-22. Binomial coefficient
+7. Pollard’s rho algorithm
 
-23. Burnside's lemma
+8. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
 
-24. Coordinate Compression
+9. Binomial coefficient
 
-25. XOR transformation
+10. Burnside's lemma
 
-26. Inclusion and Exclusion
+11. Coordinate Compression
 
-27. Fibonacci Number
+12. XOR transformation
 
-28. Derangements
+13. Inclusion and Exclusion
 
-29. Möbius function
+14. Fibonacci Number
+
+15. Derangements
+
+16. Möbius function
     
     1. [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
 
-30. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+17. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
     
     1. [Again one](https://tamref.com/30 "https://tamref.com/30")
 
-31. Karatsuba algorithm
+18. Karatsuba algorithm
 
-32. Mertens' theorem
+19. Mertens' theorem
 
-33. Mirsky’s Theorem
+20. Mirsky’s Theorem
 
-34. Faulhaber's formula
+21. Faulhaber's formula
     
     1. [via Bernoulli numbers](https://www.codechef.com/JULY18A/problems/PFRUIT)
 
-35. Hockey-stick identity
+22. Hockey-stick identity
 
-36. Pólya enumeration theorem
+23. Pólya enumeration theorem
 
-37. Polynomial
+24. Polynomial
     
     1. Division
     2. Inverse
     3. Multipoint  Evaluation 
 
-38. Discrete logarithm and discrete root
+25. Discrete logarithm and discrete root
 
-39. Pell’s Equation
+26. Pell’s Equation
 
-40. Exponential Generating Function
+27. Exponential Generating Function
 
-41. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
+28. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
 
-42. Mobius  Function
+29. Mobius  Function
     
     1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
     2. Mobius  Inversion
 
-43. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
+30. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
     
     1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens "http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens")
     2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
 
-44. Sqrt decomposition
+31. Sqrt decomposition
     
     1. Mo's algorithm
        1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
        2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
 
-45. Tonelli–Shanks algorithm
+32. Tonelli–Shanks algorithm
 
-46. Euclidean distances
+33. Euclidean distances
 
-47. Advanced:
+34. Advanced:
     
     1. Fast Fourier Transform(FFT):
        1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
@@ -383,14 +442,14 @@ These are some online judges with large problem archives, that you can use to pr
        5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
     2. Fast Walsh–Hadamard transform
 
-48. ### Combinatorics:
+35. ### Combinatorics:
     
     1. Advanced:
        1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
        2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
        3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
 
-49. ### Geometry and Computational Geometry:
+36. ### Geometry and Computational Geometry:
     
     1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
     2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
@@ -413,7 +472,7 @@ These are some online judges with large problem archives, that you can use to pr
     12. Delaunay triangulation
     13. Onion  peeling
 
-50. ### Graph Theory:
+37. ### Graph Theory:
     
     * Theory
       * [Topcoder](https://topcoder.com)
@@ -505,7 +564,7 @@ These are some online judges with large problem archives, that you can use to pr
     40. Global min-cut
     41. [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
 
-51. ### Game Theory:
+38. ### Game Theory:
     
     *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
     
@@ -520,11 +579,11 @@ These are some online judges with large problem archives, that you can use to pr
     2. Grundy Number and DP Formulation
     3. Alpha Beta Pruning Minimax
 
-52. ### Group Theory:
+39. ### Group Theory:
     
     1. Schreier–Sims algorithm
 
-53. ### Greedy:
+40. ### Greedy:
     
     *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
     
@@ -545,7 +604,7 @@ These are some online judges with large problem archives, that you can use to pr
       
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
-54. ### Dynamic Programming:
+41. ### Dynamic Programming:
     
     *Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.*
     
@@ -607,7 +666,7 @@ These are some online judges with large problem archives, that you can use to pr
               2. [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
               3. [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
-55. ### String Algorithms:
+42. ### String Algorithms:
     
     1. KMP
     2. Rabin-Karp
@@ -625,7 +684,7 @@ These are some online judges with large problem archives, that you can use to pr
     11. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
         1. [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
-56. ### Bitwise:
+43. ### Bitwise:
     
     You can read my collection of some bit trick for [here](./.random notes/.Bit Trick.md)
     
@@ -639,7 +698,7 @@ These are some online judges with large problem archives, that you can use to pr
        1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
        2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
 
-57. ### Miscellaneous:
+44. ### Miscellaneous:
     
     1. Meet-in-the-Middle Approach
     
@@ -675,19 +734,19 @@ These are some online judges with large problem archives, that you can use to pr
     
     15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
 
-58. ### Some Useful Library:
+45. ### Some Useful Library:
     
     1. Segment Tree Library with Lazy
     2. ModInt Library
     3. FFT Library
     4. Geometry Library
 
-59. ### Adhoc
+46. ### Adhoc
     
     1. Interactive problems
     2. Constructive algorithm
 
-60. ## Blogs & Sites:
+47. ## Blogs & Sites:
     
     1. [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
     2. [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
@@ -724,7 +783,7 @@ These are some online judges with large problem archives, that you can use to pr
     33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
     34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
 
-61. ## Data Structure and Algorithm:
+48. ## Data Structure and Algorithm:
     
     [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
     
@@ -973,7 +1032,7 @@ These are some online judges with large problem archives, that you can use to pr
        5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
        6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
 
-62. ## Challenges:
+49. ## Challenges:
     
     1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
     2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
