@@ -4,8 +4,6 @@
 
 ---
 
-
-
 <h1>Read It First</h1>
 
 ---
@@ -17,835 +15,973 @@
 3. If you have a collection to then please share or send a pull request to help others.
 
 4. ### Some Quality Issue
-
+   
     May be some resources are not too much good to read but well enough to read I think. May be it is the issue of file compression. So happy reading.
 
-# Resource:
+---
 
-## Programming:
+## Table of Content
 
-### Competitive:
+---
 
-[Contest-Archive](https://csacademy.com/contest/archive/ "https://csacademy.com/contest/archive/")
+* [Contest Archives](#contest-archives)
 
-[HAlexV - Competitive Programming Resources](https://halexv.blogspot.com/2015/10/competitive-programming-resources.html "https://halexv.blogspot.com/2015/10/competitive-programming-resources.html") and [BlogPosts](https://halexv.blogspot.com/)
+* [Contest Sites(Practice)](#contest-sites)
 
-[Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#_=_ "https://github.com/lnishan/awesome-competitive-programming#_=_")
+* [Problem Archives](#problem-archives)
 
-[Getting Started](https://www.codechef.com/getting-started "https://www.codechef.com/getting-started")
+* [Visual Tools](#visual-tools)
 
-[CPBR](https://discuss.codechef.com/t/competitive-programming-best-resource/29619 "https://discuss.codechef.com/t/competitive-programming-best-resource/29619")
+* [Topics](#topics)
+  
+  * [Number Theory](#number-theory)
 
-[CP-resources](https://codeforces.com/topic/48102/en4 "https://codeforces.com/topic/48102/en4")
+---
 
-[All the good tutorials found for Competitive Programming](https://codeforces.com/blog/entry/57282)
+## Contest Archives
 
-1. ## Contest Sites (Practice):
+---
 
-   [a2oj.com problem category](https://www.a2oj.com/Categories.html "https://www.a2oj.com/Categories.html") This is a list of category of problems that are needed to implement most often.
+| **Name**                                       | Links                                                                                                                                                                                                                                                                                                                          |
+|:----------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Codeforces                                     | [Blog: 55247 · Topics](https://codeforces.com/blog/entry/55274)<br/>[Blog: 48102 · Topics](https://codeforces.com/topic/48102/en4)<br/>[Blog: 572282 · Resources](https://codeforces.com/blog/entry/57282)                                                                                                                     |
+| A2OJ                                           | [Problem Category](https://www.a2oj.com/Categories.html)<br/>[Problem Ladder](https://a2oj.com/Ladders.html)                                                                                                                                                                                                                   |
+| CodeChef                                       | [Getting Started](https://www.codechef.com/getting-started)<br/>[List of Topics](http://codechef17.rssing.com/chan-12597213/all_p1394.html)<br/>[Number Theory](https://www.codechef.com/wiki/tutorial-number-theory)<br/>[Best Resources](https://discuss.codechef.com/t/competitive-programming-best-resource/29619)         |
+| PEG Wiki                                       | [Main Page · WCIPEG](http://wcipeg.com/wiki/Main_Page)                                                                                                                                                                                                                                                                         |
+| CSAcademy Contest-Archive                      | [Archieve  CSAcademy](https://csacademy.com/contest/archive/)                                                                                                                                                                                                                                                                  |
+| HAlexV                                         | [Resources](https://halexv.blogspot.com/2015/10/competitive-programming-resources.html)<br/>[Blogs](https://halexv.blogspot.com/)                                                                                                                                                                                              |
+| Awesome CP                                     | [Awesome  CP · GitHub](https://github.com/lnishan/awesome-competitive-programming#_=_)                                                                                                                                                                                                                                         |
+| PS Community Topics Collection                 | [Southseo's Blog](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C)                                                                                                                                                                                                                                |
+| NOI.PH: a Filipino website with good resources | [Topics List · NoI.ph](https://training.noi.ph/topics)                                                                                                                                                                                                                                                                         |
+| GeeksForGeeks                                  | [Top 10 Algorithms and Data Structures for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4)<br/>[Number Theory for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/number-theory-competitive-programming/) |
 
+---
+
+## Contest Sites (Practice):
+
+---
+
+Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
+
+1. ### [Codeforces](https://codeforces.com)
+
+2. ### [Topcoder](https://www.topcoder.com "https://www.topcoder.com")
    
+   - It also hosts the TopCoder data science [tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/), a list of tutorials written by respected Topcoder members.
 
-   Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
+3. ### [HackerRank](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerrank.com)
 
+4. ### [CodeChef](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/codechef.com)
+
+5. ### [HackerEarth](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerearth.com/challenges)
+
+6. ### [Hacker Blocks](https://hack.codingblocks.com/)
+
+7. ### [CSAcademy](https://csacademy.com/)
+
+8. ### [AtCoder](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/atcoder.jp)
+
+---
+
+## Problem Archives:
+
+These are some online judges with large problem archives, that you can use to practice topics as you learn when you are not doing contests.
+
+1. ### [SPOJ](https://www.spoj.com/)
+
+2. ### [Timus OJ](http://acm.timus.ru/)
+
+3. ### [UVa OJ](https://uva.onlinejudge.org/)
    
+   * [uHunt](http://uhunt.felix-halim.net/) and [UVaToolkit](http://uvatoolkit.com/) are some related tools.
 
-   1. ### [Codeforces](https://codeforces.com)
+4. ### [A2 OJ](https://a2oj.com/)
 
-      It is a Russian site, that provides high-quality contests with the highest frequency, sometimes up to twice a week. It features a blog system where you can ask questions and a practice problemset, which you can sort through with tags. It also has virtual contest support, and the ability to create groups to organize private contests.
+5. ### [DM::OJ](https://dmoj.ca)
+   
+   * The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
+   
+   * ***Do you love interactive problem? Then it is really appropriate for you.***
 
-   2. ### [Topcoder](https://www.topcoder.com "https://www.topcoder.com")
+6. ### [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main")
 
-      It is a US-operated site, that hosts 1.5-hour SRM's (Single Round Matches). Topcoder also organizes the annual Topcoder Open tournament. It also hosts the TopCoder data science [tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/), a list of tutorials written by respected Topcoder members. One of the features that separate it from other sites is a separate challenge phase after contests.
+7. ### [oj.uz](https://oj.uz/ "https://oj.uz/")
 
-   3. ### [HackerRank](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerrank.com)
+8. ### [Project Euler Archives](https://projecteuler.net/archives)
 
-      HackerRank is a technology company currently based in the US, that focuses on competitive programming challenges. It hosts HourRanks, CodeSprints, 101 Hacks and Week Of Code contests on a monthly basis. It has learning tracks for various CS topics and programming languages.
+9. ### [Google CodeJam Archives](https://codingcompetitions.withgoogle.com/codejam/archive)
 
-   4. ### [CodeChef](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/codechef.com)
+10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
 
-      It is an Indian site, that hosts 3 contests monthly, the Long Challenge (10-day challenge) and the shorter Cook-Off and Lunchtime Challenges. The Long Challenge is one of the best starting points for a beginner programmer, as it allows you to learn new concepts to solve problems competitively. It also organizes an annual flagship coding competition, the CodeChef SnackDown.
+---
 
-   5. ### [HackerEarth](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerearth.com/challenges)
+## Visual Tools
 
-      HackerEarth is also an Indian company focusing on competitive programming and hiring challenges. It conducts the monthly Circuits, which are 9 day long challenges, as well as shorter challenges (HourStorms). It also hosts competitions conducted by various colleges around India.
+---
 
-   6. ### [Hacker Blocks](https://hack.codingblocks.com/)
+1. ### [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
+   
+   This is a app by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools will help to visualize hard graph problems and to make graph to solve properly.
 
-      A problem archive organized by Coding Blocks, it hosts a large number of problems categorized by type. You can join contests with leaderboards, and race your way to the top. The practice section also contains innumerable problems categorized by type. You can also join its classroom or online courses, and get access to a community to help you when you get stuck with personalized support.
+2. ### [Geometry Widget](https://csacademy.com/app/geometry_widget/ "https://csacademy.com/app/geometry_widget/")
+   
+   This is a tools by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools that can help you solve problems that are hard to visualize properly.
 
-   7. ### [CSAcademy](https://csacademy.com/)
+3. ### [VisuAlgo](https://visualgo.net/en)
+   
+   This is a website perfect for people trying to get an intuitive feel for algorithms. It features animations for most common data structures and algorithms.
 
-      It is also a relatively new site that hosts regular 2-hour programming contests. It also supports virtual contest participation, and its interface involves features like a graph editor, geometry tool and a difference checker tool.
+4. ### [Algorithm Visualizer](https://algorithm-visualizer.org/)
+   
+   This is another website to visualize algorithms, data strucutres and the operations we can do on those data structures.
 
-   8. ### [AtCoder](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/atcoder.jp)
+5. ### [TryAlgo](https://tryalgo.org/ "https://tryalgo.org/")
+   
+   This is a French site and very good to practice some algorithms.
 
-      AtCoder is a Japanese programming contest site for anyone from beginners to experts. They hold weekly programming contests, of various difficulty levels (Beginner, Regular and Grand contests)
+---
 
-2. ## Online Judges / Problem Archives:
+## Topics
 
-   These are some online judges with large problem archives, that you can use to practice topics as you learn when you are not doing contests.
+1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
+2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
+3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
 
-   1. ### [SPOJ](https://www.spoj.com/)
-      Contains thousands of problems, organized by tags. The list of classical problems, sorted by users who have solved, is the most popularly suggested learning route for beginner programmers. It also has a discussion forum.
+---
 
-   2. ### [Timus OJ](http://acm.timus.ru/)
-      It is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from regional contests. It has problems classified by type, as well as the regionals they appeared in.
+### Number Theory
 
-   3. ### [UVa OJ](https://uva.onlinejudge.org/)
-      A problem archive with over 3500 programming problems. It is popularly used in accompaniment with the Competitive Programming 3 textbook by Steven and Felix Halim. [uHunt](http://uhunt.felix-halim.net/) and [UVaToolkit](http://uvatoolkit.com/) are some related tools.
+---
 
-   4. ### [A2 OJ](https://a2oj.com/)
-      A problem archive with thousands of problems, which can be sorted by [category](https://a2oj.com/categories). This is useful when you study a new concept and want to practice problems related to it. It also features the Codeforces [ladders](https://a2oj.com/ladders), where you can join a ladder based on your CodeForces rating, and solve problems that suit your current skill level.
+- Theory
+  
+  - [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming
+  
+  - [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
+  
+  - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
 
-   5. ### [DM::OJ](https://dmoj.ca)
+- Bezout’s Identity
+  
+  - [Bezout's identity (Bezout's lemma) - GeeksforGeeks](https://www.geeksforgeeks.org/bezouts-identity-bezouts-lemma/)
+  
+  - 
+* [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") 
+  
+  * Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
 
-      The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
+* Binary exponentiation (aka Fast Power)
+  
+  * [Binary Exponentiation - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/binary-exp.html)
 
-      Do you love interactive problem? Then it is really appropriate for you.
+* GCD and LCM
+  
+  * Binary GCD algorithm
+    
+    * [Stein's Algorithm for finding GCD - GeeksforGeeks](https://www.geeksforgeeks.org/steins-algorithm-for-finding-gcd/)
+    
+    * [Binary GCD Algorithm](https://iq.opengenus.org/binary-gcd-algorithm/)
+  
+  * [Euclidean algorithm for computing the greatest common divisor - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/euclid-algorithm.html)
+  
+  * [Extended Euclidean Algorithm - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/extended-euclid-algorithm.html)
+    
+    * [Linear Diophantine Equations - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/linear-diophantine-equation.html)
+    
+    * [Linear Congruence Equation - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/linear_congruence_equation.html)
+    
+    * [Modular Inverse - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/module-inverse.html)
 
-   6. ### [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main") 
-
-      This is more than a online judge. You will find their [wiki](http://wcipeg.com/wiki/Main_Page) more useful than their problems.
-
-   7. ### [oj.uz](https://oj.uz/ "https://oj.uz/") 
-
-      This site is good enough for practice.
-
-   8. ### [Project Euler Archives](https://projecteuler.net/archives)
-
-      A series of challenging mathematical/computer programming problems, that become increasingly difficult as you proceed down the list. Great for brushing up your math skills.
-
-   9. ### [Google CodeJam Archives](https://codingcompetitions.withgoogle.com/codejam/archive)
-      Archives of the problems from the previous years Google CodeJams.
-
-   10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
-       Archives of the problems from the previous years ACM-ICPC regionals and world finals.
-
-3. ## Visual Tools:
-
-   1. ### [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
-
-      This is a app by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools will help to visualize hard graph problems and to make graph to solve properly.
-
-   2. ### [Geometry Widget](https://csacademy.com/app/geometry_widget/ "https://csacademy.com/app/geometry_widget/")
-
-      This is a tools by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools that can help you solve problems that are hard to visualize properly.
-
-   3. ### [VisuAlgo](https://visualgo.net/en)
-
-      This is a website perfect for people trying to get an intuitive feel for algorithms. It features animations for most common data structures and algorithms.
-
-   4. ### [Algorithm Visualizer](https://algorithm-visualizer.org/) 
-
-      This is another website to visualize algorithms, data strucutres and the operations we can do on those data structures.
+* Prime Generation
+  
+  * Sieve and it’s optimization
+    
+    * Linear Sieve
       
-   5. ### [TryAlgo](https://tryalgo.org/ "https://tryalgo.org/")
-
-      This is a French site and very good to practice some algorithms.
-
-4. ## Courses:
-
-   1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
-   2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
-   3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-декомпозиция "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
-
-5. ## Topics:
-
-   [NOI.PH topics Lists](https://training.noi.ph/topics "https://training.noi.ph/topics")
-
-   [Another-Collection](http://codechef17.rssing.com/chan-12597213/all_p1394.html "http://codechef17.rssing.com/chan-12597213/all_p1394.html")
-
-   [PS-Community Topics Collections](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C "https://namnamseo.tistory.com/entry/PS-토픽-모음")
-
-   [Problem Topics](https://codeforces.com/blog/entry/55274 "https://codeforces.com/blog/entry/55274")
-
-   1. ### Number Theory:
-
-      [Number Theory for CP](https://www.geeksforgeeks.org/number-theory-competitive-programming/ "https://www.geeksforgeeks.org/number-theory-competitive-programming/")
-
-      [DSA](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4 "https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4")
-
-      - Theory
-         	- [Stanford](http://web.stanford.edu/class/cs97si/02-mathematics.pdf) - Stanford's Guide on Introduction To Competitive Programming.
-            	- [Aduni](http://www.aduni.org/courses/discrete/index.php?view=cw) - Course Guide to Discrete Mathematics.
-               	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/understanding-probabilities/) - Understanding Probability.
-
+      * [Sieve of Eratosthenes - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
       
-
-      1. [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
-      2. Fast Power (Binary exponentiation)
-      3. GCD and LCM
-         1. Binary GCD algorithm(Stein’s Algorithm)
-         2.  Euclidean algorithm
-      4. Prime Generation
-
-         1. Sieve and it’s optimization
-            1. Bitwise Sieve
-            2. Segmented Sieve
-            3. Linear sieve
-            4. Sieve of Atkin
-            5. Sieve of Sundaram
-      5. Modular Inverse (Mod Inverse)
-
-         1. Fermat’s Little Theorem
-      6. Big mod ( ![a^b \mod p](https://render.githubusercontent.com/render/math?math=a%5Eb%20%5Cmod%20p) ) 
-      7. Euclid and extended Euclid
-      8. Hensel's lemma
-      9. Euler phi and inverse phi
-      10. Integer and Prime factorization
-             1. Quadratic sieve
-                2. Duval Algorithm
-                3. Shanks's square forms factorization ([SQUFOF](http://en.wikipedia.org/wiki/Shanks'_square_forms_factorization))
-      11. Primitive root
-      12. Operations on Formal Power Series - [1](http://codeforces.com/blog/entry/56422) [2](http://codeforces.com/contest/865/problem/G)
-      13. Sum of Divisor and number of divisor
-      14. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
-      15. Shanks Algorithm
-      16. Probability theory [topcoder]
-      17. Dilworth’s Theorem
-      18. Bezout’s Identity
-      19. Chinese Reminder Theorem
-          1. [CRT with RSA](https://www.di-mgt.com.au/crt_rsa.html "https://www.di-mgt.com.au/crt_rsa.html")
-      20. Gaussian Elimination
-      21. Burnsian/Burnside Lemma
-      22. Finding real roots of a n-degree Equation
-      23. Given sum of divisor, Find Possible n
-      24. Miller Rabin primality and decimal Test
-      25. Pollard’s rho algorithm
-      26. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
-      27. Binomial coefficient
-      28. Burnside's lemma
-      29. Coordinate Compression
-      30. XOR transformation
-      31. Inclusion and Exclusion
-      32. Fibonacci Number
-      33. Derangements
-      34. Möbius function
-          1. [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
-      35. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
-             1. [Again one](https://tamref.com/30 "https://tamref.com/30")
-      36. Karatsuba algorithm
-      37. Mertens' theorem
-      38. Mirsky’s Theorem
-      39. Faulhaber's formula
-          1. [via Bernoulli numbers](https://www.codechef.com/JULY18A/problems/PFRUIT)
-      40. Hockey-stick identity
-      41. Pólya enumeration theorem
-      42. Polynomial
-          1. Division
-          2. Inverse
-          3. Multipoint  Evaluation 
-      43. Discrete logarithm and discrete root
-      44. Pell’s Equation
-      45. Exponential Generating Function
-      46. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
-      47. Mobius  Function
-          1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
-          2. Mobius  Inversion
-      48. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
-             1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens "http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens")
-             2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
-      49. Sqrt decomposition
-          1. Mo's algorithm
-             1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
-             2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
-      50. Tonelli–Shanks algorithm
-      51. Euclidean distances
-      52. Advanced:
-
-             1. Fast Fourier Transform(FFT):
-                1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
-                2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
-                3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
-                4. [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
-                5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
-             2. Fast Walsh–Hadamard transform
-
-   2. ### Combinatorics:
-
-      1. Advanced:
-         1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
-         2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
-         3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
-
-   3. ### Geometry and Computational Geometry:
-
-      1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
-      2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
-      3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
-         1. [SQRT – OPTIMISATION & Centroid Decomposition of a Tree](https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/ "https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/")
-      4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
-         1. LiChao Tree
-            1. [cp-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html "https://cp-algorithms.com/geometry/convex_hull_trick.html")
-            2. [LiChao tree](http://www.secmem.org/blog/2019/01/03/lichao-tree/ "http://www.secmem.org/blog/2019/01/03/lichao-tree/")
-            3. [Delete from LiChao tree](https://cp-algorithms.com/data_structures/deleting_in_log_n.html "https://cp-algorithms.com/data_structures/deleting_in_log_n.html")
-         2. 3-D convex hull
-      5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
-      6. Pick’s Theorem
-      7. Segment-Segment intersection
-      8. Line sweeping
-      9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      10. Fortune’s Algorithm 
-          1. Voronoi Diagram
-      11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      12. Delaunay triangulation
-      13. Onion  peeling
-
-   4. ### Graph Theory:
-
-      * Theory
-          * [Topcoder](https://topcoder.com)
-           * [Identifying a graph on Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/)
-           * [Searching in a Graph](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
-           * [Path Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
-          * [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
-          * [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
-
-      1. Representation and BFS and DFS
-         1. Lexicographical BFS
-      2. Dijkstra and Variation
-      3. Bellman-Ford Algorithm and it’s variation
-      4. Eularian Paths
-         1. Hierhozer’s Algorithm
-      5. Floyd Warshall and it’s variation
-      6. Johnson’s Algorithm
-      7. Shortest path and k-th shortest path
-         1. SPFA
-         2. [Yen’s Algorithm](https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/ "https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/")
-         3. Seidel's  algorithm, unweighted APSP
-         4. 0-1 BFS
-         5. Johnson  algorithm
-      8. Minimum Spanning Tree
-         1. Prims
-         2. Kruskal
-            * For directed graph see also
-         3. Boruvka’s Algorithm
-         4. [Chu–Liu/Edmonds' algorithm](https://en.wikipedia.org/wiki/Edmonds%27_algorithm "https://en.wikipedia.org/wiki/Edmonds%27_algorithm")
-            1. [directed-mst](https://github.com/stjepang/snippets/blob/master/directed_mst.cpp "https://github.com/stjepang/snippets/blob/master/directed_mst.cpp")
-         5. Reverse-Delete Algorithm
-            1. Minimum Diameter Spanning Tree
-         6. Rectilinear MST
-      9. Topological Sorting
-         1. using DFS
-         2. Khan’s Algorithm
-      10. Strongly Connected Components
-             11. Kosaraju’s Algorithm
-      12. Articulation Point
-      13. Euler path (Construction and optimization)
-      14. Maximum Flow
-          1. Ford Fulkerson
-          2. Dinic
-      15. Maximum Independent set
-      16. Maximum flow minimum cost
-      17. Largest Clique
-      18. IDA* Search (Iterative deepening  and Iterative deepening A*)
-          * Advanced topics
-      19. Stable Marriage Problem
-      20. Stoer Wagner Algorithm 
-          * Finding Minimum Cut
-      21. Planar Graph Detection
-      22. Havel-Hakimi Algorithm
-          * Construct a graph given degree of nodes
-      23. Erdos & Galli Theorem
-      24. DAG and Grid
-      25. Modular decomposition
-      26. Numbers
-          1. Euler
-          2. Catalan
-          3. Stirling
-             1. First Kind
-             2. Second Kind
-      27. Level ancestors and Ladder Algorithm
-      28. Flow
-          1. Max-flow-Min-cut theorem
-          2. Push–relabel maximum flow algorithm/Preflow-Push/Fast-flow
-          3. Min cost flow (lower priority)
-          4. Network flow
-          5. Flow decomposition
-          6. [Topcoder - Max Flow Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/)
-          7. [Topcoder - Max Flow Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/)
-      29. Constraint satisfaction problem
-      30. Kirchhoff's  Matrix Tree Theorem
-      31. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
-      32. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
-          1. Lengauer-Tarjan Algorithm
-      33. Kempe’s Graph-coloring Algorithm
-          1. Chaitin's algorithm
-          2. Kempe’s Algorithm
-      34. Hall's marriage theorem
-      35. Hungarian algorithm
-      36. Blossom Algorithm
-      37. Search for bridges online
-      38. Hopcroft–Karp algorithm
-      39. Perfect order elimination
-          1. [Problem](https://www.codechef.com/JULY18A/problems/JERRYTOM)
-      40. Maximum matching
-          1. Edmonds-Blossom algorithm
-      41. Global min-cut
-      42. [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
-
-   5. ### Game Theory:
-
-      *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
-
-       - Theory
-      	- [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
-      	- [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
-      	- [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
-      	- [Book](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf) - Game Theory By Thomas S. Ferguson.
-      	- [Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem) - Sprague Grundy Theorem.
-      	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
-
-      1. Nim
-      2. Grundy Number and DP Formulation
-      3. Alpha Beta Pruning Minimax
-
-   6. ### Group Theory:
-
-      1. Schreier–Sims algorithm
-
-   7. ### Greedy:
-
-      *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
-
-       - Theory
-           	- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
-                	- [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) - Tutorial on how to spot a greedy algorithm.
-                   	- [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/) - Tutorial on greedy algorithms by [Akash Sharma](https://www.hackerearth.com/users/r3gz3n/).
-
+      * [Linear Sieve - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/prime-sieve-linear.html)
       
+      * [Criba de Eratóstenes | Programacion Deportiva](https://prodeportiva.wordpress.com/2013/02/11/criba-de-eratostenes/)
+      
+      * [Sieve of Eratosthenes - Codeforces](https://codeforces.com/blog/entry/54090)
+    
+    * Bitwise Sieve
+      
+      * [Bitwise Sieve - GeeksforGeeks](https://www.geeksforgeeks.org/bitwise-sieve/)
+      
+      * [প্রাইম নাম্বার - বিট-ওয়াইজ সিভ (Prime Number - Bitwise Sieve) | Anindya Sundar Paul](https://anindyaspaul.com/blog/2013/08/06/bitwise-sieve/)
+      
+      * [Bitwise Sieve Algorithm · GitHub](https://gist.github.com/Remonhasan/8d82f877316645f0e6b2365a8959f40c)
+      
+      * [Bitwise Sieve | Aaman007](https://aaman007.wordpress.com/2018/04/06/bitwise-sieve/)
+      
+      * Problem
+        
+        * [SPOJ.com - Problem TDPRIMES](https://www.spoj.com/problems/TDPRIMES/)
+    
+    * Segmented Sieve
+      
+      * [Segmented sieve of Eratosthenes · kimwalisch/primesieve Wiki · GitHub](https://github.com/kimwalisch/primesieve/wiki/Segmented-sieve-of-Eratosthenes)
+      
+      * [Segmented Sieve - GeeksforGeeks](https://www.geeksforgeeks.org/segmented-sieve/)
+      
+      * [Segmented Sieve of Eratosthenes | forthright48](https://forthright48.com/segmented-sieve-of-eratosthenes/)
+      
+      * [&#160;I, ME AND MYSELF !!!: Segmented Sieve](http://zobayer.blogspot.com/2009/09/segmented-sieve.html)
+      
+      * [Segmented Sieve - charlesreid1](https://charlesreid1.com/wiki/Segmented_Sieve)
+      
+      * Problem
+        
+        * [Find Prime Numbers in a Range in C++ (Segmented Sieve Method)](https://www.codespeedy.com/find-prime-numbers-in-a-range-in-c-segmented-sieve-method/)
+        
+        * [SPOJ.com - Problem PRIME1](https://www.spoj.com/problems/PRIME1/cstart=10)
+    
+    * Sieve of Atkin
+      
+      * [Sieve of Atkin - GeeksforGeeks](https://www.geeksforgeeks.org/sieve-of-atkin/)
+      
+      * [Sieve of Atkin](https://iq.opengenus.org/sieve-of-atkin/)
+      
+      * [Sieve of Atkin](https://fylux.github.io/2017/03/16/Sieve-Of-Atkin/)
+    
+    * Sieve of Sundaram
+      
+      * [Sieve of Sundaram to print all primes smaller than n - GeeksforGeeks](https://www.geeksforgeeks.org/sieve-sundaram-print-primes-smaller-n/)
+      
+      * [The Sieve of Sundaram &#8211; Lucky&#039;s Notes](https://luckytoilet.wordpress.com/2010/04/18/the-sieve-of-sundaram/)
+      
+      * [Find all primes with Sieve of Sundaram](https://iq.opengenus.org/sieve-of-sundaram/)
+1. Modular Inverse (Mod Inverse)
+   
+   1. Fermat’s Little Theorem
 
+2. Euclid and extended Euclid
+
+3. Hensel's lemma
+
+4. Euler phi and inverse phi
+
+5. Integer and Prime factorization
+   
+   1. Quadratic sieve
+      2. Duval Algorithm
+      3. Shanks's square forms factorization ([SQUFOF](http://en.wikipedia.org/wiki/Shanks'_square_forms_factorization))
+
+6. Primitive root
+
+7. Operations on Formal Power Series - [1](http://codeforces.com/blog/entry/56422) [2](http://codeforces.com/contest/865/problem/G)
+
+8. Sum of Divisor and number of divisor
+
+9. [Factoradic](https://en.wikipedia.org/wiki/Factorial_number_system "https://en.wikipedia.org/wiki/Factorial_number_system") and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!) 
+
+10. Shanks Algorithm
+
+11. Probability theory [topcoder]
+
+12. Dilworth’s Theorem
+
+13. Bezout’s Identity
+
+14. Chinese Reminder Theorem
+    
+    1. [CRT with RSA](https://www.di-mgt.com.au/crt_rsa.html "https://www.di-mgt.com.au/crt_rsa.html")
+
+15. Gaussian Elimination
+
+16. Burnsian/Burnside Lemma
+
+17. Finding real roots of a n-degree Equation
+
+18. Given sum of divisor, Find Possible n
+
+19. Miller Rabin primality and decimal Test
+
+20. Pollard’s rho algorithm
+
+21. <sup>n</sup>P<sub>r</sub> and <sup>n</sup>C<sub>r</sub>
+
+22. Binomial coefficient
+
+23. Burnside's lemma
+
+24. Coordinate Compression
+
+25. XOR transformation
+
+26. Inclusion and Exclusion
+
+27. Fibonacci Number
+
+28. Derangements
+
+29. Möbius function
+    
+    1. [Dance With Mobius Function by Surya Kiran](https://www.quora.com/profile/Surya-Kiran/Posts/A-Dance-with-Mobius-Function)
+
+30. [Kitamasa Method](https://yosupo.hatenablog.com/entry/2015/03/27/025132 "https://yosupo.hatenablog.com/entry/2015/03/27/025132") this is a Japanese blog post. Translate it. Translate using “CHROME” is recommended.
+    
+    1. [Again one](https://tamref.com/30 "https://tamref.com/30")
+
+31. Karatsuba algorithm
+
+32. Mertens' theorem
+
+33. Mirsky’s Theorem
+
+34. Faulhaber's formula
+    
+    1. [via Bernoulli numbers](https://www.codechef.com/JULY18A/problems/PFRUIT)
+
+35. Hockey-stick identity
+
+36. Pólya enumeration theorem
+
+37. Polynomial
+    
+    1. Division
+    2. Inverse
+    3. Multipoint  Evaluation 
+
+38. Discrete logarithm and discrete root
+
+39. Pell’s Equation
+
+40. Exponential Generating Function
+
+41. [[Tutorial] Math note — Dirichlet convolution](https://codeforces.com/blog/entry/54150)
+
+42. Mobius  Function
+    
+    1. [A Dance with Mobius Function](https://discuss.codechef.com/t/a-dance-with-mobius-function/11315)
+    2. Mobius  Inversion
+
+43. [Alien’s Trick/*WQS*-*Binary*-Search/Parameter search](https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/ "https://rezwanarefin01.github.io/posts/ioi16-aliens-trick/")
+    
+    1. [SERBANOLOGY](http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens "http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens")
+    2. [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
+
+44. Sqrt decomposition
+    
+    1. Mo's algorithm
+       1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
+       2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
+
+45. Tonelli–Shanks algorithm
+
+46. Euclidean distances
+
+47. Advanced:
+    
+    1. Fast Fourier Transform(FFT):
+       1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
+       2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
+       3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
+       4. [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
+       5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
+    2. Fast Walsh–Hadamard transform
+
+48. ### Combinatorics:
+    
+    1. Advanced:
+       1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
+       2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
+       3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
+
+49. ### Geometry and Computational Geometry:
+    
+    1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
+    2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
+    3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
+       1. [SQRT – OPTIMISATION & Centroid Decomposition of a Tree](https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/ "https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/")
+    4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
+       1. LiChao Tree
+          1. [cp-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html "https://cp-algorithms.com/geometry/convex_hull_trick.html")
+          2. [LiChao tree](http://www.secmem.org/blog/2019/01/03/lichao-tree/ "http://www.secmem.org/blog/2019/01/03/lichao-tree/")
+          3. [Delete from LiChao tree](https://cp-algorithms.com/data_structures/deleting_in_log_n.html "https://cp-algorithms.com/data_structures/deleting_in_log_n.html")
+       2. 3-D convex hull
+    5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+    6. Pick’s Theorem
+    7. Segment-Segment intersection
+    8. Line sweeping
+    9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+    10. Fortune’s Algorithm 
+        1. Voronoi Diagram
+    11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+    12. Delaunay triangulation
+    13. Onion  peeling
+
+50. ### Graph Theory:
+    
+    * Theory
+      * [Topcoder](https://topcoder.com)
+        * [Identifying a graph on Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/)
+        * [Searching in a Graph](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
+        * [Path Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-3/)
+      * [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
+      * [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
+    1. Representation and BFS and DFS
+       1. Lexicographical BFS
+    2. Dijkstra and Variation
+    3. Bellman-Ford Algorithm and it’s variation
+    4. Eularian Paths
+       1. Hierhozer’s Algorithm
+    5. Floyd Warshall and it’s variation
+    6. Johnson’s Algorithm
+    7. Shortest path and k-th shortest path
+       1. SPFA
+       2. [Yen’s Algorithm](https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/ "https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/")
+       3. Seidel's  algorithm, unweighted APSP
+       4. 0-1 BFS
+       5. Johnson  algorithm
+    8. Minimum Spanning Tree
+       1. Prims
+       2. Kruskal
+          * For directed graph see also
+       3. Boruvka’s Algorithm
+       4. [Chu–Liu/Edmonds' algorithm](https://en.wikipedia.org/wiki/Edmonds%27_algorithm "https://en.wikipedia.org/wiki/Edmonds%27_algorithm")
+          1. [directed-mst](https://github.com/stjepang/snippets/blob/master/directed_mst.cpp "https://github.com/stjepang/snippets/blob/master/directed_mst.cpp")
+       5. Reverse-Delete Algorithm
+          1. Minimum Diameter Spanning Tree
+       6. Rectilinear MST
+    9. Topological Sorting
+       1. using DFS
+       2. Khan’s Algorithm
+    10. Strongly Connected Components
+        11. Kosaraju’s Algorithm
+    11. Articulation Point
+    12. Euler path (Construction and optimization)
+    13. Maximum Flow
+        1. Ford Fulkerson
+        2. Dinic
+    14. Maximum Independent set
+    15. Maximum flow minimum cost
+    16. Largest Clique
+    17. IDA* Search (Iterative deepening  and Iterative deepening A*)
+        * Advanced topics
+    18. Stable Marriage Problem
+    19. Stoer Wagner Algorithm 
+        * Finding Minimum Cut
+    20. Planar Graph Detection
+    21. Havel-Hakimi Algorithm
+        * Construct a graph given degree of nodes
+    22. Erdos & Galli Theorem
+    23. DAG and Grid
+    24. Modular decomposition
+    25. Numbers
+        1. Euler
+        2. Catalan
+        3. Stirling
+           1. First Kind
+           2. Second Kind
+    26. Level ancestors and Ladder Algorithm
+    27. Flow
+        1. Max-flow-Min-cut theorem
+        2. Push–relabel maximum flow algorithm/Preflow-Push/Fast-flow
+        3. Min cost flow (lower priority)
+        4. Network flow
+        5. Flow decomposition
+        6. [Topcoder - Max Flow Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/)
+        7. [Topcoder - Max Flow Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/)
+    28. Constraint satisfaction problem
+    29. Kirchhoff's  Matrix Tree Theorem
+    30. [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
+    31. [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
+        1. Lengauer-Tarjan Algorithm
+    32. Kempe’s Graph-coloring Algorithm
+        1. Chaitin's algorithm
+        2. Kempe’s Algorithm
+    33. Hall's marriage theorem
+    34. Hungarian algorithm
+    35. Blossom Algorithm
+    36. Search for bridges online
+    37. Hopcroft–Karp algorithm
+    38. Perfect order elimination
+        1. [Problem](https://www.codechef.com/JULY18A/problems/JERRYTOM)
+    39. Maximum matching
+        1. Edmonds-Blossom algorithm
+    40. Global min-cut
+    41. [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
+
+51. ### Game Theory:
+    
+    *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
+    
+    - Theory
+      - [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
+      - [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
+      - [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
+      - [Book](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf) - Game Theory By Thomas S. Ferguson.
+      - [Wikipedia](https://en.wikipedia.org/wiki/Sprague%E2%80%93Grundy_theorem) - Sprague Grundy Theorem.
+      - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
+    1. Nim
+    2. Grundy Number and DP Formulation
+    3. Alpha Beta Pruning Minimax
+
+52. ### Group Theory:
+    
+    1. Schreier–Sims algorithm
+
+53. ### Greedy:
+    
+    *Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
+    
+    - Theory
+      
+      * [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) - Greedy is Good.
+      
+      * [Stackoverflow.](http://stackoverflow.com/questions/7887487/how-to-spot-a-greedy-algorithm) - Tutorial on how to spot a greedy algorithm.
+        
+                 - [Hackerearth](https://www.hackerearth.com/notes/greedy-algorithm/) - Tutorial on greedy algorithms by [Akash Sharma](https://www.hackerearth.com/users/r3gz3n/).
       1. Task Scheduling
-
-            1. Chordal graph
-
+         
+         1. Chordal graph
+      
       2. Maximum sum subarray
-
-            > ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
-
+         
+         > ![\left.\begin{aligned} \text{1-D array in  }\rightarrow \mathcal{O}(N)\\  \text{2-D array in  }\rightarrow\mathcal{O}(N^3)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{  Kadane's Algorithm}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
+      
       3. Maximum rectangle ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
 
-   8. ### Dynamic Programming:
+54. ### Dynamic Programming:
+    
+    *Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.*
+    
+    [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
+    
+    [Best DP](https://wiki.kimiyuki.net/動的計画法)
+    
+    [DP-ever](https://codeforces.com/blog/entry/67679 "https://codeforces.com/blog/entry/67679")
+    
+    [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
+    
+    [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
+    
+    [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
+    
+    1. Modular DP (DP with MOD value as state)
+    2. Digit DP
+    3. DP with counting
+    4. [DP with Profile](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html "http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html")
+       1. [Broken Profile DP](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html "https://cp-algorithms.com/dynamic_programming/profile-dynamics.html")
+          1. [tcBrokenProfile](https://apps.topcoder.com/forums/?module=Thread&threadID=697369 "https://apps.topcoder.com/forums/?module=Thread&threadID=697369")
+          2. [cfBrokenProfile](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html "https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html")
+    5. [SOS DP](https://codeforces.com/blog/entry/45223 "https://codeforces.com/blog/entry/45223")
+    6. Interval DP
+    7. [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
+    8. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
+       1. DP On  Rooted Trees
+       2. DP On  DAGs
+       3. Path  Counting using Matrix Exponentiation
+          1. [Matrix expo](https://codeforces.com/blog/entry/67776 "https://codeforces.com/blog/entry/67776")
+          2. [Matrix expo](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/ "https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/")
+          3. [wilanw](http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html "http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html")
+       4. Tree  Child-Sibling notation DP
+       5. Tree-rerooting DP
+       6. Unrooted Tree DP
+       7. [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
+       8. Sibling DP [Blog - 1](https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/ "https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/") [Problems](https://codeforces.com/blog/entry/18523)
+    9. Matrix chain Multiplication
+    10. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+    11. Bitmask
+        12. Subset Bitmask DP
+            1. ternary bitmask DP
+    12. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
+        1. [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
+        2. [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
+        3. Convex  Hull Tricks (Offline / Dynamic)
+        4. DP  optimization using interval trees
+        5. [9 way DP optimization](https://koosaga.com/243 "https://koosaga.com/243")
+        6. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
+    13. Fast  Zeta and Mobius Transform
+    14. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
+    15. [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
+    16. [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
+        1. [Kuroni’s Blog](https://codeforces.com/blog/entry/77298 "https://codeforces.com/blog/entry/77298")
+    17. Matrix Exponentiation
+        1. *Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
+           1. Theory
+              1. [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
+              2. [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
+              3. [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
-      *Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.*
+55. ### String Algorithms:
+    
+    1. KMP
+    2. Rabin-Karp
+    3. Suffix Array and Suffix Tree
+       1. Ukkonen's Algorithm
+       2. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
+       3. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
+    4. Suffix automation
+    5. Aho Chorasic Algorithm
+    6. Z-Algorithm
+    7. Manacher Algorithm
+    8. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
+    9. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
+    10. Levenshtein distance
+    11. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
+        1. [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
-      [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
+56. ### Bitwise:
+    
+    You can read my collection of some bit trick for [here](./.random notes/.Bit Trick.md)
+    
+    1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
+    2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
+    3. [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html "https://graphics.stanford.edu/~seander/bithacks.html")
+    4. [zobayer’s Blog](http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html "http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html")
+    5. [catonmat bit hacks](https://catonmat.net/low-level-bit-hacks "https://catonmat.net/low-level-bit-hacks")
+    6. [Understanding Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
+    7. Bit Manipulation
+       1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
+       2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
 
-      [Best DP](https://wiki.kimiyuki.net/動的計画法)
+57. ### Miscellaneous:
+    
+    1. Meet-in-the-Middle Approach
+    
+    2. Konig’s Theorem
+    
+    3. Matrix Tree Theorem
+    
+    4. Counting-out Game
+       
+       > ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
+    
+    5. Hashing
+    
+    6. Huffman Coding
+    
+    7. Backtracking with pruning
+    
+    8. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+    
+    9. Matrix exponentiation
+    
+    10. Zeller's Congruence
+    
+    11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
+    
+    12. Knight tours
+    
+    13. Simulated annealing and Hill climbing
+    
+    14. 15 Puzzle 
+        
+        1. A* and Meet-in-the-Middle
+    
+    15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
 
-      [DP-ever](https://codeforces.com/blog/entry/67679 "https://codeforces.com/blog/entry/67679")
+58. ### Some Useful Library:
+    
+    1. Segment Tree Library with Lazy
+    2. ModInt Library
+    3. FFT Library
+    4. Geometry Library
 
-      [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) - Dynamic Programming from Novice to Advanced.
+59. ### Adhoc
+    
+    1. Interactive problems
+    2. Constructive algorithm
 
-      [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming) - Tutorial on Dynamic Programming.
+60. ## Blogs & Sites:
+    
+    1. [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
+    2. [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
+    3. [Anudeep's blog](https://blog.anudeep2011.com/ "https://blog.anudeep2011.com/")
+    4. [Myung-Woo Jeon](https://blog.myungwoo.kr/ "https://blog.myungwoo.kr/")
+    5. [Algoogle](http://algoogle.hadrori.jp/ "http://algoogle.hadrori.jp/")  This site contains some quick description and implementation of some well-known algorithms
+    6. [AlgoSpot](https://algospot.com/wiki/list/ "https://algospot.com/wiki/list/") Here some good stuffs can be found such as Manacher’s Algorithm and so on.
+    7. [Apple](https://koosaga.com/ "https://koosaga.com/") Some of the articles are related to programming like tree, greedy and really helpful
+    8. [BITS-CPSIG](https://ankitsultana.com/bits-cpsig/advanced "https://ankitsultana.com/bits-cpsig/advanced") this site is really awesome. Just loved it.
+    9. [Note Book](http://dipusnotebook.blogspot.com/ "http://dipusnotebook.blogspot.com/") Topics with implementation
+    10. [Aaman007](https://aaman007.wordpress.com/ "https://aaman007.wordpress.com/") A Noob Programmer's CodeHub… but why?? ;)
+    11. [TUNG M PHUNG’S BLOG](https://tungmphung.com/ "https://tungmphung.com/")
+    12. [Yoshipo’s Diary](https://yosupo.hatenablog.com/ "https://yosupo.hatenablog.com/") A moderate Japanese blog-post.
+    13. [tamref.com](https://tamref.com/ "https://tamref.com/")
+    14. [cubelover’s Blog](https://cubelover.tistory.com/ "https://cubelover.tistory.com/")
+    15. [SERBANOLOGY](http://serbanology.com/ "http://serbanology.com/")
+    16. [Programming Pages](http://programming.sirrida.de "http://programming.sirrida.de")
+    17. [Programiz](https://www.programiz.com "https://www.programiz.com")
+    18. [Awesome Competitive Programming](https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html "https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html")
+    19. [Hackr](https://hackr.io "hackr.io")
+    20. [Earth](https://zigui.tistory.com/ "https://zigui.tistory.com/")
+    21. [CodeUp](https://codeup.kr/index.php "https://codeup.kr/index.php")
+    22. [Useful links](https://codeforces.com/blog/entry/512 "https://codeforces.com/blog/entry/512")
+    23. [Dev Skill](https://devskill.com "https://devskill.com")
+    24. [CodeMarshal Blog](https://www.codemarshal.com/blog/ "https://www.codemarshal.com/blog/")
+    25. [XiTiJ](http://xitijshukla.blogspot.com "http://xitijshukla.blogspot.com")
+    26. [SEVERYN KOZAK](https://sevko.io/)
+    27. [Andrew's Algorithm Solutions](http://andrew-algorithm.blogspot.com/)
+    28. [vexorian's blog](https://www.vexorian.com)
+    29. [MATHBLOG](http://www.mathblog.dk "http://www.mathblog.dk")
+    30. [ProbToreal](https://ojsolver.blogspot.com "https://ojsolver.blogspot.com")
+    31. [Blog of AsEs](https://adnansarker.wordpress.com/)
+    32. [Techie Delight](https://www.techiedelight.com "https://www.techiedelight.com")
+    33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
+    34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
 
-      [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
-
-      1. Modular DP (DP with MOD value as state)
-      2. Digit DP
-      3. DP with counting
-      4. [DP with Profile](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html "http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html")
-         1. [Broken Profile DP](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html "https://cp-algorithms.com/dynamic_programming/profile-dynamics.html")
-            1. [tcBrokenProfile](https://apps.topcoder.com/forums/?module=Thread&threadID=697369 "https://apps.topcoder.com/forums/?module=Thread&threadID=697369")
-            2. [cfBrokenProfile](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html "https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html")
-      5. [SOS DP](https://codeforces.com/blog/entry/45223 "https://codeforces.com/blog/entry/45223")
-      6. Interval DP
-      7. [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
-      8. [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
-         1. DP On  Rooted Trees
-         2. DP On  DAGs
-         3. Path  Counting using Matrix Exponentiation
-            1. [Matrix expo](https://codeforces.com/blog/entry/67776 "https://codeforces.com/blog/entry/67776")
-            2. [Matrix expo](https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/ "https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/")
-            3. [wilanw](http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html "http://wilanw.blogspot.com/2009/12/matrix-exponentiation.html")
-         4. Tree  Child-Sibling notation DP
-         5. Tree-rerooting DP
-         6. Unrooted Tree DP
-         7. [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
-         8. Sibling DP [Blog - 1](https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/ "https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/") [Problems](https://codeforces.com/blog/entry/18523)
-      9. Matrix chain Multiplication
-      10. LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-      11. Bitmask
-         12. Subset Bitmask DP
-             1. ternary bitmask DP
-      13. [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
-          1. [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
-          2. [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
-          3. Convex  Hull Tricks (Offline / Dynamic)
-          4. DP  optimization using interval trees
-          5. [9 way DP optimization](https://koosaga.com/243 "https://koosaga.com/243")
-          6. [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
-      14. Fast  Zeta and Mobius Transform
-      15. [Fast  Subset Convolution](https://goo.gl/7WZJsp)
-      16. [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
-      17. [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
-          1. [Kuroni’s Blog](https://codeforces.com/blog/entry/77298 "https://codeforces.com/blog/entry/77298")
-      18. Matrix Exponentiation
-          1. *Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.*
-             1. Theory
-                1. [zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
-                2. [Quora](https://threads-iiith.quora.com/Solving-Dynamic-Programming-with-Matrix-Exponentiation) - Solving Dynamic Programming with Matrix Exponentiation.
-                3. [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
-
-   9. ### String Algorithms:
-
-      1. KMP
-      2. Rabin-Karp
-      3. Suffix Array and Suffix Tree
-         1. Ukkonen's Algorithm
-         2. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
-         3. [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
-      4. Suffix automation
-      5. Aho Chorasic Algorithm
-      6. Z-Algorithm
-      7. Manacher Algorithm
-      8. [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
-      9. [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
-      10. Levenshtein distance
-      11. [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
-          1. [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
-
-   10. ### Bitwise:
-
-       You can read my collection of some bit trick for [here](./.random notes/.Bit Trick.md)
-
-          1. [Thue–Morse sequence](https://en.wikipedia.org/wiki/Thue–Morse_sequence "https://en.wikipedia.org/wiki/Thue–Morse_sequence")
-          2. [BO](https://en.wikipedia.org/wiki/Bitwise_operation "https://en.wikipedia.org/wiki/Bitwise_operation")
-          3. [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html "https://graphics.stanford.edu/~seander/bithacks.html")
-          4. [zobayer’s Blog](http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html "http://zobayer.blogspot.com/2009/12/bitwise-operations-in-cc-part-1.html")
-          5. [catonmat bit hacks](https://catonmat.net/low-level-bit-hacks "https://catonmat.net/low-level-bit-hacks")
-          6. [Understanding Bitwise Operators](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301)
-          7. Bit Manipulation
-             1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
-             2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
-
-   11. ### Miscellaneous:
-
-          1. Meet-in-the-Middle Approach
-
-          2. Konig’s Theorem
-
-          3. Matrix Tree Theorem
-
-          4. Counting-out Game
-
-             > ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
-
-          5. Hashing
-
-          6. Huffman Coding
-
-          7. Backtracking with pruning
-
-          8. Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
-
-          9. Matrix exponentiation
-
-          10. Zeller's Congruence
-
-          11. Transforming Hexagonal grid, Triangular grid to 3-D coordinate system
-
-          12. Knight tours
-
-          13. Simulated annealing and Hill climbing
-
-          14. 15 Puzzle 
-
-                 1. A* and Meet-in-the-Middle
-
-       15. [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
-
-   12. ### Some Useful Library:
-
-          1. Segment Tree Library with Lazy
-          2. ModInt Library
-          3. FFT Library
-          4. Geometry Library
-
-   13. ### Adhoc
-
-       1. Interactive problems
-       2. Constructive algorithm
-
-6. ## Blogs & Sites:
-
-   1. [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
-   2. [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
-   3. [Anudeep's blog](https://blog.anudeep2011.com/ "https://blog.anudeep2011.com/")
-   4. [Myung-Woo Jeon](https://blog.myungwoo.kr/ "https://blog.myungwoo.kr/")
-   5. [Algoogle](http://algoogle.hadrori.jp/ "http://algoogle.hadrori.jp/")  This site contains some quick description and implementation of some well-known algorithms
-   6. [AlgoSpot](https://algospot.com/wiki/list/ "https://algospot.com/wiki/list/") Here some good stuffs can be found such as Manacher’s Algorithm and so on.
-   7. [Apple](https://koosaga.com/ "https://koosaga.com/") Some of the articles are related to programming like tree, greedy and really helpful
-   8. [BITS-CPSIG](https://ankitsultana.com/bits-cpsig/advanced "https://ankitsultana.com/bits-cpsig/advanced") this site is really awesome. Just loved it.
-   9. [Note Book](http://dipusnotebook.blogspot.com/ "http://dipusnotebook.blogspot.com/") Topics with implementation
-   10. [Aaman007](https://aaman007.wordpress.com/ "https://aaman007.wordpress.com/") A Noob Programmer's CodeHub… but why?? ;)
-   11. [TUNG M PHUNG’S BLOG](https://tungmphung.com/ "https://tungmphung.com/")
-   12. [Yoshipo’s Diary](https://yosupo.hatenablog.com/ "https://yosupo.hatenablog.com/") A moderate Japanese blog-post.
-   13. [tamref.com](https://tamref.com/ "https://tamref.com/")
-   14. [cubelover’s Blog](https://cubelover.tistory.com/ "https://cubelover.tistory.com/")
-   15. [SERBANOLOGY](http://serbanology.com/ "http://serbanology.com/")
-   16. [Programming Pages](http://programming.sirrida.de "http://programming.sirrida.de")
-   17. [Programiz](https://www.programiz.com "https://www.programiz.com")
-   18. [Awesome Competitive Programming](https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html "https://www.dcc.fc.up.pt/~pribeiro/aulas/pc1819/awesome/index.html")
-   19. [Hackr](https://hackr.io "hackr.io")
-   20. [Earth](https://zigui.tistory.com/ "https://zigui.tistory.com/")
-   21. [CodeUp](https://codeup.kr/index.php "https://codeup.kr/index.php")
-   22. [Useful links](https://codeforces.com/blog/entry/512 "https://codeforces.com/blog/entry/512")
-   23. [Dev Skill](https://devskill.com "https://devskill.com")
-   24. [CodeMarshal Blog](https://www.codemarshal.com/blog/ "https://www.codemarshal.com/blog/")
-   25. [XiTiJ](http://xitijshukla.blogspot.com "http://xitijshukla.blogspot.com")
-   26. [SEVERYN KOZAK](https://sevko.io/)
-   27. [Andrew's Algorithm Solutions](http://andrew-algorithm.blogspot.com/)
-   28. [vexorian's blog](https://www.vexorian.com)
-   29. [MATHBLOG](http://www.mathblog.dk "http://www.mathblog.dk")
-   30. [ProbToreal](https://ojsolver.blogspot.com "https://ojsolver.blogspot.com")
-   31. [Blog of AsEs](https://adnansarker.wordpress.com/)
-   32. [Techie Delight](https://www.techiedelight.com "https://www.techiedelight.com")
-   33. [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
-   34. [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
-
-7. ## Data Structure and Algorithm:
-
-   [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
-
-   [All you need](https://discuss.codechef.com/t/ds-and-algo-competitive-programming-all-you-need/9783)
-
-   [Again-One](https://codeforces.com/blog/entry/16221 "https://codeforces.com/blog/entry/16221")
-
-   1. ### Data Structure:
-
-      [Lists of Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures "https://en.wikipedia.org/wiki/List_of_data_structures")
-
-      [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
-
-      1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
-
-      2. Array and Linked List
-
-         1. Singly linked list
-         2. Doubly linked list
-         3. Multiply linked list
-         4. Circular linked list
-         5. XOR Linked list
-
-      3. Stack, Queue and Deque
-
-      4. Persistent
-
-         1. Array
-         2. Stack
-         3. Queue
-         4. Treap
-         5. Segment Tree
-            1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
-            2. [MKTHNUM on Spoj](http://www.spoj.com/problems/MKTHNUM/en/)
-         6. [LiChao Tree](https://panty.run/dynamic-lichao-tree/ "https://panty.run/dynamic-lichao-tree/")
-            1. [Implementation](https://pastebin.com/fLcs75A9)
-
-      5. Trie
-
-         1. DP on Trie
-            1. Diameter
-            2. Height
-
-      6. Tree
-
-         *A tree is a data structure made up of nodes or vertices and edges without having any cycle.*
-
-         Traversal ( Pre-Post-In-Level-&-Reversed Order)
-
-         * Theory
-           * [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
-           * [Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure)) - Tree (data structure)
-
-         1. Binary Search Tree (BST)
-            1. Optimal
-            2. Randomized BST
-            3. [Augmented BST + BST as Segment Tree](https://codeforces.com/blog/entry/15890 "https://codeforces.com/blog/entry/15890")
-            4. Order statistic tree
+61. ## Data Structure and Algorithm:
+    
+    [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
+    
+    [All you need](https://discuss.codechef.com/t/ds-and-algo-competitive-programming-all-you-need/9783)
+    
+    [Again-One](https://codeforces.com/blog/entry/16221 "https://codeforces.com/blog/entry/16221")
+    
+    1. ### Data Structure:
+       
+       [Lists of Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures "https://en.wikipedia.org/wiki/List_of_data_structures")
+       
+       [Data Structures](http://codeforces.com/blog/entry/15729) - A guide to high level data structures by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
+       
+       1. [A good intro to data structure](https://codeforces.com/blog/entry/15729 "https://codeforces.com/blog/entry/15729")
+       
+       2. Array and Linked List
+          
+          1. Singly linked list
+          2. Doubly linked list
+          3. Multiply linked list
+          4. Circular linked list
+          5. XOR Linked list
+       
+       3. Stack, Queue and Deque
+       
+       4. Persistent
+          
+          1. Array
+          2. Stack
+          3. Queue
+          4. Treap
+          5. Segment Tree
+             1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/persistent-segment-trees-explained-with-spoj-problems/)
+             2. [MKTHNUM on Spoj](http://www.spoj.com/problems/MKTHNUM/en/)
+          6. [LiChao Tree](https://panty.run/dynamic-lichao-tree/ "https://panty.run/dynamic-lichao-tree/")
+             1. [Implementation](https://pastebin.com/fLcs75A9)
+       
+       5. Trie
+          
+          1. DP on Trie
+             1. Diameter
+             2. Height
+       
+       6. Tree
+          
+          *A tree is a data structure made up of nodes or vertices and edges without having any cycle.*
+          
+          Traversal ( Pre-Post-In-Level-&-Reversed Order)
+          
+          * Theory
             
-         2. Binary Indexed Tree (Fenwick Tree)
-
-            *A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.*
-
-            [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
-
-            [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
-
-            [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
-
-            1. Point Update + Range Query
-            2. Range Update + Point Query
-            3. [Where's the tree in Fenwick tree?](https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE "https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE")
-            4. BIT on Tree
-            5. Segment Tree on BIT
-
-         3. [Segment Tree/Interval Tree/Tournament Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
-
-            *Segment tree is a tree for which each node represents an interval.*
-
-            1. [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
-            2. [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
-            3. With and without Lazy Propagation
-               1. [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Solving problems related to updation of segment tree in logrithmic time (also known as lazy propogation).
-            4. Sweeping using segment tree
-            5. Persistent Segment tree
-               1. merge sort tree associate with PST
-            6. Binary Search on ST
-            7. 2D Segment Tree
-            8. Segment  Tree on Euler path
-            9. Dynamic ST
-               1. [Tutorial -1](https://codeforces.com/topic/61182/en1)
-            10. [Segment Tree Beats](https://codeforces.com/blog/entry/57319)
-               1. [Errichto’s tutorial](https://www.youtube.com/watch?v=wFqKgrW1IMQ "https://www.youtube.com/watch?v=wFqKgrW1IMQ")
-               2. [Segment tree beats](https://smijake3.hatenablog.com/entry/2019/04/28/021457 "https://smijake3.hatenablog.com/entry/2019/04/28/021457")
-               3. [Segment Tree Chinese](https://wenku.baidu.com/view/27333c4e852458fb770b56e2.html)
-               4. [random](https://ch-random.net/post/8/)
-               5. [Implementation](https://www.codetd.com/article/5160951)
-            11. Ji  Driver segment tree
-                1. I will update it later
-
-         4. AVL tree
-
-         5. Red-Black Tree
-
-         6. Splay Tree
-
-         7. Link-Cut Tree
-
-            1. [Discussion -1](https://codeforces.com/blog/entry/74895)
-
-         8. [Wavelet Tree](https://codeforces.com/blog/entry/52854 "https://codeforces.com/blog/entry/52854")
-
-         9. KD-tree
-
-         10. [Euler tour Tree](https://codeforces.com/blog/entry/18369 "https://codeforces.com/blog/entry/18369") not a data structure but it’s a tree 
-
-         11. Scapegoat tree
-
-         12. [Sqrt-tree](https://codeforces.com/blog/entry/57046)
-
-             1. [CP-Sqrt-Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html "https://cp-algorithms.com/data_structures/sqrt-tree.html")
-
-         13. Merge-Sort Tree
-
-         14. Cartesian  Tree
-
-         15. [Bridge Tree](https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph# "https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph#")
-
-         16. Block Cut Tree
-             1. [First](https://cpps.bacsbd.org/notebook/view-note/block-cut-tree "https://cpps.bacsbd.org/notebook/view-note/block-cut-tree")
-             2. [Second](https://en.wikipedia.org/wiki/Biconnected_component "https://en.wikipedia.org/wiki/Biconnected_component")
-
-         17. [Gomory-Hu Tree](https://www.geeksforgeeks.org/gomory-hu-tree-introduction/ "https://www.geeksforgeeks.org/gomory-hu-tree-introduction/")
-             1. All  pairs shortest path
-             2. [tutorial - 1](https://www.youtube.com/watch?v=MneGZIXwnS4 "https://www.youtube.com/watch?v=MneGZIXwnS4")
-
-      7. Disjoint Set Union (DSU)
-
-         1. [Sack](https://codeforces.com/blog/entry/44351 "https://codeforces.com/blog/entry/44351")
-
-      8. Heap and Treap
-
-         1. Binomial Heap
-         2. Priority Queue
-         3. [Treap with lazy propagation](https://codeforces.com/blog/entry/10314 "https://codeforces.com/blog/entry/10314")
-         4. Pairing, Randomized Medable Heap
-         5. Treap topics
-            1. [Codeforces](http://codeforces.com/blog/entry/11148)
-            2. [Wikipedia](https://en.wikipedia.org/wiki/Treap)
-            3. [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
-
-      9. Sparse Table
-
-      10. Tree compression
-
-      11. Least Common Ancestor
-
-      12. [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html "https://cp-algorithms.com/algebra/big-integer.html")
-
-      13. Prefix Sum
-
-      14. Decremental connectivity
-
-          1. Online
-          2. Offline
-
-      15. Skiplist
-
-          1. Indexable Skiplist
-
-      16. [Convex hull trick](https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant "https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant")
-
-      17. Dynamic connectivity
-
-          1. Online
-          2. Offline
-
-   2. ### Algorithms:
-
-      [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
-
-      [FXT: a library of algorithms](https://www.jjj.de/fxt/#fxtbook "https://www.jjj.de/fxt/#fxtbook")
-
-      1. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
-      2. Partial sum technique
-      3. Sorting
-         1. Insertion
-         2. Merge & Quick
-         3. Counting
-         4. Radix
-         5. Heap
-      4. Searching
-         1. Linear
-
-         2. Binary and Ternary
-
-            *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
-
-            *Ternary Search : The process of exploiting the property of a function having double differential of a constant sign to arrive to results in non linear time.*
-
+            * [Hackerearth](https://www.hackerearth.com/notes/trees/) - Baisc introduction to trees and terminologies related to it by [Anuj Garg](https://www.hackerearth.com/users/anuj09garg/)
+            * [Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure)) - Tree (data structure)
+          1. Binary Search Tree (BST)
+             
+             1. Optimal
+             2. Randomized BST
+             3. [Augmented BST + BST as Segment Tree](https://codeforces.com/blog/entry/15890 "https://codeforces.com/blog/entry/15890")
+             4. Order statistic tree
+          
+          2. Binary Indexed Tree (Fenwick Tree)
+             
+             *A Fenwick tree or binary indexed tree is a data structure that can efficiently update elements and calculate prefix sums in a table of numbers.*
+             
+             [Hackerearth](https://www.hackerearth.com/practice/notes/binary-indexed-tree-or-fenwick-tree/) 
+             
+             [Wikipedia](https://en.wikipedia.org/wiki/Fenwick_tree) - Fenwick Tree (data structure)
+             
+             [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees/)
+             
+             1. Point Update + Range Query
+             2. Range Update + Point Query
+             3. [Where's the tree in Fenwick tree?](https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE "https://mathislife.github.io/assets/posts/Fenwick_Tree.html?fbclid=IwAR3r1oF_kjgy3HmpfL-kOFepw58H0gj9qZrgtFWzJNdeTiK5Ozlfbk4GHqE")
+             4. BIT on Tree
+             5. Segment Tree on BIT
+          
+          3. [Segment Tree/Interval Tree/Tournament Tree](https://codeforces.com/blog/entry/18051 "https://codeforces.com/blog/entry/18051")
+             
+             *Segment tree is a tree for which each node represents an interval.*
+             
+             1. [Codeforces](http://codeforces.com/blog/entry/15890) - Everything about Segment trees by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
+             2. [Hackerearth](https://www.hackerearth.com/notes/segment-trees-for-beginners/) - Segment trees for Beginners by [Ayush Agrawal](https://www.hackerearth.com/users/ayusha1107/).
+             3. With and without Lazy Propagation
+                1. [Lazy Propogation](http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html) - Solving problems related to updation of segment tree in logrithmic time (also known as lazy propogation).
+             4. Sweeping using segment tree
+             5. Persistent Segment tree
+                1. merge sort tree associate with PST
+             6. Binary Search on ST
+             7. 2D Segment Tree
+             8. Segment  Tree on Euler path
+             9. Dynamic ST
+                1. [Tutorial -1](https://codeforces.com/topic/61182/en1)
+             10. [Segment Tree Beats](https://codeforces.com/blog/entry/57319)
+                 1. [Errichto’s tutorial](https://www.youtube.com/watch?v=wFqKgrW1IMQ "https://www.youtube.com/watch?v=wFqKgrW1IMQ")
+                 2. [Segment tree beats](https://smijake3.hatenablog.com/entry/2019/04/28/021457 "https://smijake3.hatenablog.com/entry/2019/04/28/021457")
+                 3. [Segment Tree Chinese](https://wenku.baidu.com/view/27333c4e852458fb770b56e2.html)
+                 4. [random](https://ch-random.net/post/8/)
+                 5. [Implementation](https://www.codetd.com/article/5160951)
+             11. Ji  Driver segment tree
+                 1. I will update it later
+          
+          4. AVL tree
+          
+          5. Red-Black Tree
+          
+          6. Splay Tree
+          
+          7. Link-Cut Tree
+             
+             1. [Discussion -1](https://codeforces.com/blog/entry/74895)
+          
+          8. [Wavelet Tree](https://codeforces.com/blog/entry/52854 "https://codeforces.com/blog/entry/52854")
+          
+          9. KD-tree
+          
+          10. [Euler tour Tree](https://codeforces.com/blog/entry/18369 "https://codeforces.com/blog/entry/18369") not a data structure but it’s a tree 
+          
+          11. Scapegoat tree
+          
+          12. [Sqrt-tree](https://codeforces.com/blog/entry/57046)
+              
+              1. [CP-Sqrt-Tree](https://cp-algorithms.com/data_structures/sqrt-tree.html "https://cp-algorithms.com/data_structures/sqrt-tree.html")
+          
+          13. Merge-Sort Tree
+          
+          14. Cartesian  Tree
+          
+          15. [Bridge Tree](https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph# "https://www.quora.com/q/threadsiiithyderabad/The-Bridge-Tree-of-a-graph#")
+          
+          16. Block Cut Tree
+              
+              1. [First](https://cpps.bacsbd.org/notebook/view-note/block-cut-tree "https://cpps.bacsbd.org/notebook/view-note/block-cut-tree")
+              2. [Second](https://en.wikipedia.org/wiki/Biconnected_component "https://en.wikipedia.org/wiki/Biconnected_component")
+          
+          17. [Gomory-Hu Tree](https://www.geeksforgeeks.org/gomory-hu-tree-introduction/ "https://www.geeksforgeeks.org/gomory-hu-tree-introduction/")
+              
+              1. All  pairs shortest path
+              2. [tutorial - 1](https://www.youtube.com/watch?v=MneGZIXwnS4 "https://www.youtube.com/watch?v=MneGZIXwnS4")
+       
+       7. Disjoint Set Union (DSU)
+          
+          1. [Sack](https://codeforces.com/blog/entry/44351 "https://codeforces.com/blog/entry/44351")
+       
+       8. Heap and Treap
+          
+          1. Binomial Heap
+          2. Priority Queue
+          3. [Treap with lazy propagation](https://codeforces.com/blog/entry/10314 "https://codeforces.com/blog/entry/10314")
+          4. Pairing, Randomized Medable Heap
+          5. Treap topics
+             1. [Codeforces](http://codeforces.com/blog/entry/11148)
+             2. [Wikipedia](https://en.wikipedia.org/wiki/Treap)
+             3. [TREAP on Spoj](http://www.spoj.com/problems/TREAP/)
+       
+       9. Sparse Table
+       
+       10. Tree compression
+       
+       11. Least Common Ancestor
+       
+       12. [Arbitrary-Precision Arithmetic](https://cp-algorithms.com/algebra/big-integer.html "https://cp-algorithms.com/algebra/big-integer.html")
+       
+       13. Prefix Sum
+       
+       14. Decremental connectivity
+           
+           1. Online
+           2. Offline
+       
+       15. Skiplist
+           
+           1. Indexable Skiplist
+       
+       16. [Convex hull trick](https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant "https://wcipeg.com/wiki/Convex_hull_trick#Fully_dynamic_variant")
+       
+       17. Dynamic connectivity
+           
+           1. Online
+           2. Offline
+    
+    2. ### Algorithms:
+       
+       [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
+       
+       [FXT: a library of algorithms](https://www.jjj.de/fxt/#fxtbook "https://www.jjj.de/fxt/#fxtbook")
+       
+       1. [Algorithm Study](https://ssu-gongdoli.tistory.com/90 "https://ssu-gongdoli.tistory.com/90")
+       
+       2. Partial sum technique
+       
+       3. Sorting
+          
+          1. Insertion
+          2. Merge & Quick
+          3. Counting
+          4. Radix
+          5. Heap
+       
+       4. Searching
+          
+          1. Linear
+          
+          2. Binary and Ternary
+             
+             *Binary Search : The process of exploiting the property of an array of being sorted to arrive at answers of questions in non linear time.*
+             
+             *Ternary Search : The process of exploiting the property of a function having double differential of a constant sign to arrive to results in non linear time.*
+             
              - Theory
-                 - [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
-                 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
-                 - [Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/) - Tutorial on Ternary Search.
-                 - [Parallel   Binary Search](https://codeforces.com/blog/entry/45578)
+               - [Hackerearth](https://www.hackerearth.com/notes/power-of-binary-search/) - Power of Binary search by [Aman Goel](https://www.hackerearth.com/users/amangoel.vsec/) (Easy).
+               - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) - Binary Search by [lovro](https://www.topcoder.com/member-profile/lovro/) (Hard).
+               - [Hackerearth](https://www.hackerearth.com/practice/algorithms/searching/ternary-search/tutorial/) - Tutorial on Ternary Search.
+               - [Parallel   Binary Search](https://codeforces.com/blog/entry/45578)
+          
+          3. Interpolation
+          
+          4. Exponential 
+          
+          5. Alpha-beta pruning
+       
+       5. [Quick Select Algorithm](https://www.techiedelight.com/quickselect-algorithm/ "https://www.techiedelight.com/quickselect-algorithm/")
+       
+       6. Range-minimum query
+          
+          1. [RMQ = LCA](https://cp-algorithms.com/graph/rmq_linear.html "https://cp-algorithms.com/graph/rmq_linear.html")
+          2. [Sliding RMQ](https://wcipeg.com/wiki/Sliding_range_minimum_query "https://wcipeg.com/wiki/Sliding_range_minimum_query")
+       
+       7. [String Search Algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm "https://en.wikipedia.org/wiki/String-searching_algorithm")
+       
+       8. Ant colony optimization algorithm
+       
+       9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
+       
+       10. [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/ "http://aggregate.org/MAGIC/")
+       
+       11. Sliding  window / Two pointers technique
+       
+       12. Shunting-Yard algorithm
+    
+    3. ### STL
+       
+       1. [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers")
+       2. [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/ "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/")
+       3. [STL Basics GeeksforGeeks](http://www.geeksforgeeks.org/cpp-stl-tutorial/ "http://www.geeksforgeeks.org/cpp-stl-tutorial/")
+       4. [Pairs](http://www.geeksforgeeks.org/pair-in-cpp-stl/ "http://www.geeksforgeeks.org/pair-in-cpp-stl/")
+       5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
+       6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
 
-         3. Interpolation
-
-         4. Exponential 
-
-         5. Alpha-beta pruning
-      5. [Quick Select Algorithm](https://www.techiedelight.com/quickselect-algorithm/ "https://www.techiedelight.com/quickselect-algorithm/")
-      6. Range-minimum query
-         1. [RMQ = LCA](https://cp-algorithms.com/graph/rmq_linear.html "https://cp-algorithms.com/graph/rmq_linear.html")
-         2. [Sliding RMQ](https://wcipeg.com/wiki/Sliding_range_minimum_query "https://wcipeg.com/wiki/Sliding_range_minimum_query")
-      7. [String Search Algorithms](https://en.wikipedia.org/wiki/String-searching_algorithm "https://en.wikipedia.org/wiki/String-searching_algorithm")
-      8. Ant colony optimization algorithm
-      9. [Merge many sets in nlogn](https://codeforces.com/blog/entry/48417 "https://codeforces.com/blog/entry/48417")
-      10. [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/ "http://aggregate.org/MAGIC/")
-      11. Sliding  window / Two pointers technique
-      12. Shunting-Yard algorithm
-
-   3. ### STL
-
-      1. [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers")
-      2. [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/ "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/")
-      3. [STL Basics GeeksforGeeks](http://www.geeksforgeeks.org/cpp-stl-tutorial/ "http://www.geeksforgeeks.org/cpp-stl-tutorial/")
-      4. [Pairs](http://www.geeksforgeeks.org/pair-in-cpp-stl/ "http://www.geeksforgeeks.org/pair-in-cpp-stl/")
-      5. [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
-      6. [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
-
-8. ## Challenges:
-
-   1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
-   2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
-   3. [Tech-Interview](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/ "https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/")
-   4. [An awesome beginner’s list for competitive programming](https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/ "https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/")
-   5. [Dhaka regional Analysis](https://docs.google.com/document/d/10XeCliJagbMGmMTajx5m9v59LC1Dhgd32nhqLWOUd3E/edit?fbclid=IwAR2XGGmvZu3DmRL3gc8pTB0U6qJBjQw8AsDAOmV2pLhts24kMnYiZCB2pvw#heading=h.dpgebo8zawhc)
-   6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
-   7. [__int128](https://codeforces.com/blog/entry/75044 "https://codeforces.com/blog/entry/75044")
+62. ## Challenges:
+    
+    1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
+    2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
+    3. [Tech-Interview](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/ "https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/")
+    4. [An awesome beginner’s list for competitive programming](https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/ "https://bloggerdnyanesh.wordpress.com/2018/11/06/an-awesome-beginners-list-for-competitive-programming/")
+    5. [Dhaka regional Analysis](https://docs.google.com/document/d/10XeCliJagbMGmMTajx5m9v59LC1Dhgd32nhqLWOUd3E/edit?fbclid=IwAR2XGGmvZu3DmRL3gc8pTB0U6qJBjQw8AsDAOmV2pLhts24kMnYiZCB2pvw#heading=h.dpgebo8zawhc)
+    6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
+    7. [__int128](https://codeforces.com/blog/entry/75044 "https://codeforces.com/blog/entry/75044")
 
 ### Development:
 
@@ -853,8 +989,6 @@
    
    1. Guide:
       1. [Programmer-Roadmap](https://github.com/kamranahmedse/developer-roadmap "https://github.com/kamranahmedse/developer-roadmap") This is pretty much good guideline for web developers
-      
-         
 
 ---
 
@@ -875,8 +1009,6 @@
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 
 [বাংলা ভাষায় লেখা প্রোগ্রামিং এর সবচেয়ে বড় রিসোর্স কালেকশন](https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1 "https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1")
-
-
 
 ## যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছেঃ
 
@@ -950,163 +1082,190 @@
 ## এলগোরিদম
 
 ### ব্যাসিক
+
 * [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### ডাটা স্ট্রাকচার
 
 * অ্যাারে (Array)
-    * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  * [অ্যারে ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/array) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [অ্যারে কমপ্রেশন/ম্যাপিং](http://www.shafaetsplanet.com/planetcoding/?p=1388) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * লিংকড লিস্ট (Linked List)
-    * [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [লিংকড লিস্ট ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/linked-list) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    * [লিংকড লিস্ট – সি](http://shoshikkha.com/archives/1914) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-    * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://medium.com/@amialavola)
-    * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://medium.com/@amialavola)
-    * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-    * [লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/k3wD1KtP8EE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া (ভিডিও)](https://youtu.be/rBc-CApEe3s) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা (ভিডিও)](https://youtu.be/XLBBmEUILi4) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য (ভিডিও)](https://youtu.be/DKpe5gsySag) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  * [লিংকড লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=2689) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [লিংকড লিস্ট ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/linked-list) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [লিংকড লিস্ট](http://binaryrongo.anindyaspaul.com/2013/06/07/linked-list/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+  * [লিংকড লিস্ট – সি](http://shoshikkha.com/archives/1914) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+  * [ডাটা স্ট্রাকচার ও লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=26) - [আলাভোলা](https://medium.com/@amialavola)
+  * [কোডিং লিংকড লিস্ট](http://ami-alavola.rhcloud.com/?p=37) - [আলাভোলা](https://medium.com/@amialavola)
+  * [ডাবলি লিংকড লিস্ট](http://shoshikkha.com/archives/3290) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+  * [লিঙ্কড লিস্ট - ১ (Linked List - 1) - প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/k3wD1KtP8EE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ২ (Linked List - 2) - নোড বাদ দেওয়া (ভিডিও)](https://youtu.be/rBc-CApEe3s) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ৩ (Linked List - 3) - নোড যোগ করা (ভিডিও)](https://youtu.be/VLd6EnfUuWU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ৪ (Linked List - 4) - ট্রাভার্স করা (ভিডিও)](https://youtu.be/XLBBmEUILi4) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ৫ (Linked List - 5) - ডবলি লিঙ্কড লিস্ট (ভিডিও)](https://youtu.be/kyuPR9SqvDY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [লিঙ্কড লিস্ট - ৬ (Linked List - 6) - অ্যারে ও লিঙ্কড লিস্ট-এর পার্থক্য (ভিডিও)](https://youtu.be/DKpe5gsySag) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * স্ট্যাক (Stack)
-    * [স্ট্যাক](http://www.shafaetsplanet.com/planetcoding/?p=2342) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [স্ট্যাক (ভিডিও)](https://youtu.be/-8JxL-dXg6w) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [স্ট্যাক ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/stack) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [স্ট্যাক বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-    * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
-    * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-    * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+  
+  * [স্ট্যাক](http://www.shafaetsplanet.com/planetcoding/?p=2342) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [স্ট্যাক (ভিডিও)](https://youtu.be/-8JxL-dXg6w) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [স্ট্যাক ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/stack) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [স্ট্যাক বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%95-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+  * [ডাটা স্ট্রাকচার: স্ট্যাক (Stack)](http://ami-alavola.rhcloud.com/?p=44) - [আলাভোলা](https://medium.com/@amialavola)
+  * [স্ট্যাক – অ্যারে ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3321) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+  * [স্ট্যাক – লিংকড লিস্ট ইমপ্লিমেন্টেশন](http://shoshikkha.com/archives/3521) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
 * কিউ (Queue)
-    * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [কিউ (ভিডিও)](https://youtu.be/IFWHj7_OW2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-    * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://medium.com/@amialavola)
-    * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
+  
+  * [কিউ ব্যাসিক অপারেশন](http://hellohasan.com/category/data-structure/queue) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [কিউ (ভিডিও)](https://youtu.be/IFWHj7_OW2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [কিউ বেসিক ডাটা স্ট্রাকচার](http://blog.faiyaz.info/%e0%a6%95%e0%a6%bf%e0%a6%89-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%95%e0%a6%9a%e0%a6%be%e0%a6%b0/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+  * [ডাটা স্ট্রাকচার: কিউ(Queue)](http://ami-alavola.rhcloud.com/?p=54) - [আলাভোলা](https://medium.com/@amialavola)
+  * [সি++ এর Priority Queue](http://www.abuasifkhan.me/cplusplus-priority-queue.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+  * [প্রায়োরিটি কিউ (ভিডিও)](https://youtu.be/v0tzjgW0i8E) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * ট্রি (Tree)
-   * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-   * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়? (ভিডিও)](https://youtu.be/Rz93CQd7jXc) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/p0ltqTz93Nk) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/zd5ayCGPQXA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-   * [বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/D9cvhd-jPGs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  * [ট্রি ডেটা স্ট্রাকচার](http://hellohasan.com/category/data-structure/tree/tree-basic-concept/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [ট্রি - ১ (Tree - 1) - ট্রি-এর প্রাথমিক ধারণা (ভিডিও)](https://youtu.be/0I1JVXbHpec) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [ট্রি - ২ (Tree - 2) - কোনটি ট্রি কোনটি নয়? (ভিডিও)](https://youtu.be/Rz93CQd7jXc) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি ট্রি প্রিঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/p0ltqTz93Nk) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি ট্রি পোস্টঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/zd5ayCGPQXA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি ট্রি ইনঅর্ডার ট্রাভার্সাল (ভিডিও)](https://youtu.be/D9cvhd-jPGs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * বাইনারী সার্চ ট্রি (Binary Search Tree)
-    * [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    * [বাইনারি সার্চ ট্রি - ১ (ভিডিও)](https://youtu.be/FpekDm8ztVA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [বাইনারি সার্চ ট্রি - ২ (ভিডিও)](https://youtu.be/PrHoIGnU3c0) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [বাইনারি সার্চ ট্রি - ৩ (ভিডিও)](https://youtu.be/IAHqCl5b4fE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    * [বাইনারি সার্চ ট্রি - ৪(ভিডিও)](https://youtu.be/F2uwPe3GaVU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  * [বাইনারি সার্চ ট্রি](http://hellohasan.com/category/data-structure/tree/binary-search-tree-bst) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  * [বাইনারি সার্চ ট্রি - ১ (ভিডিও)](https://youtu.be/FpekDm8ztVA) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি সার্চ ট্রি - ২ (ভিডিও)](https://youtu.be/PrHoIGnU3c0) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি সার্চ ট্রি - ৩ (ভিডিও)](https://youtu.be/IAHqCl5b4fE) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  * [বাইনারি সার্চ ট্রি - ৪(ভিডিও)](https://youtu.be/F2uwPe3GaVU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * হ্যাশটেবিল (HashTable)
-    * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
+  
+  * [হ্যাশটেবিল (Hashtable)](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6-hash-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%82-hashing-12b7cb6056b8) - [আলাভোলা](https://medium.com/@amialavola)
 
 * ডিসজয়েন্ট সেট (Disjoind Set)
-    * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  
+  * [ডিসজয়েন্ট সেট(ইউনিয়ন ফাইন্ড)](http://www.shafaetsplanet.com/planetcoding/?p=763) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [Union Find Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2014/01/union-find-algorithm-union-find.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * ট্রাই ট্রি (Trie)
-    * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [ট্রাই ট্রি ( Trie Tree )](http://blog.faiyaz.info/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-trie-tree/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+  
+  * [ট্রাই(প্রিফিক্স ট্রি/রেডিক্স ট্রি)](http://www.shafaetsplanet.com/planetcoding/?p=1679) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [ট্রাই ট্রি ( Trie Tree )](http://blog.faiyaz.info/%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%87-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-trie-tree/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
 
 * সেগমেন্ট ট্রি (Segment Tree)
-    * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    
-    * [সেগমেন্ট ট্রি](https://iishanto.me/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    
-    * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.me/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
-    
-    * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-    * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/), [২](https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
+  
+  * [সেগমেন্ট ট্রি-১](http://www.shafaetsplanet.com/planetcoding/?p=1557) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  * [সেগমেন্ট ট্রি-২(লেজি প্রপাগেশন)](http://www.shafaetsplanet.com/planetcoding/?p=1591) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  * [সেগমেন্ট ট্রি](https://iishanto.me/2020/04/01/%e0%a6%b8%e0%a7%87%e2%80%8c%e0%a6%97%e0%a7%87%e2%80%8c%e0%a6%ae%e0%a7%87%e0%a6%a8%e0%a7%8d%e0%a6%9f-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%bf-%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be-%e0%a6%b8%e0%a7%8d/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+  
+  * [সেগমেন্ট ট্রি লেজি প্রপাগেশন](https://iishanto.me/2020/04/09/%e0%a6%b2%e0%a7%87%e0%a6%9c%e0%a6%bf-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%aa%e0%a6%be%e0%a6%97%e0%a7%87%e0%a6%b6%e0%a6%a8/) - [শরিফ হাসান](https://facebook.com/io.shanto)
+  
+  * [Segment tree/ BIT part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/segment-tree-bit-part-1_21.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  
+  * [লোয়েস্ট কমন অ্যানসেস্টর](http://www.shafaetsplanet.com/planetcoding/?p=1831) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  * পারসিস্টেন্ট সেগমেন্ট ট্রি [১](https://rezwanarefin01.github.io/posts/persistent-segment-tree-01/), [২](https://rezwanarefin01.github.io/posts/persistent-segment-tree-02/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 * বাইনারি ইনডেক্সড ট্রি (Binary Indexed Tree)
-    * [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  * [বাইনারি ইনডেক্সড ট্রি](http://www.shafaetsplanet.com/planetcoding/?p=1961) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * সাফিক্স এ্যারে(Suffix Array)
-    * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
+  
+  * [সাফিক্স এ্যারে(Suffix Array)](https://tanvir002700.wordpress.com/2015/01/13/suffix-array/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 
 * স্পার্স টেবিল (Sparse Table)
-    * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
+  
+  * [স্পার্স টেবিল (Sparse Table)](https://tanvir002700.wordpress.com/2015/05/27/sparse-table/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 
 * [পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS)](https://returnzerooo.wordpress.com/2017/12/24/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%87%E0%A6%9C%E0%A6%A1-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 ### ম্যাথ ও নাম্বার থিওরী
 
 * প্রাইম নাম্বার (Prime Number)
-    * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    * [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
-    * [প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন](https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+  
+  * [প্রাইম জেনারেটর (Sieve of Eratosthenes)](http://www.shafaetsplanet.com/planetcoding/?p=624) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [প্রাইম জেনারেশন – সিভ অব ERATOSTHENES](http://shoshikkha.com/archives/2332) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+  * [বিটওয়াইজ সিভ](http://www.shafaetsplanet.com/planetcoding/?p=855) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [প্রাইম নাম্বার – সিভ অফ এরাটস্থেনিজ (PRIME NUMBER – SIEVE OF ERATOSTHENES)](http://binaryrongo.anindyaspaul.com/2013/08/04/sieve-of-eratosthenes/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+  * [প্রাইম নাম্বার – বিট-ওয়াইজ সিভ (PRIME NUMBER – BITWISE SIEVE)](http://binaryrongo.anindyaspaul.com/2013/08/06/bitwise-sieve/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+  * [মিলার রবিন প্রাইমালিটি টেস্ট](http://blog.sdturja.com/millerrabin/) - [সীমান্ত দেব তূর্য](https://www.facebook.com/SD.Turja)
+  * [প্রাইম জেনারেশন সিভ ও প্রাইম ফ্যাক্টরাইজেশন](https://returnzerooo.wordpress.com/2016/03/03/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AE-%E0%A6%B8%E0%A6%BF%E0%A6%AD-%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 * মডুলার অ্যারিথমেটিক (Modular Arithmetic)
-    * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-    * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
-    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-    * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+  
+  * [মডুলার অ্যারিথমেটিক](http://www.shafaetsplanet.com/planetcoding/?p=936) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [Modular Multiplicative Inverse](https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
+  * [Big Mod](https://mukitmkbs.wordpress.com/2014/09/30/big-mod/) - [মুকিত  চৌধুরী](https://www.facebook.com/hesitated.mkbs)
+  * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ](http://shoshikkha.com/archives/3487) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+  * [হিমালয়ের সমান ভাগফল,এক ডিজিটের ভাগশেষ – রিটার্নস!](http://shoshikkha.com/archives/3510) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+  * [সংখ্যাকে পেটানো! ( বিভাজক নির্ণয় )](http://shoshikkha.com/archives/1069) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+  * [রিকার্শনের মাধ্যমে মডুলার এক্সপনেন্সিয়েশন!](http://shoshikkha.com/archives/29) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
 * কম্বিনেটরিক্স (Combinatorics)
-    * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://medium.com/@amialavola)
-    * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+  
+  * বিন্যাস করা যাক [1](http://www.abuasifkhan.me/permutation1.html), [2](http://www.abuasifkhan.me/permutation2.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+  * [N-th permutation (N-তম পারমুটেশন)](http://ami-alavola.rhcloud.com/?p=68) - [আলাভোলা](https://medium.com/@amialavola)
+  * [ডিরেঞ্জমেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=600) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [” ফাস্ট ” এক্সপনেনসিয়েশন!](http://shoshikkha.com/archives/4356) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
 * ইউক্লিডিয়ান এলগোরিদম (Euclidean Algorithm)
-    * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
-    * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-    * [এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    
-* প্রোবাবিলিটি (Probability)
-    * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    * [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  
+  * [ইউক্লিডিয়ান অ্যালগরিদম](http://subeen.com/%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
+  * [খাতা-কলমে Extended Euclid Method](http://www.abuasifkhan.me/extended-euclid-method.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+  * [Extended Euclidean Algorithm এবং একটুখানি Modular Multiplicative Inverse](http://www.abuasifkhan.me/extended-euclidean-algorithm.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+  * [এক্সটেন্ডেড ইউক্লিডীয়ান অ্যালগোরিদম](https://returnzerooo.wordpress.com/2017/08/12/%E0%A6%8F%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A1-%E0%A6%87%E0%A6%89%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%A1%E0%A7%80%E0%A7%9F%E0%A6%BE%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
+* প্রোবাবিলিটি (Probability)
+  
+  * [প্রোবাবিলিটি: এক্সপেক্টেড ভ্যালু](http://www.shafaetsplanet.com/planetcoding/?p=3060) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  * [Probability & Expected value](http://shakilcompetitiveprogramming.blogspot.nl/2015/08/probability-expected-value-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * [ন্যূনতম সংখ্যাতত্ত্ব](http://www.progkriya.org/gyan/basic-number-theory.html)  - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-* [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
-* [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-* [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
-* [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform) -  [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
+* [গসিয়ান এলিমিনেশন এর দ্বারা লিনিয়ার ইকুয়েশন সল্ভিং](https://sketchingdream.wordpress.com/gauss/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
+
+* [Chinese Remainder Theorem](http://www.abuasifkhan.me/chinese-remainder-theorem.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
+
+* [Ф ফাংশন (EULER’S PHI FUNCTION) – TOTIENT ফাংশন](http://shoshikkha.com/archives/1472) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
+* [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform) -  [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 ### গ্রাফ থিওরী
 
 * গ্রাফ থিওরি ব্যাসিক
+  
   * [গ্রাফ থিওরিতে হাতেখড়ি](http://www.shafaetsplanet.com/planetcoding/?p=143) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [অ্যাডজেসেন্সি ম্যাট্রিক্স](http://www.shafaetsplanet.com/planetcoding/?p=184) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [অ্যাডজেসেন্সি লিস্ট](http://www.shafaetsplanet.com/planetcoding/?p=211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [অ্যাডজেসেন্সি লিস্ট ট্রিক](http://www.progkriya.org/gyan/adj-list-trick.html) - [মীর ওয়াসি আহমেদ](https://www.facebook.com/mirwasi)
 
 * ব্রেথড ফার্স্ট সার্চ-বিএফএস (Breadth First Search-BFS)
+  
   * [ব্রেথড ফার্স্ট সার্চ (বিএফএস)](http://www.shafaetsplanet.com/planetcoding/?p=604) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [ট্রি এর ডায়ামিটার নির্ণয়](http://www.shafaetsplanet.com/planetcoding/?p=521) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [0/1 BFS](http://shakilcompetitiveprogramming.blogspot.nl/2016/05/01-bfs.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
   * [BFS/DFS part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2015/06/bfsdfs-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * ডেপথ ফার্স্ট সার্চ-ডিএফএস (Depth First Search-DFS)
+  
   * [ডেপথ ফার্স্ট সার্চ এবং আবারো টপোলোজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=973) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [ফ্লাড ফিল অ্যালগরিদম](http://hellohasan.com/2016/08/21/%e0%a6%ab%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%a1-%e0%a6%ab%e0%a6%bf%e0%a6%b2-flood-fill-algorithm-bengali) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
   * [টপোলজিকাল সর্ট](http://www.shafaetsplanet.com/planetcoding/?p=848) -  [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [টপোলজিক্যাল সর্ট](https://sites.google.com/site/smilitude/topsort) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 
 * গ্রাফ থিওরী - শর্টেস্ট পাথ (Shortest Path Finding)
+  
   * [গ্রাফ থিওরী - শর্টেস্ট পাথ প্রবলেম](http://www.progkriya.org/gyan/shortest-path.html) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
   * [শর্টেস্ট পাথ - প্রবলেম নিয়ে বকর বকর](https://sites.google.com/site/smilitude/shortestpath_problems) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
   * [শর্টেস্ট পাথের অ্যালগরিদম](https://sites.google.com/site/smilitude/shortestpath) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
@@ -1115,138 +1274,169 @@
   * [বেলম্যান ফোর্ড](http://www.shafaetsplanet.com/planetcoding/?p=2044) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * মিনিমাম স্প্যানিং ট্রি (Minimum Spanning Tree)
+  
   * [মিনিমাম স্প্যানিং ট্রি ১ (প্রিমস অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=692) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [মিনিমাম স্প্যানিং ট্রি ২ (ক্রুসকাল অ্যালগোরিদম)](http://www.shafaetsplanet.com/planetcoding/?p=825) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [প্রিম’স অ্যালগোরিদম : মিনিমাম স্প্যানিং ট্রি](https://returnzerooo.wordpress.com/2016/06/09/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 * বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (Bi-connected Component, Bridge, Articulation Point)
+  
   * [আর্টিকুলেশন পয়েন্ট এবং ব্রীজ](http://www.shafaetsplanet.com/planetcoding/?p=2504) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [বাইকানেক্টেড কম্পোনেন্ট , ব্রিজ, আরটিকুলেশন পয়েন্ট (থিওরী)](http://blog.faiyaz.info/bcc/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
   * [আর্টিকুলেশন পয়েন্ট](https://sketchingdream.wordpress.com/as-artpoint/) - [মোহাম্মদ সায়েফ](https://www.facebook.com/mohammad.sayef)
 
 * স্ট্রংলি কানেক্টেড কম্পোনেন্ট (Strongly Connected Component)
+  
   * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://www.shafaetsplanet.com/planetcoding/?p=2531) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [স্ট্রংলি কানেক্টেড কম্পোনেন্ট](http://potasiyam.com/farsan/strongly%20connected%20component/scc.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 * নেটওয়ার্ক ফ্লো এলগোরিদম (Network Flow Algorithm)
+  
   * [ম্যাক্সিমাম ফ্লো-১ ](http://www.shafaetsplanet.com/planetcoding/?p=2195) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
   * [ম্যাক্সিমাম ফ্লো-২ ](http://www.shafaetsplanet.com/planetcoding/?p=2231) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
-
 * [স্টেবল ম্যারেজ প্রবলেম](http://www.shafaetsplanet.com/planetcoding/?p=1187) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
+* [মিনিমাম ভারটেক্স কভার](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* [Maximum Bipartite Matching by Kuhn’s Algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/maximum-bipartite-matching-by-kuhns.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* [হাভেল হাকিমি এলগোরিদম](http://potasiyam.com/farsan/havel%20hakimi/havel%20hakimi.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+
+* [2-SAT](http://potasiyam.com/farsan/2sat/2sat.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+
+* [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 ### ডাইনামিক প্রোগ্রামিং
 
 * ডাইনামিক প্রোগ্রামিং ব্যাসিক
-    -  [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
-    - [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  - [রিকার্শন, সার্চিং এবং ডাইনামিক প্রোগ্রামিং](https://sites.google.com/site/smilitude/recursion_and_dp) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
+  - [ডাইনামিক প্রোগ্রামিং-শুরুর কথা](http://www.shafaetsplanet.com/planetcoding/?p=1022) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * কয়েন চেঞ্জ (Coin Change)
-    - [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm)
-    - [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  
+  - [ কয়েন চেঞ্জ](https://sites.google.com/site/programinggconcept/algorithm)
+  - [কয়েন চেঞ্জ, রক ক্লাইম্বিং](http://www.shafaetsplanet.com/planetcoding/?p=1158) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 * লংগেস্ট কমন সাবসিকোয়েন্স (LCS)
-    - [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+  
+  - [লংগেস্ট কমন সাবসিকোয়েন্স(LCS)](http://www.shafaetsplanet.com/planetcoding/?p=1862) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  - [LCS(Longest Common Subsequence](http://potasiyam.com/farsan/lcs/lcs.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
 * লংগেস্ট ইনক্রিসিং সাবসিকোয়েন্স (LIS)
-    - [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  
+  - [ডিপি সলিউশন প্রিন্ট করা এবং LIS](http://www.shafaetsplanet.com/planetcoding/?p=1211) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  - [LIS and variation](http://shakilcompetitiveprogramming.blogspot.nl/2016/04/lis-and-variation.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 * ০/১ ন্যাপসাক (0/1 knapsack)
-    -  [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
-    * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-    * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+  
+  - [ডিপি 'স্টেট', NcR, ০-১ ন্যাপস্যাক](http://www.shafaetsplanet.com/planetcoding/?p=1072) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  - [০/১ ন্যাপসাক (0/1 knapsack)](https://sites.google.com/site/programinggconcept/0-1-knapsack)
+  * [০-১ ন্যাপস্যাকঃ টপ ডাউন](https://returnzerooo.wordpress.com/2016/02/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+  * [০-১ ন্যাপস্যাকঃ বটম আপ ও স্পেস অপটিমাইজেশন টেকনিক](https://returnzerooo.wordpress.com/2016/05/01/%E0%A7%A6-%E0%A7%A7-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95-%E0%A6%AC%E0%A6%9F%E0%A6%AE-%E0%A6%86%E0%A6%AA/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
 * [বিটমাস্ক ডিপি](http://www.shafaetsplanet.com/planetcoding/?p=1357) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
-* [Digit DP](http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-* [Divide & Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন)](https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
-* [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
-* [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
+* [মিনিমাম ভারটেক্স কভার(গ্রাফ+ডিপি)](http://www.shafaetsplanet.com/planetcoding/?p=582) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* [ম্যাট্রিক্স চেইন মাল্টিপ্লিকেশন](http://www.shafaetsplanet.com/planetcoding/?p=1885) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+
+* [Maximum 2D Rectangle Sum](http://potasiyam.com/farsan/maximum%202d%20rectangle%20sum/maximum%202d%20rectangle%20sum.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
+
+* [Digit DP](http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* [DP on Tree](http://shakilcompetitiveprogramming.blogspot.nl/2016/06/dp-on-tree.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* Dynamic Programming [1](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-1.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/light-oj-dp-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-part-3.html), [4](http://shakilcompetitiveprogramming.blogspot.com/2016/03/dp-part-4.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* [DP trick - Knuth's optimization](http://shakilcompetitiveprogramming.blogspot.com/2015/08/dp-tricks-knuths-optimization.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+
+* [Divide & Conquer Optimization – DP(ডিপি অপ্টিমাইজেশন)](https://returnzerooo.wordpress.com/2017/10/21/%E0%A6%A1%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%85%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+
+* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং](http://shoshikkha.com/archives/4182) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+
+* [কম্বিনেটরিক্স – গ্রিড ট্রাভেলিং এবং ডাইনামিক প্রোগ্রামিং – ২](http://shoshikkha.com/archives/4240) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
+
+* [LightOj Dp – পর্ব ১](https://returnzerooo.wordpress.com/2017/11/12/lightoj-dp-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AC-%E0%A7%A7/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
+
+* [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
 ### সর্টিং
 
 * বাবল সর্ট (Bubble sort)
-    - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
-    - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [বাবল সর্ট](http://binaryrongo.anindyaspaul.com/2013/08/17/bubble-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+  - [বাবল সর্ট](http://hellohasan.com/2016/10/18/%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A6%B2-%E0%A6%B8%E0%A6%B0%E0%A7%8D%E0%A6%9F-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE-bubble-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  - [বাবল সর্ট](https://shameem.me/bubble-sort-algorithm-bangla/) - [শামীম রেজা](https://www.facebook.com/TryShameem/)
+  - [বাবল সর্ট (ভিডিও)](https://youtu.be/ZUI0VQ9JvDw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কাউন্টিং সর্ট (Counting sort)
-    - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
-    - [কাউন্টিং সর্ট](http://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  
+  - [কাউন্টিং সর্ট (COUNTING SORT)](http://binaryrongo.anindyaspaul.com/2013/12/06/counting-sort/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
+  - [কাউন্টিং সর্ট](http://hellohasan.com/2016/09/25/%e0%a6%95%e0%a6%be%e0%a6%89%e0%a6%a8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-counting-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
 
 * মার্জ সর্ট (Merge sort)
-    - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [মার্জ সর্ট - ১ (ভিডিও)](https://youtu.be/mWuk56Aa6xw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)](https://youtu.be/-UzllqjFHW8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)](https://youtu.be/g63rwGXC720) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [মার্জ সর্ট](http://hellohasan.com/2016/10/22/%e0%a6%ae%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9c-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-merge-sort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  - [মার্জ সর্ট - ১ (ভিডিও)](https://youtu.be/mWuk56Aa6xw) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [মার্জ সর্ট - ২ - সি দিয়ে ইমপ্লিমেন্টেশন (ভিডিও)](https://youtu.be/-UzllqjFHW8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [মার্জ সর্ট - ৩ - স্পেস ও টাইম কমপ্লেক্সিটি (ভিডিও)](https://youtu.be/g63rwGXC720) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * কুইক সর্ট (Quick sort)
-    - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)](https://youtu.be/PmlfVdY_XjI) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [কুইক সর্ট ২ - পার্টিশন (ভিডিও)](https://youtu.be/kwG0C2Lv-fQ) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [কুইক সর্ট](http://hellohasan.com/2016/11/02/%e0%a6%95%e0%a7%81%e0%a6%87%e0%a6%95-%e0%a6%b8%e0%a6%b0%e0%a7%8d%e0%a6%9f-%e0%a6%85%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%97%e0%a6%b0%e0%a6%bf%e0%a6%a6%e0%a6%ae-quicksort-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  - [কুইক সর্ট ১ - অ্যালগরিদম (ভিডিও)](https://youtu.be/PmlfVdY_XjI) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [কুইক সর্ট ২ - পার্টিশন (ভিডিও)](https://youtu.be/kwG0C2Lv-fQ) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * সিলেকশন সর্ট (Selection Sort)
-    - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [সিলেকশন সর্ট (ভিডিও)](https://youtu.be/qHmByz1YvQs) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * ইনসার্শন সর্ট (Insertion Sort)
-    - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [ইনসার্শন সর্ট (ভিডিও)](https://youtu.be/aBi8ptRBWY8) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * হিপ সর্ট (Heap Sort)
-    - [হিপ সর্ট - ১ (ভিডিও)](https://youtu.be/m7x0GETKPaU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [হিপ - ২ - হিপ তৈরি করা (ভিডিও)](https://youtu.be/8Kwh0WgO_TU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    - [হিপ - ৩ - হিপসর্ট (ভিডিও)](https://youtu.be/FibnepuyOLY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-
+  
+  - [হিপ সর্ট - ১ (ভিডিও)](https://youtu.be/m7x0GETKPaU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [হিপ - ২ - হিপ তৈরি করা (ভিডিও)](https://youtu.be/8Kwh0WgO_TU) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [হিপ - ৩ - হিপসর্ট (ভিডিও)](https://youtu.be/FibnepuyOLY) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * [যন্ত্র গণকের যন্তর মন্তর - ৩](http://bongobani.blogspot.com/2010/06/blog-post_1625.html) - [রাগিব হাসান](https://www.facebook.com/ragibhasan)
-* [সর্ট!! পর্ব – ১](http://shoshikkha.com/archives/4022) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
+* [সর্ট!! পর্ব – ১](http://shoshikkha.com/archives/4022) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
 ### সার্চিং
 
 * লিনিয়ার সার্চ (Linear search)
-    - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [লিনিয়ার সার্চ (ভিডিও)](https://youtu.be/IbV2eELjP2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  
+  - [লিনিয়ার সার্চ](http://hellohasan.com/2016/10/14/%e0%a6%b2%e0%a6%bf%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-linear-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  - [লিনিয়ার সার্চ (ভিডিও)](https://youtu.be/IbV2eELjP2k) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
 * বাইনারি সার্চ (Binary search)
-    -  [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    -  [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-    - [বাইনারি সার্চ (ভিডিও)](https://youtu.be/NMC6ltspWys) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
-    -  [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
-    - [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://medium.com/@amialavola)
-    - [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
-    - [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
-    - [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
-    - [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
-
+  
+  - [বাইনারি সার্চ - ১](http://www.shafaetsplanet.com/planetcoding/?p=2279) [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  - [বাইনারি সার্চ - ২(বাইসেকশন)](http://www.shafaetsplanet.com/planetcoding/?p=2295) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+  - [বাইনারি সার্চ (ভিডিও)](https://youtu.be/NMC6ltspWys) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
+  - [বাইসেকশন মেথড](http://blog.faiyaz.info/bisection/) - [আহমাদ ফাইয়াজ](https://www.facebook.com/faiyaz26s)
+  - [খোঁজ দ্য বাইনারী সার্চ](http://ami-alavola.rhcloud.com/?p=113) - [আলাভোলা](https://medium.com/@amialavola)
+  - [বাইনারি সার্চ](http://hellohasan.com/2016/10/20/%e0%a6%ac%e0%a6%be%e0%a6%87%e0%a6%a8%e0%a6%be%e0%a6%b0%e0%a6%bf-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a-binary-search-algorithm) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
+  - [বাইনারি সার্চঃ ১ম পর্ব](http://shoshikkha.com/archives/116) - [মেসবাহ তানভীর](https://www.facebook.com/mesba.tanvir)
+  - [Binary Search part - 1](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/binary-search-part-1.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
+  - [Painless Binary Search](http://www.abuasifkhan.me/painless-binary-search.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
 
 * [TERNARY SEARCH](http://shoshikkha.com/archives/4332) - [রেদওয়ান আহমেদ]()
+
 * [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
-
 ### গ্রীডি মেথড
+
 * Greedy Method [1](http://shakilcompetitiveprogramming.blogspot.com/2014/09/greedy-method.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/greedy-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2016/04/greedy-part-3.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [two pointer](http://shakilcompetitiveprogramming.blogspot.com/2015/06/two-pointer.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
-
 ### রিকার্শন, ব্যাকট্র্যাকিং
+
 * [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [টাওয়ার অফ হ্যানয়](http://subeen.com/%E0%A6%9F%E0%A6%BE%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0-%E0%A6%85%E0%A6%AB-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%9F/) - [তামান্না নিশাত রিনি](https://www.facebook.com/nishat.rini)
@@ -1255,6 +1445,7 @@
 * [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
 
 ### স্ট্রিং এলগোরিদম
+
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
 * [Aho-Corasick দিয়ে String Matching](http://www.abuasifkhan.me/aho-corasick.html) - [আবু আসিফ খান চৌধুরী](https://www.facebook.com/abuasifkhan)
@@ -1265,9 +1456,11 @@
 * [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
 ### জিওমেট্রী
+
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
 
 ### গেম থিওরী
+
 * [গেম থিওরি-১](http://www.shafaetsplanet.com/planetcoding/?p=2325) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গেম থিওরি-২](http://www.shafaetsplanet.com/planetcoding/?p=2608) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [অ্যালগোরিদম গেম থিওরি ৩ (স্প্র্যাগ-গ্রান্ডি সংখ্যা)](http://www.shafaetsplanet.com/planetcoding/?p=2714) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -1276,6 +1469,7 @@
 * [MinMax algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/minmax-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
 ### অন্যান্য
+
 * [ম্যাট্রিক্স এক্সপোনেনসিয়েশন](http://www.progkriya.org/gyan/matrix-expo.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
 * [ডিরেকশন অ্যারে](http://www.shafaetsplanet.com/planetcoding/?p=1448) - [ শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [মিট ইন দ্যা মিডল ](http://www.shafaetsplanet.com/planetcoding/?p=1756) - [ শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -1301,9 +1495,9 @@
 * [বিটের মজা, মজার বিট](https://returnzerooo.wordpress.com/2016/06/30/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%9C%E0%A6%BE-%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%9F/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [শূণ্য এবং একের গল্প পর্ব এক – বুলিয়ান এলজেব্রা নিয়ে প্রাথমিক আলোচনা](http://shoshikkha.com/archives/4437) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * ডিসক্রিট ম্যাথ কেন? - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
-    - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
-    - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
-    - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
+  - [পর্ব – ১: রেজা সাহেব ও সেলুনে লাইন দেবার মোবাইল অ্যাপ](http://deshi.engineer/posts/2017/07/why-discrete-math-logic/)
+  - [পর্ব – ২: সেট থিওরি ও রেজা সাহেবের গোয়েন্দাগিরি](http://deshi.engineer/posts/2017/07/why-discrete-math-sets/)
+  - [পর্ব – ৩: গ্রাফ থিওরি ও রেজা সাহেবের নিয়ারেস্ট সেলুন ফাইন্ডার](http://deshi.engineer/posts/2017/07/why-discrete-math-graphs/)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – বেসিক](https://returnzerooo.wordpress.com/2015/11/26/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – এডভান্সড](https://returnzerooo.wordpress.com/2016/01/08/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-2/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
@@ -1322,7 +1516,6 @@
 ### ডিজাইন প্যাটার্ণ কি
 
 * [বাংলায় ডিজাইন প্যাটার্ন - ভূমিকা: ডিজাইন প্যাটার্ন কি](http://lordamit.blogspot.com/2012/04/blog-post_09.html) -  [অমিত শীল অমি](https://www.facebook.com/lordamit)
-
 
 ### ফ্যাক্টরী ডিজাইন প্যাটার্ণ
 
@@ -1433,12 +1626,14 @@
 ---
 
 ## সফটওয়্যার আর্কিটেকচার
+
 * [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
 ---
 
 ## ভার্সন কন্ট্রোল সিস্টেম (GIT)
+
 * [গিট সম্পর্কে ধারণা, গিট ইন্সটল, ব্যবহার এবং গিটহাব এ একটা প্রজেক্ট পুশ করা](http://tech.jakir.me/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [ভার্সন কন্ট্রোল সিস্টেম](http://software-engineering-notes-in-bangla.blogspot.com/2015/06/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [ডেভেলপমেন্টের সময় গিট ব্যবহারের সহজ ওয়ার্ক-ফ্লো](https://hasin.me/2014/05/13/git-workflow-in-bangla/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
@@ -1453,6 +1648,7 @@
 ---
 
 ## সফটওয়্যার টেস্টিং
+
 * [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [লোড টেস্টিং](http://subeen.com/%e0%a6%b2%e0%a7%87%e0%a6%be%e0%a6%a1-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -1464,6 +1660,7 @@
 ---
 
 ## ডাটাবেজ সিস্টেম
+
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 * [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 
@@ -1477,25 +1674,28 @@
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 
 ---
+
 ## অন্যান্য
 
 ### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
+
 * [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [API Introduction](http://blog.sakib.ninja/2016/03/api-introduction.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi)
 
 ### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
+
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
-
 ### ক্রিপ্টোগ্রাফি
+
 * [ক্রিপ্টোগ্রাফি পর্ব ১: বেসিক কিছু টার্ম](http://shoshikkha.com/archives/723) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.১: ক্লাসিকাল সাইফার : ট্রান্সপজিশন](http://shoshikkha.com/archives/899) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.২: ক্লাসিকাল সাইফার – সাবস্টিটিউশন](http://shoshikkha.com/archives/1250) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.৩: ভিজনেয়ার সাইফার](http://shoshikkha.com/archives/4520) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
-
 ### অন্যান্য
+
 * [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://medium.com/@amialavola)
 * [সিঙ্গেল সাইন অন বা এস-এস-ও (Single Sign On - SSO)](http://software-engineering-notes-in-bangla.blogspot.com/2015/10/single-sign-on-sso.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
@@ -1527,52 +1727,64 @@
 ## প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
 
 ### পাইথন (Python)
+
 * [বাংলায় পাইথন](http://python.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 * [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [বাংলায় পাইথন](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
-
 ### জাভা (Java)
+
 * [জাভা প্রোগ্রামিং](http://java.howtocode.com.bd/)- [How-to-code](http://www.howtocode.com.bd/)
+
 * [বাংলা জাভা টিউটোরিয়াল](http://mrubel.com/androidlime/category/java/) - [মোশাররফ রুবেল](https://www.facebook.com/rubel007cse)
+
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
-### সি (C)
+  
+  ### সি (C)
+
 * [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
+
 * [বাংলায় সি প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/c) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
+
 * [সি টিউটোরিয়াল](http://shoshikkha.com/archives/1394) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
+
 * [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 
 ### সি প্লাস প্লাস (C++)
+
 * [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
-
 ### জাভাস্ক্রিপ্ট (Javascript)
+
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 * [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
 
-
 ### পিএইচপি (PHP)
+
 * [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
 ### গো-ল্যাং (golang)
+
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](http://golang.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 
-
 ### ক্লোজার (Clojure)
+
 * [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](http://clojure.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
 ### স্ক্যালা (Scala)
+
 * [Scala দি নেক্সট বিগ থিং](http://scala.howtocode.com.bd/index.html) - [How-to-code](http://www.howtocode.com.bd/)
 
 ---
 
 ## বই
+
 * [তামিম শাহরিয়ার সুবীন এর সি প্রোগ্রামিং বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
 * [তামিম শাহরিয়ার সুবীন এর - পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com/)
 * [সহজ ভাষায় পাইথন ৩ - মাকসুদুর রহমান মাটিন](https://python.maateen.me/)
@@ -1582,6 +1794,7 @@
 ---
 
 ## অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
+
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) - [আলাভোলা](https://medium.com/@amialavola)
 * ক্যারিয়ার এডভাইজ [১](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a7/), [২](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a8/), [৩](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%a9/), [৪](http://subeen.com/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%b0-%e0%a6%8f%e0%a6%a1%e0%a6%ad%e0%a6%be%e0%a6%87%e0%a6%9c-%e0%a7%aa/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
