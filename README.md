@@ -1,22 +1,14 @@
-# Programming Resources
+# Complete Competitive Programming Guide
 
- This repository contains books, useful links, awesome courses, and other materials for programmers (competitive and developer both). This is just a collection of some books, slides, blogs & website links. I am just trying to keep all resources in one place to access easily. Maybe it will help you too 😄
-
----
-
-<h1>Read It First</h1>
+>  A complete "Competitive Programming" guide with topics' name, categroy, links, blogs, books and video tutorials. This is my easy compilation of "Competitive Programming" resources
 
 ---
 
-1. You may wonder that why I'm keeping books on GitHub instead of drive because it's easy to maintain
+## Maintainer
 
-2. I have just put my all collections in one place and I have collected all the documents from online so as I have found them on online so I strongly believe that they are shareable. So I think no copyright issue will arise to do a simple collections sharing.
+---
 
-3. If you have a collection to then please share or send a pull request to help others.
-
-4. ### Some Quality Issue
-   
-    May be some resources are not too much good to read but well enough to read I think. May be it is the issue of file compression. So happy reading.
+> This repository is maintained by [rng70 (Al Arafat Tanin) · GitHub](https://github.com/rng70)
 
 ---
 
