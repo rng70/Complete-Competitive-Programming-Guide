@@ -26,7 +26,7 @@
 
 * [Contest Archives](#contest-archives)
 
-* [Contest Sites(Practice)](#contest-sites-(practice))
+* [Contest Sites(Practice)](#contest-sites-practice)
 
 * [Problem Archives](#problem-archives)
 
@@ -37,7 +37,54 @@
   * [Number Theory](#number-theory)
   * [Geometry and Computational Geometry](#geometry-and-computational-geometry)
   * [Graph Theory](#graph-theory)
-  * 
+  * [Game Theory](#game-theory)
+  * [Group Theory](#group-theory)
+  * [Greedy](#greedy)
+  * [Dynamic Programming](#dynamic-programming)
+  * [String Algorithms](#string-algorithms)
+  * [Bitwise](#bitwise)
+  * [Some Useful Library](#some-useful-library)
+  * [Adhoc](#adhoc)
+
+* [Blogs and Sites](#blogs-and-sites)
+
+* [Data Structure and Algorithm](#data-structure-and-algorithm)
+  
+  * [Data Structure](#data-structure)
+  
+  * [Algorithms](#algorithms)
+
+* [STL](#stl)
+
+* [Challenges](#challenges)
+
+* [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](#বাংলায়-প্রোগ্রামিং-রিসোর্সসমূহ)
+  
+  * [যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছে](#যাদের-ব্লগ-থেকে-লেখা-সংগ্রহ-করা-হয়েছে)
+  
+  * [এলগোরিদম](#এলগোরিদম)
+  
+  * [ও-ও-পি (OOP) এবং ডিজাইন প্রিন্সিপালস](#ও-ও-পি-oop-এবং-ডিজাইন-প্রিন্সিপালস)
+  
+  * [ডিজাইন প্যাটার্ণ](#ডিজাইন-প্যাটার্ণ)
+  
+  * [সফটওয়্যার আর্কিটেকচার](#সফটওয়্যার-আর্কিটেকচার)
+  
+  * [ভার্সন কন্ট্রোল সিস্টেম (GIT)](#ভার্সন-কন্ট্রোল-সিস্টেম-git)
+  
+  * [সফটওয়্যার টেস্টিং](#সফটওয়্যার-টেস্টিং)
+  
+  * [ডাটাবেজ সিস্টেম](#ডাটাবেজ-সিস্টেম)
+  
+  * [আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং](#আর্টিফিশিয়াল-ইন্টিলিজেন্স-মেশিন-লার্নিং)
+  
+  * [অন্যান্য](#অন্যান্য-1)
+  
+  * [প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ](#প্রোগ্রামিং-ল্যাঙ্গুয়েজ-টিউটোরিয়াল-সিরিজ)
+  
+  * [বই](#বই)
+  
+  * [অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ](#অনুপ্রেরণা-এবং-ক্যারিয়ার-এডভাইজ)
 
 ---
 
