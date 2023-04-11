@@ -165,7 +165,7 @@ These are some online judges with large problem archives, that you can use to pr
   
   - [Bezout's identity (Bezout's lemma) - GeeksforGeeks](https://www.geeksforgeeks.org/bezouts-identity-bezouts-lemma/)
   
-  - 
+  - [Read commnet](https://codeforces.com/blog/entry/60458?#comment-443144)
 * [Luca’s Theory](https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727 "https://namnamseo.tistory.com/entry/Lucas-Theorem?category=589727") 
   
   * Though this is a specific link but this site really contains some good articles to read. They can be found easily if you are good enough to browse internet. Have fun :)
@@ -255,11 +255,16 @@ These are some online judges with large problem archives, that you can use to pr
       * [Find all primes with Sieve of Sundaram](https://iq.opengenus.org/sieve-of-sundaram/)
 
 * Modular Inverse (Mod Inverse)
-1.     Fermat’s Little Theorem
+  
+  * [Modular Inverse - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/module-inverse.html)
+  
+  * [Modular multiplicative inverse - GeeksforGeeks](https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/)
+  
+  * [Fermat's little theorem - GeeksforGeeks](https://www.geeksforgeeks.org/fermats-little-theorem/)
 
-
-
-* Hensel's lemma
+* Hensel's Lemma
+  
+  * [Hensel's Lemma - GeeksforGeeks](https://www.geeksforgeeks.org/hensels-lemma/)
 
 * Euler phi and inverse phi
   
@@ -473,11 +478,14 @@ These are some online judges with large problem archives, that you can use to pr
   * [SERBANOLOGY](http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens "http://serbanology.com/show_article.php?art=The%20Trick%20From%20Aliens")
   
   * [Iinkret’s Blog](https://codeforces.com/blog/entry/49691 "https://codeforces.com/blog/entry/49691")
+
+- Sqrt Decomposition
   
-  - Sqrt decomposition
+  - Mo's Algorithm
     
-    1. [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
-    2. [Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
+    - [Blog Post By Anudeep Nekkanti](http://blog.anudeep2011.com/mos-algorithm/)
+    
+    - [Mo's Algorithm - Hackerearth](https://www.hackerearth.com/notes/mos-algorithm/)
 
 - Tonelli–Shanks algorithm
 
@@ -485,44 +493,56 @@ These are some online judges with large problem archives, that you can use to pr
 
 - Advanced:
   
-  1. Fast Fourier Transform(FFT):
-     1. [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming "https://namnamseo.tistory.com/entry/FFT-in-competitive-programming")
-     2. [FFT](https://cp-algorithms.com/algebra/fft.html "https://cp-algorithms.com/algebra/fft.html")
-     3. Tutorial on FFT/NTT [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
-     4. [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
-     5. Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
-  2. Fast Walsh–Hadamard transform
-
-- ### Combinatorics:
+  * Fast Fourier Transform(FFT)
   
-  1. Advanced:
-     1. [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
-     2. [HLD](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
-     3. [HLD](http://wcipeg.com/wiki/Heavy-light_decomposition "http://wcipeg.com/wiki/Heavy-light_decomposition")
-
-- ### Geometry and Computational Geometry:
+  * [FFT in competitive programming](https://namnamseo.tistory.com/entry/FFT-in-competitive-programming)
   
-  1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
-  2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
-  3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
-     1. [SQRT – OPTIMISATION & Centroid Decomposition of a Tree](https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/ "https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/")
-  4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
-     1. LiChao Tree
-        1. [cp-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html "https://cp-algorithms.com/geometry/convex_hull_trick.html")
-        2. [LiChao tree](http://www.secmem.org/blog/2019/01/03/lichao-tree/ "http://www.secmem.org/blog/2019/01/03/lichao-tree/")
-        3. [Delete from LiChao tree](https://cp-algorithms.com/data_structures/deleting_in_log_n.html "https://cp-algorithms.com/data_structures/deleting_in_log_n.html")
-     2. 3-D convex hull
-  5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
-  6. Pick’s Theorem
-  7. Segment-Segment intersection
-  8. Line sweeping
-  9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-  10. Fortune’s Algorithm 
-      1. Voronoi Diagram
-  11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
-  12. Delaunay triangulation
-  13. Onion  peeling
+  * [Fast Fourier transform - Algorithms for Competitive Programming](https://cp-algorithms.com/algebra/fft.html)
+  
+  * Tutorial on FFT/NTT 
+    
+    * [Part - 1](https://codeforces.com/blog/entry/43499, "https://codeforces.com/blog/entry/43499") 
+    
+    * [Part - 2](https://codeforces.com/blog/entry/48798 "https://codeforces.com/blog/entry/48798")
+    
+    * [FFT / NTT](https://codeforces.com/blog/entry/19862 "https://codeforces.com/blog/entry/19862")
+  
+  * Compare FFT to [this](http://codeforces.com/contest/958/submission/37318120)
+  
+  * Fast Walsh–Hadamard transform
 
+- Heavy-light Decomposition
+  
+  * [Heavy-light Decomposition](https://blog.anudeep2011.com/heavy-light-decomposition/ "https://blog.anudeep2011.com/heavy-light-decomposition/")
+  
+  * [Heavy-light decomposition - PEGWiki](http://wcipeg.com/wiki/Heavy-light_decomposition)
+  
+  * [Heavy-light decomposition](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
+
+---
+
+### Geometry and Computational Geometry
+
+1. [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
+2. [Divide and Conquer on Trees – Centroid Decomposition](https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/ "https://sai16vicky.wordpress.com/2014/11/01/divide-and-conquer-on-trees-centroid-decomposition/")
+3. [Centroid Decomposition of a Tree](https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree "https://www.quora.com/q/threadsiiithyderabad/Centroid-Decomposition-of-a-Tree")
+   1. [SQRT – OPTIMISATION & Centroid Decomposition of a Tree](https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/ "https://reponroy.wordpress.com/2015/09/20/sqrt-optimisation-centroid-decomposition-of-a-tree/")
+4. Convex Hull (Counterclockwise CCW function) and [Polar Sorting](https://codeforces.com/blog/entry/72815 "https://codeforces.com/blog/entry/72815")
+   1. LiChao Tree
+      1. [cp-Algorithms](https://cp-algorithms.com/geometry/convex_hull_trick.html "https://cp-algorithms.com/geometry/convex_hull_trick.html")
+      2. [LiChao tree](http://www.secmem.org/blog/2019/01/03/lichao-tree/ "http://www.secmem.org/blog/2019/01/03/lichao-tree/")
+      3. [Delete from LiChao tree](https://cp-algorithms.com/data_structures/deleting_in_log_n.html "https://cp-algorithms.com/data_structures/deleting_in_log_n.html")
+   2. 3-D convex hull
+5. Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+6. Pick’s Theorem
+7. Segment-Segment intersection
+8. Line sweeping
+9. Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+10. Fortune’s Algorithm 
+    1. Voronoi Diagram
+11. Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+12. Delaunay triangulation
+13. Onion  peeling
 - ### Graph Theory:
   
   * Theory
