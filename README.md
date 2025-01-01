@@ -620,6 +620,7 @@ These are some online judges with large problem archives, that you can use to pr
 ---
 
 * Theory
+  
   * [Topcoder](https://topcoder.com)
     * [Identifying a graph on Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/)
     * [Searching in a Graph](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-2/)
@@ -627,14 +628,23 @@ These are some online judges with large problem archives, that you can use to pr
   * [Codeforces](http://codeforces.com/blog/entry/16221) - Important Graph Algorithms by [PrinceOfPersia](http://codeforces.com/profile/PrinceOfPersia)
   * [Codechef](https://www.codechef.com/wiki/tutorial-graph-theory-part-1) - Tutorial on Graph Theory - part 1
 - Representation and BFS and DFS
+  
   * Lexicographical BFS
+
 - Dijkstra and Variation
+
 - Bellman-Ford Algorithm and it’s variation
+
 - Eularian Paths
+  
   * Hierhozer’s Algorithm
+
 - Floyd Warshall and it’s variation
+
 - Johnson’s Algorithm
+
 - Shortest path and k-th shortest path
+  
   * SPFA
   
   * [Yen’s Algorithm](https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/ "https://neo4j.com/docs/graph-algorithms/current/labs-algorithms/yen-s-k-shortest-path/")
@@ -644,7 +654,9 @@ These are some online judges with large problem archives, that you can use to pr
   * 0-1 BFS
   
   * Johnson  algorithm
+
 - Minimum Spanning Tree
+  
   * Prims
   
   * Kruskal
@@ -662,33 +674,57 @@ These are some online judges with large problem archives, that you can use to pr
     * Minimum Diameter Spanning Tree
   
   * Rectilinear MST
+
 - Topological Sorting
+  
   * using DFS
   
   * Khan’s Algorithm
+
 - Strongly Connected Components
+  
   * Kosaraju’s Algorithm
+
 - Articulation Point
+
 - Euler path (Construction and optimization)
+
 - Maximum Flow
+  
   * Ford Fulkerson
   
   * Dinic
+
 - Maximum Independent set
+
 - Maximum flow minimum cost
+
 - Largest Clique
+
 - IDA* Search (Iterative deepening  and Iterative deepening A*)
+  
   * Advanced topics
+
 - Stable Marriage Problem
+
 - Stoer Wagner Algorithm 
+  
   * Finding Minimum Cut
+
 - Planar Graph Detection
+
 - Havel-Hakimi Algorithm
+  
   * Construct a graph given degree of nodes
+
 - Erdos & Galli Theorem
+
 - DAG and Grid
+
 - Modular decomposition
+
 - Numbers
+  
   * Euler
   
   * Catalan
@@ -698,8 +734,11 @@ These are some online judges with large problem archives, that you can use to pr
     * First Kind
     
     * Second Kind
+
 - Level ancestors and Ladder Algorithm
+
 - Flow
+  
   * Max-flow-Min-cut theorem
   
   * Push–relabel maximum flow algorithm/Preflow-Push/Fast-flow
@@ -713,25 +752,43 @@ These are some online judges with large problem archives, that you can use to pr
   * [Topcoder - Max Flow Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-1/)
   
   * [Topcoder - Max Flow Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/maximum-flow-section-2/)
+
 - Constraint satisfaction problem
+
 - Kirchhoff's  Matrix Tree Theorem
+
 - [Rotating Calipers](https://codeforces.com/blog/entry/46162 "https://codeforces.com/blog/entry/46162")
+
 - [Dominator tree](https://codeforces.com/blog/entry/22811 "https://codeforces.com/blog/entry/22811")
+  
   * Lengauer-Tarjan Algorithm
+
 - Kempe’s Graph-coloring Algorithm
+  
   * Chaitin's algorithm
   
   * Kempe’s Algorithm
+
 - Hall's marriage theorem
+
 - Hungarian algorithm
+
 - Blossom Algorithm
+
 - Search for bridges online
+
 - Hopcroft–Karp algorithm
+
 - Perfect order elimination
+  
   * [Problem](https://www.codechef.com/JULY18A/problems/JERRYTOM)
+
 - Maximum matching
+  
   * Edmonds-Blossom algorithm
+
 - Global min-cut
+
 - [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
 
 ---
@@ -743,6 +800,7 @@ These are some online judges with large problem archives, that you can use to pr
 *Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
 
 - Theory
+  
   - [Stanford](http://web.stanford.edu/class/cs97si/05-combinatorial-games.pdf) - PDF on Combinatorial Games.
   - [Wikipedia](https://en.wikipedia.org/wiki/Nim) - Introduction to Nim Games.
   - [Book](http://www.cs.ox.ac.uk/files/2735/Composite_games.pdf) - Composite Mathematical Games.
@@ -751,7 +809,9 @@ These are some online judges with large problem archives, that you can use to pr
   - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/) - Introduction to Algorithmic Games.
 
 - Nim
+
 - Grundy Number and DP Formulation
+
 - Alpha Beta Pruning Minimax
 
 ---
@@ -809,18 +869,27 @@ These are some online judges with large problem archives, that you can use to pr
 [Quora](https://www.quora.com/How-can-one-start-solving-Dynamic-Programming-problems/) - Getting started with Dynamic Programming (Quora Discussion).
 
 - Modular DP (DP with MOD value as state)
+
 - Digit DP
+
 - DP with counting
+
 - [DP with Profile](http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html "http://sk765.blogspot.com/2012/02/dynamic-programming-with-profile.html")
+  
   * [Broken Profile DP](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html "https://cp-algorithms.com/dynamic_programming/profile-dynamics.html")
     
     * [Auth0](https://apps.topcoder.com/forums/?module=Thread&threadID=697369)
     
     * [BrokenProfile](https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html "https://web.archive.org/web/20180712171735/https://blog.evilbuggy.com/2018/05/broken-profile-dynamic-programming.html")
+
 - [SOS DP](https://codeforces.com/blog/entry/45223 "https://codeforces.com/blog/entry/45223")
+
 - Interval DP
+
 - [BitSet DP](https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size "https://leetcode.com/problems/split-array-with-same-average/discuss/120830/dp-with-bitset-over-size")
+
 - [DP on TREE](https://codeforces.com/blog/entry/20935 "https://codeforces.com/blog/entry/20935")
+  
   * DP On  Rooted Trees
   
   * DP On  DAGs
@@ -842,13 +911,19 @@ These are some online judges with large problem archives, that you can use to pr
   * [In-Out DP](https://blogarithms.github.io/articles/2019-10/inout-dp-tree "https://blogarithms.github.io/articles/2019-10/inout-dp-tree")
   
   * Sibling DP [Blog - 1](https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/ "https://tech.rokomari.com/where-why-and-how-to-use-sibling-dp-technique/") [Problems](https://codeforces.com/blog/entry/18523)
+
 - Matrix chain Multiplication
+
 - LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+
 - Bitmask
+  
   * Subset Bitmask DP
     
     * Ternary Bismask DP
+
 - [Trick](https://mamnoonsiam.github.io/posts/attack-on-aliens.html "https://mamnoonsiam.github.io/posts/attack-on-aliens.html")
+  
   * [[Tutorial\] Non-trivial DP Tricks and Techniques](https://codeforces.com/blog/entry/47764)
   
   * [Knuth-Optimization](https://codeforces.com/blog/entry/8219)
@@ -860,14 +935,21 @@ These are some online judges with large problem archives, that you can use to pr
   * [9 way DP optimization](https://koosaga.com/243 "https://koosaga.com/243")
   
   * [DP optimization - WQS Binary Search Optimization](https://robert1003.github.io/2020/02/26/dp-opt-wqs-binary-search.html)
+
 - Fast  Zeta and Mobius Transform
+
 - [Fast  Subset Convolution](https://goo.gl/7WZJsp)
+
 - [1D1D DP](https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti "https://sites.google.com/site/ubcprogrammingteam/news/1d1ddynamicprogrammingoptimization-parti")
+
 - [Slope Trick](https://codeforces.com/blog/entry/47821 "https://codeforces.com/blog/entry/47821")
+  
   * [Kuroni’s Blog](https://codeforces.com/blog/entry/77298 "https://codeforces.com/blog/entry/77298")
+
 - Matrix Exponentiation
   
   ***Used to solve problems which involve finding a solution to a given series by using exponentiation property on multiplication of matrices.The complexity is thus reduced to logrithmic from linear.***
+  
   * Theory
     
     * [Zobayer](http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html) - Introduction to Matrix exponentiations
@@ -883,21 +965,33 @@ These are some online judges with large problem archives, that you can use to pr
 ---
 
 - KMP
+
 - Rabin-Karp
+
 - Suffix Array and Suffix Tree
+  
   * Ukkonen's Algorithm
   
   * [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Tutorial on prefix and suffix trees by Sartaj Sahni
   
   * [Marknelson](http://marknelson.us/1996/08/01/suffix-trees/) - Suffix Trees Explained.
+
 - Suffix automation
+
 - Aho Chorasic Algorithm
+
 - Z-Algorithm
+
 - Manacher Algorithm
+
 - [FFT and String Matching](https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf "https://www.cc.gatech.edu/classes/AY2010/cs6505_spring/lectures/FFT.pdf")
+
 - [FFT and String Matching](https://codeforces.com/topic/59717/en3 "https://codeforces.com/topic/59717/en3")
+
 - Levenshtein distance
+
 - [Pallindromic Tree](http://adilet.org/blog/palindromic-tree/ "http://adilet.org/blog/palindromic-tree/")
+  
   * [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
 ---
@@ -1370,8 +1464,6 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 5. [Dhaka regional Analysis](https://docs.google.com/document/d/10XeCliJagbMGmMTajx5m9v59LC1Dhgd32nhqLWOUd3E/edit?fbclid=IwAR2XGGmvZu3DmRL3gc8pTB0U6qJBjQw8AsDAOmV2pLhts24kMnYiZCB2pvw#heading=h.dpgebo8zawhc)
 6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
 7. [__int128](https://codeforces.com/blog/entry/75044 "https://codeforces.com/blog/entry/75044")
-
-
 
 ---
 
