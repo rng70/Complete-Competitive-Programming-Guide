@@ -1,6 +1,6 @@
-# Complete Competitive Programming Guide
+# Programming Guide
 
->  A complete "Competitive Programming" guide with topics' name, categroy, links, blogs, books and video tutorials. This is my easy compilation of "Competitive Programming" resources
+>  A complete Programming guide with topics' name, categroy, links, blogs, books and video tutorials. This is a compilation of Programming resources
 
 ---
 
@@ -14,18 +14,9 @@
 
 ## Table of Content
 
----
-
 * [Contest Archives](#contest-archives)
-
-* [Contest Sites(Practice)](#contest-sites-practice)
-
-* [Problem Archives](#problem-archives)
-
 * [Visual Tools](#visual-tools)
-
 * [Topics](#topics)
-  
   * [Number Theory](#number-theory)
   * [Geometry and Computational Geometry](#geometry-and-computational-geometry)
   * [Graph Theory](#graph-theory)
@@ -37,161 +28,104 @@
   * [Bitwise](#bitwise)
   * [Some Useful Library](#some-useful-library)
   * [Adhoc](#adhoc)
-
 * [Blogs and Sites](#blogs-and-sites)
-
 * [Data Structure and Algorithm](#data-structure-and-algorithm)
-  
   * [Data Structure](#data-structure)
-  
   * [Algorithms](#algorithms)
-
 * [STL](#stl)
-
 * [Challenges](#challenges)
-
 * [বাংলায় প্রোগ্রামিং রিসোর্সসমূহ](#বাংলায়-প্রোগ্রামিং-রিসোর্সসমূহ)
-  
   * [যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছে](#যাদের-ব্লগ-থেকে-লেখা-সংগ্রহ-করা-হয়েছে)
-  
   * [এলগোরিদম](#এলগোরিদম)
-  
   * [ও-ও-পি (OOP) এবং ডিজাইন প্রিন্সিপালস](#ও-ও-পি-oop-এবং-ডিজাইন-প্রিন্সিপালস)
-  
   * [ডিজাইন প্যাটার্ণ](#ডিজাইন-প্যাটার্ণ)
-  
   * [সফটওয়্যার আর্কিটেকচার](#সফটওয়্যার-আর্কিটেকচার)
-  
   * [ভার্সন কন্ট্রোল সিস্টেম (GIT)](#ভার্সন-কন্ট্রোল-সিস্টেম-git)
-  
   * [সফটওয়্যার টেস্টিং](#সফটওয়্যার-টেস্টিং)
-  
   * [ডাটাবেজ সিস্টেম](#ডাটাবেজ-সিস্টেম)
-  
   * [আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং](#আর্টিফিশিয়াল-ইন্টিলিজেন্স-মেশিন-লার্নিং)
-  
   * [অন্যান্য](#অন্যান্য-1)
-  
   * [প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ](#প্রোগ্রামিং-ল্যাঙ্গুয়েজ-টিউটোরিয়াল-সিরিজ)
-  
   * [বই](#বই)
-  
   * [অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ](#অনুপ্রেরণা-এবং-ক্যারিয়ার-এডভাইজ)
-
----
 
 ## Contest Archives
 
----
+Some contest archive links
 
-| **Name**                                       | Links                                                                                                                                                                                                                                                                                                                          |
-|:----------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Codeforces                                     | [Blog: 55247 · Topics](https://codeforces.com/blog/entry/55274)<br/>[Blog: 48102 · Topics](https://codeforces.com/topic/48102/en4)<br/>[Blog: 572282 · Resources](https://codeforces.com/blog/entry/57282)                                                                                                                     |
-| A2OJ                                           | [Problem Category](https://www.a2oj.com/Categories.html)<br/>[Problem Ladder](https://a2oj.com/Ladders.html)                                                                                                                                                                                                                   |
-| CodeChef                                       | [Getting Started](https://www.codechef.com/getting-started)<br/>[List of Topics](http://codechef17.rssing.com/chan-12597213/all_p1394.html)<br/>[Number Theory](https://www.codechef.com/wiki/tutorial-number-theory)<br/>[Best Resources](https://discuss.codechef.com/t/competitive-programming-best-resource/29619)         |
-| PEG Wiki                                       | [Main Page · WCIPEG](http://wcipeg.com/wiki/Main_Page)                                                                                                                                                                                                                                                                         |
-| CSAcademy Contest-Archive                      | [Archieve  CSAcademy](https://csacademy.com/contest/archive/)                                                                                                                                                                                                                                                                  |
-| HAlexV                                         | [Resources](https://halexv.blogspot.com/2015/10/competitive-programming-resources.html)<br/>[Blogs](https://halexv.blogspot.com/)                                                                                                                                                                                              |
-| Awesome CP                                     | [Awesome  CP · GitHub](https://github.com/lnishan/awesome-competitive-programming#_=_)                                                                                                                                                                                                                                         |
-| PS Community Topics Collection                 | [Southseo's Blog](https://namnamseo.tistory.com/entry/PS-%ED%86%A0%ED%94%BD-%EB%AA%A8%EC%9D%8C)                                                                                                                                                                                                                                |
-| NOI.PH: a Filipino website with good resources | [Topics List · NoI.ph](https://training.noi.ph/topics)                                                                                                                                                                                                                                                                         |
-| GeeksForGeeks                                  | [Top 10 Algorithms and Data Structures for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4)<br/>[Number Theory for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/number-theory-competitive-programming/) |
+* [PEGWiki](http://wcipeg.com/wiki/Main_Page)
 
----
+* [CS Academy](https://csacademy.com/contest/archive/)
 
-## Contest Sites (Practice)
+* [Learn Number theory](https://www.codechef.com/wiki/tutorial-number-theory)
 
----
+* [Problem Topics - Codeforces](https://codeforces.com/blog/entry/55274)
 
-Here is some cool online judge lists. You will not only be able to solve problems but also you will find a lot of tutorials, articles and other materials.
+* [Archived Problems - Project Euler](https://projecteuler.net/archives)
 
-1. ### [Codeforces](https://codeforces.com)
+* [CodeChef: Practical coding for everyone](https://www.codechef.com/getting-started)
 
-2. ### [Topcoder](https://www.topcoder.com "https://www.topcoder.com")
-   
-   - It also hosts the TopCoder data science [tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/), a list of tutorials written by respected Topcoder members.
+* [HAlexV: Competitive Programming Resources](https://halexv.blogspot.com/2015/10/competitive-programming-resources.html)
 
-3. ### [HackerRank](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerrank.com)
+* [COMPETITIVE CODING RESOURCES.... - Codeforces](https://codeforces.com/topic/48102/en4)
 
-4. ### [CodeChef](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/codechef.com)
+* [Number Theory for DSA &amp; Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/number-theory-competitive-programming/)
 
-5. ### [HackerEarth](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/hackerearth.com/challenges)
+* [All the good tutorials found for Competitive Programming - Codeforces](https://codeforces.com/blog/entry/57282)
 
-6. ### [Hacker Blocks](https://hack.codingblocks.com/)
+* [Top 10 Algorithms and Data Structures for Competitive Programming - GeeksforGeeks](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/#algo4)
 
-7. ### [CSAcademy](https://csacademy.com/)
+* [A curated list of awesome Competitive Programming, Algorithm and Data Structure resources](https://github.com/lnishan/awesome-competitive-programming#_=)_
 
-8. ### [AtCoder](https://blog.codingblocks.com/2019/sites-and-tools-for-competitive-programming/atcoder.jp)
+* https://dmoj.ca
 
----
+* http://uvatoolkit.com
 
-## Problem Archives
+* https://halexv.blogspot.com
 
----
+* http://uhunt.felix-halim.net
 
-These are some online judges with large problem archives, that you can use to practice topics as you learn when you are not doing contests.
+* https://a2oj.com/Ladders.html
 
-1. ### [SPOJ](https://www.spoj.com/)
+* https://training.noi.ph/topics
 
-2. ### [Timus OJ](http://acm.timus.ru/)
+* https://www.a2oj.com/Categories.html
 
-3. ### [UVa OJ](https://uva.onlinejudge.org/)
-   
-   * [uHunt](http://uhunt.felix-halim.net/) and [UVaToolkit](http://uvatoolkit.com/) are some related tools.
+* http://codechef17.rssing.com/chan-12597213/all_p1394.html
 
-4. ### [A2 OJ](https://a2oj.com/)
+* https://codingcompetitions.withgoogle.com/codejam/archive
 
-5. ### [DM::OJ](https://dmoj.ca)
-   
-   * The DMOJ is a modern contest platform and archive of programming problems. It’s also entirely [open source](https://github.com/DMOJ "https://github.com/DMOJ"). So you can make you local pc as online judge. 
-   
-   * ***Do you love interactive problem? Then it is really appropriate for you.***
+* https://www.topcoder.com/community/data-science/data-science-tutorials
 
-6. ### [P3G Online Judge](https://wcipeg.com/main "https://wcipeg.com/main")
+* https://discuss.codechef.com/t/competitive-programming-best-resource/29619
 
-7. ### [oj.uz](https://oj.uz/ "https://oj.uz/")
+* https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8
 
-8. ### [Project Euler Archives](https://projecteuler.net/archives)
+##### Visual Tools
 
-9. ### [Google CodeJam Archives](https://codingcompetitions.withgoogle.com/codejam/archive)
-
-10. ### [ACM ICPC Problem Archives](https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8)
-
----
-
-## Visual Tools
-
----
-
-1. ### [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
+1. [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
    
    This is a app by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools will help to visualize hard graph problems and to make graph to solve properly.
 
-2. ### [Geometry Widget](https://csacademy.com/app/geometry_widget/ "https://csacademy.com/app/geometry_widget/")
+2. [Geometry Widget](https://csacademy.com/app/geometry_widget/ "https://csacademy.com/app/geometry_widget/")
    
    This is a tools by [CSAcademy](https://csacademy.com "https://csacademy.com"). This tools that can help you solve problems that are hard to visualize properly.
 
-3. ### [VisuAlgo](https://visualgo.net/en)
+3. [VisuAlgo](https://visualgo.net/en)
    
    This is a website perfect for people trying to get an intuitive feel for algorithms. It features animations for most common data structures and algorithms.
 
-4. ### [Algorithm Visualizer](https://algorithm-visualizer.org/)
+4. [Algorithm Visualizer](https://algorithm-visualizer.org/)
    
    This is another website to visualize algorithms, data strucutres and the operations we can do on those data structures.
 
-5. ### [TryAlgo](https://tryalgo.org/ "https://tryalgo.org/")
+5. [TryAlgo](https://tryalgo.org/ "https://tryalgo.org/")
    
    This is a French site and very good to practice some algorithms.
 
----
+##### Topics
 
-## Topics
-
----
-
-1. [SPLEN](https://splentechnologies.com/competitive-programming.php "https://splentechnologies.com/competitive-programming.php")
-2. [Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
-3. [CLIP Zul](https://www.clipzui.com/search?k=sqrt-%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F "https://www.clipzui.com/search?k=sqrt-декомпозиция") If you know Russian well then it is a good place for you to learn.
+[Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
 
 ---
 
@@ -356,7 +290,7 @@ These are some online judges with large problem archives, that you can use to pr
 
 * Sum of Divisor and number of divisor
 
-* Factoradic and Factorizing ![n!](https://render.githubusercontent.com/render/math?math=n!)
+* Factoradic and Factorizing 
   
   * [Factorial number system - Wikipedia](https://en.wikipedia.org/wiki/Factorial_number_system) 
 
@@ -593,7 +527,7 @@ These are some online judges with large problem archives, that you can use to pr
   
   * 3-D convex hull
 
-- Point inside Convex Polygon ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+- Point inside Convex Polygon 
 
 - Pick’s Theorem
 
@@ -601,13 +535,13 @@ These are some online judges with large problem archives, that you can use to pr
 
 - Line sweeping
 
-- Union of rectangle in ![\mathcal{O}(N^2)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2)) and ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+- Union of rectangle in  and 
 
 - Fortune’s Algorithm 
   
   * Voronoi Diagram
 
-- Largest empty circle ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+- Largest empty circle 
 
 - Delaunay triangulation
 
@@ -843,10 +777,8 @@ These are some online judges with large problem archives, that you can use to pr
 - Chordal graph
 
 - Maximum sum subarray
-  
-  > ![\left\beginaligned \text1D array in  \rightarrow \mathcalON\\  \text2D array in  \rightarrow\mathcalON^3  \endaligned  \right\ \qquad \Longrightarrow \qquad \text  Kadane's Algorithm](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7B1-D%20array%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N)%5C%5C%20%20%5Ctext%7B2-D%20array%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N%5E3)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7B%20%20Kadane's%20Algorithm%7D)
 
-- Maximum rectangle ![\mathcalON^2](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%5E2))
+- Maximum rectangle 
 
 ---
 
@@ -914,7 +846,7 @@ These are some online judges with large problem archives, that you can use to pr
 
 - Matrix chain Multiplication
 
-- LIS/LDS in ![\mathcal{O}(N log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(N%20log%20N))
+- LIS/LDS in 
 
 - Bitmask
   
@@ -1025,8 +957,6 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 - Matrix Tree Theorem
 
 - Counting-out Game
-  
-  > ![\left.\begin{aligned} \text{Using queue in  }\rightarrow \mathcal{O}(N^2)\\  \text{Using recursion in  }\rightarrow\mathcal{O}(N)  \end{aligned}  \right\} \qquad \Longrightarrow \qquad \text{Josephus Permutation}](https://render.githubusercontent.com/render/math?math=%5Cleft.%5Cbegin%7Baligned%7D%20%5Ctext%7BUsing%20queue%20in%20%20%7D%5Crightarrow%20%5Cmathcal%7BO%7D(N%5E2)%5C%5C%20%20%5Ctext%7BUsing%20recursion%20in%20%20%7D%5Crightarrow%5Cmathcal%7BO%7D(N)%20%20%5Cend%7Baligned%7D%20%20%5Cright%5C%7D%20%5Cqquad%20%5CLongrightarrow%20%5Cqquad%20%5Ctext%7BJosephus%20Permutation%7D)
 
 - Hashing
 
@@ -1034,7 +964,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 - Backtracking with pruning
 
-- Finding K-th number from a sequence of unsorted numbers in ![\mathcal{O}(log N)](https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D(log%20N))
+- Finding K-th number from a sequence of unsorted numbers in 
 
 - Matrix exponentiation
 
