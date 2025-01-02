@@ -2,15 +2,13 @@
 
 >  A complete Programming guide with topics' name, categroy, links, blogs, books and video tutorials. This is a compilation of Programming resources
 
----
+
 
 ## Maintainer
 
----
-
 > This repository is maintained by [rng70 (Al Arafat Tanin) · GitHub](https://github.com/rng70)
 
----
+
 
 ## Table of Content
 
@@ -49,9 +47,9 @@
   * [বই](#বই)
   * [অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ](#অনুপ্রেরণা-এবং-ক্যারিয়ার-এডভাইজ)
 
-## Contest Archives
 
-Some contest archive links
+
+##### Contest Archives
 
 * [PEGWiki](http://wcipeg.com/wiki/Main_Page)
 
@@ -101,6 +99,8 @@ Some contest archive links
 
 * https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8
 
+
+
 ##### Visual Tools
 
 1. [Graph Editor](https://csacademy.com/app/graph_editor/ "https://csacademy.com/app/graph_editor/")
@@ -123,15 +123,11 @@ Some contest archive links
    
    This is a French site and very good to practice some algorithms.
 
+
+
 ##### Topics
 
-[Centroid Decomposition](https://www.viveos.net/rev/centroid+decomposition+algorithm "https://www.viveos.net/rev/centroid+decomposition+algorithm")
-
----
-
-### Number Theory
-
----
+###### Number Theory
 
 - Theory
   
@@ -499,11 +495,9 @@ Some contest archive links
   
   * [Heavy-light decomposition](https://codeforces.com/blog/Vladyslav "https://codeforces.com/blog/Vladyslav")
 
----
 
-### Geometry and Computational Geometry
 
----
+###### Geometry and Computational Geometry
 
 - [Jump Pointer/Binary Lifting and Centroid Decomposition](https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw "https://codeforces.com/group/z2CGOs8qrd/blog/entry/4052?fbclid=IwAR0d6ibtOrBBIaswJ6fkII65TV_WNnjl7vDxDvHUmXWV_1JuPgNIa62K2iw")
 
@@ -547,11 +541,9 @@ Some contest archive links
 
 - Onion  peeling
 
----
 
-### Graph Theory
 
----
+###### Graph Theory
 
 * Theory
   
@@ -725,13 +717,11 @@ Some contest archive links
 
 - [[Tutorial] Matroid intersection in simple words](https://codeforces.com/blog/entry/69287)
 
----
 
-### Game Theory
 
----
+###### Game Theory
 
-*Used to solve problems involving mathematical modelling of conflict and cooperation among rational players.*
+Used to solve problems involving mathematical modelling of conflict and cooperation among rational players
 
 - Theory
   
@@ -748,21 +738,17 @@ Some contest archive links
 
 - Alpha Beta Pruning Minimax
 
----
 
-### Group Theory
 
----
+###### Group Theory
 
 * Schreier–Sims algorithm
 
----
 
-### Greedy
 
----
+###### Greedy
 
-*Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it.*
+Greedy problems involve solving a problem statement considering the most greedy, i.e. most optimal solution at the given time without taking into consideration the future effects of it
 
 - Theory
   
@@ -780,13 +766,11 @@ Some contest archive links
 
 - Maximum rectangle 
 
----
 
-### Dynamic Programming
 
----
+###### Dynamic Programming
 
-***Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference.***
+Used to solve questions which can be broken down into smaller sub problems. It involves the technique of saving the result of a problem for future reference
 
 [Everything About Dynamic Programming](https://codeforces.com/blog/entry/43256)
 
@@ -890,11 +874,9 @@ Some contest archive links
     
     * [Codechef](https://discuss.codechef.com/questions/49614/linear-recurrence-using-cayley-hamilton-theorem) - Solving Recurrences using Cayley Hamilton Theorem and Matrix Exponentiation
 
----
 
-### String Algorithms
 
----
+###### String Algorithms
 
 - KMP
 
@@ -926,11 +908,9 @@ Some contest archive links
   
   * [Rosettachode- EERTree](https://rosettacode.org/wiki/Eertree)
 
----
 
-### Bitwise
 
----
+###### Bitwise
 
 You can read my collection of some bit trick for [here](./.random notes/.Bit Trick.md)
 
@@ -944,11 +924,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
   1. [Hackerearth](https://www.hackerearth.com/notes/bit-manipulation/) - Tutorial on Bit Manipulation by [Prateek Garg](https://www.hackerearth.com/users/ptk23/)
   2. [Hackerrank](https://www.hackerrank.com/domains/algorithms/bit-manipulation) - Questions On Hackerrank on bit manipulation.
 
----
 
-### Miscellaneous
 
----
+###### Miscellaneous
 
 - Meet-in-the-Middle Approach
 
@@ -982,31 +960,25 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 - [2-SAT Problem](https://codeforces.com/blog/entry/16205 "https://codeforces.com/blog/entry/16205")
 
----
 
-### Some Useful Library
 
----
+###### Some Useful Library
 
 - Segment Tree Library with Lazy
 - ModInt Library
 - FFT Library
 - Geometry Library
 
----
 
-### Adhoc
 
----
+###### Adhoc
 
 - Interactive problems
 - Constructive algorithm
 
----
 
-## Blogs and Sites
 
----
+##### Blogs and Sites
 
 - [CP-Algorithms](https://cp-algorithms.com/ "https://cp-algorithms.com/")
 - [GeeksforGeeks](https://www.geeksforgeeks.org/ "https://www.geeksforgeeks.org/")
@@ -1043,11 +1015,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 - [One Problem A Day](http://one-problem-a-day.blogspot.com "http://one-problem-a-day.blogspot.com")
 - [charieblog](https://charieblog.wordpress.com/ "https://charieblog.wordpress.com/")
 
----
 
-## Data Structure and Algorithm
 
----
+##### Data Structure and Algorithm
 
 [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/ "https://xlinux.nist.gov/dads/")
 
@@ -1055,11 +1025,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 [Again-One](https://codeforces.com/blog/entry/16221 "https://codeforces.com/blog/entry/16221")
 
----
 
-### Data Structure
 
----
+###### Data Structure
 
 [Lists of Data Structure](https://en.wikipedia.org/wiki/List_of_data_structures "https://en.wikipedia.org/wiki/List_of_data_structures")
 
@@ -1284,11 +1252,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
   
   * Offline
 
----
 
-### Algorithms
 
----
+###### Algorithms
 
 [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms "https://en.wikipedia.org/wiki/List_of_algorithms")
 
@@ -1368,11 +1334,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 - Shunting-Yard algorithm
 
----
 
-## STL
 
----
+##### STL
 
 - [TopCoder STL Tutorial Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/#containers")
 - [TopCoder STL Tutorial Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/ "https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/")
@@ -1381,11 +1345,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 - [Maps in STL](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/ "http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/")
 - [C++ standard's draft LaTeX sources](https://timsong-cpp.github.io/cppwp/n4659/#intro.defs "https://timsong-cpp.github.io/cppwp/n4659/#intro.defs")
 
----
 
-## Challenges
 
----
+##### Challenges
 
 1. [Google-Foobar](https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY "https://github.com/tssovi/google-foobar-challenge?fbclid=IwAR2gmEPIHi2WnDJEbNWpTJwPAcVX3aaFA3uhxoR4LO6jZg57Q1QdcfN8NSY")
 2. [Coding-Interview-Question-Patterns](https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw "https://github.com/MahdiMashrur/Awesome-Coding-Interview-Question-Patterns?fbclid=IwAR3RO4afNAThoU7Vbzo9rQHxwrX20BchMHTHSMD5YpsjcAJDZHPmURUHZyw")
@@ -1395,23 +1357,19 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 6. [ICPC-2019 Analysis](https://docs.google.com/document/d/1ETNHcZYajYH5O4KixhJYF8HyLVpz-MEycE6YvPGRlhU/mobilebasic?fbclid=IwAR1RIYitJYvj-m63ENR15uxxvWT_I6QBk13jcw6NeYN5dB7keQsFv-ynCVI)
 7. [__int128](https://codeforces.com/blog/entry/75044 "https://codeforces.com/blog/entry/75044")
 
----
 
-## বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
----
+##### বাংলায় প্রোগ্রামিং রিসোর্সসমূহ
 
 > বাংলায় সহজবোধ্য প্রোগ্রামিং টিউটরিয়াল, রেফারেন্স এবং অন্যান্য প্রয়োজনীয় লিংকের তালিকা
 
 [বাংলা ভাষায় লেখা প্রোগ্রামিং এর সবচেয়ে বড় রিসোর্স কালেকশন](https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1 "https://programming-jinnatul.blogspot.com/2018/09/blog-post.html?fbclid=IwAR1xKC2FaxwKWHnfPwKyUb8l9adNl6enI-71iHrdZNVVVDVzHNVGP5d04o0&m=1")
 
----
 
-### যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছে
 
----
+###### যাদের ব্লগ থেকে লেখা সংগ্রহ করা হয়েছে
 
-#### ব্লগের তালিকা (লেখকের নামের ক্রমানুসারে):
+###### ব্লগের তালিকা (লেখকের নামের ক্রমানুসারে):
 
 - [How-to-code](http://www.howtocode.com.bd/)
 - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
@@ -1469,18 +1427,16 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 - [জুনায়েদ আহমেদ](https://with.zonayed.me/bn)
 - [হাবিজাবি হিজিবিজবিজ](https://zobayer2009.wordpress.com/)
 
----
 
-### এলগোরিদম
 
----
+###### এলগোরিদম
 
-#### ব্যাসিক
+###### ব্যাসিক
 
 * [বিগ "O" নোটেশন](http://www.shafaetsplanet.com/planetcoding/?p=1313)  - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
-* [কমপ্লেক্সিটি ক্লাস(P-NP, টুরিং মেশিন ইত্যাদি)](http://www.shafaetsplanet.com/planetcoding/?p=1642) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
+* http://www.shafaetsplanet.com/planetcoding/?p=1642 - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
-#### ডাটা স্ট্রাকচার
+###### ডাটা স্ট্রাকচার
 
 * অ্যাারে (Array)
   
@@ -1584,7 +1540,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [পলিসি বেইজড ডাটা স্ট্রাকচার (PBDS)](https://returnzerooo.wordpress.com/2017/12/24/%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%B8%E0%A6%BF-%E0%A6%AC%E0%A7%87%E0%A6%87%E0%A6%9C%E0%A6%A1-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE-%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
-#### ম্যাথ ও নাম্বার থিওরী
+###### ম্যাথ ও নাম্বার থিওরী
 
 * প্রাইম নাম্বার (Prime Number)
   
@@ -1635,7 +1591,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [Fast Fourier Transform](https://rezwanarefin01.github.io/posts/fast-fourier-transform) -  [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
-#### গ্রাফ থিওরী
+###### গ্রাফ থিওরী
 
 * গ্রাফ থিওরি ব্যাসিক
   
@@ -1701,7 +1657,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [2-SAT](http://shakilcompetitiveprogramming.blogspot.nl/2014/08/blog-post.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
-#### ডাইনামিক প্রোগ্রামিং
+###### ডাইনামিক প্রোগ্রামিং
 
 * ডাইনামিক প্রোগ্রামিং ব্যাসিক
   
@@ -1756,7 +1712,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [Dynamic Programming Optimization - Convex Hull Trick](https://rezwanarefin01.github.io/posts/convex-hull-trick/) - [রেজওয়ান আরেফিন](https://www.facebook.com/RezwanArefin01)
 
-#### সর্টিং
+###### সর্টিং
 
 * বাবল সর্ট (Bubble sort)
   
@@ -1801,7 +1757,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [সর্ট!! পর্ব – ১](http://shoshikkha.com/archives/4022) - [সাদমান সাকিব](https://www.facebook.com/saadmaan.sakib)
 
-#### সার্চিং
+###### সার্চিং
 
 * লিনিয়ার সার্চ (Linear search)
   
@@ -1824,12 +1780,12 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [হিউরিস্টিক সার্চ](http://potasiyam.com/farsan/heuristic%20search/heuristic%20search.html) - [ফারসান রশীদ](https://www.facebook.com/farsan.rashid)
 
-#### গ্রীডি মেথড
+###### গ্রীডি মেথড
 
 * Greedy Method [1](http://shakilcompetitiveprogramming.blogspot.com/2014/09/greedy-method.html), [2](http://shakilcompetitiveprogramming.blogspot.com/2015/06/greedy-part-2.html), [3](http://shakilcompetitiveprogramming.blogspot.com/2016/04/greedy-part-3.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [two pointer](http://shakilcompetitiveprogramming.blogspot.com/2015/06/two-pointer.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
-#### রিকার্শন, ব্যাকট্র্যাকিং
+###### রিকার্শন, ব্যাকট্র্যাকিং
 
 * [রিকার্শন (RECURSION)](http://binaryrongo.anindyaspaul.com/2015/12/25/recursion/) - [অনিন্দ্য পাল](http://anindyaspaul.com/)
 * [ব্যকট্র্যাকিং বেসিক এবং পারমুটেশন জেনারেটর](http://www.shafaetsplanet.com/planetcoding/?p=1266) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -1838,7 +1794,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [ইনক্লুশন এক্সক্লুশন – রিকার্শন](http://shoshikkha.com/archives/2143) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [রিকার্সিভ ফাংশনের সৌন্দর্য](https://hellohasan.com/tag/recursion/) - [হাসান আবদুল্লাহ](https://www.facebook.com/hasan.cse91)
 
-#### স্ট্রিং এলগোরিদম
+###### স্ট্রিং এলগোরিদম
 
 * [KMP (Knuth-Morris-Pratt algorithm)](https://tanvir002700.wordpress.com/2015/03/03/kmp-knuth-morris-pratt-algorithm/) - [তানভীর হাসান অনিক](https://www.facebook.com/anick.silentkiller)
 * [স্ট্রিং হ্যাশিং, রোলিং হ্যাশ এবং রবিন-কার্প এলগোরিদম (Rabin-Karp algorithm)](http://ami-alavola.rhcloud.com/?p=231) - [আলাভোলা](https://medium.com/@amialavola)
@@ -1849,11 +1805,11 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [রবিন-কার্প স্ট্রিং ম্যাচিং](http://www.shafaetsplanet.com/?p=3028) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [নুথ-মরিসন-প্র্যাট (কেএমপি) অ্যালগরিদমিং](http://www.shafaetsplanet.com/?p=3209) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 
-#### জিওমেট্রী
+###### জিওমেট্রী
 
 * [সার্কেল ইউনিয়ন](http://chorui12.blogspot.com/2012/05/blog-post.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
 
-#### গেম থিওরী
+###### গেম থিওরী
 
 * [গেম থিওরি-১](http://www.shafaetsplanet.com/planetcoding/?p=2325) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [গেম থিওরি-২](http://www.shafaetsplanet.com/planetcoding/?p=2608) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -1862,7 +1818,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [Game Theory ( Sprague Grundy Theorem )](http://shakilcompetitiveprogramming.blogspot.nl/2014/09/game-theory-sprague-grundy-theorem.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 * [MinMax algorithm](http://shakilcompetitiveprogramming.blogspot.nl/2013/12/minmax-algorithm.html) - [শাকিল আহমেদ](https://www.facebook.com/shakil.ahmed.980)
 
-#### অন্যান্য
+###### অন্যান্য
 
 * [ম্যাট্রিক্স এক্সপোনেনসিয়েশন](http://www.progkriya.org/gyan/matrix-expo.html) - [আনা ফারিহা](https://www.facebook.com/chorui12)
 * [ডিরেকশন অ্যারে](http://www.shafaetsplanet.com/planetcoding/?p=1448) - [ শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
@@ -1895,33 +1851,29 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – বেসিক](https://returnzerooo.wordpress.com/2015/11/26/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 * [জাভার বিগইন্টিজার(BigInteger)ক্লাস – এডভান্সড](https://returnzerooo.wordpress.com/2016/01/08/%E0%A6%9C%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%97%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8-2/) - [সুদীপ সরকার](https://www.facebook.com/sudip.sarker.9)
 
----
 
-### ও-ও-পি (OOP) এবং ডিজাইন প্রিন্সিপালস
 
----
+###### ও-ও-পি (OOP) এবং ডিজাইন প্রিন্সিপালস
 
 * [বাংলায় অবজেক্ট ওরিয়েন্টেড কনসেপ্ট (ভিডিও)](http://lordamit.blogspot.com/2012/07/blog-post.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [সলিড (S.O.L.I.D. ডিজাইন প্রিন্সিপালস](http://masnun.com/2015/06/15/bangla-screencast-solid-design-principles.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [অবজেক্ট অরিয়েন্টেড প্রোগ্রামিং সি++](https://with.dibakar.me/category/programming/cppbn/oopbn/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 
----
 
-### ডিজাইন প্যাটার্ণ
 
----
+##### ডিজাইন প্যাটার্ণ
 
-#### ডিজাইন প্যাটার্ণ কি
+###### ডিজাইন প্যাটার্ণ কি
 
 * [বাংলায় ডিজাইন প্যাটার্ন - ভূমিকা: ডিজাইন প্যাটার্ন কি](http://lordamit.blogspot.com/2012/04/blog-post_09.html) -  [অমিত শীল অমি](https://www.facebook.com/lordamit)
 
-#### ফ্যাক্টরী ডিজাইন প্যাটার্ণ
+###### ফ্যাক্টরী ডিজাইন প্যাটার্ণ
 
 * [ফ্যাক্টরী ডিজাইন প্যাটার্ণ](https://hasin.me/2014/05/13/factory-design-pattern/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 * [ফ্যাক্টরী মেথড ডিজাইন প্যাটার্ণ](http://masnun.com/2013/06/21/design-pattern-factory-method.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [ফ্যাক্টরি প্যাটার্নের পোস্টমর্টেম (Factory Method এবং Abstract Factory)](https://logicalforhad.wordpress.com/2013/05/22/%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A6%B0%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8B/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### সিঙ্গেলটন ডিজাইন প্যাটার্ণ
+###### সিঙ্গেলটন ডিজাইন প্যাটার্ণ
 
 * [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](https://hasin.me/2014/05/14/singleton-design-pattern/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 * [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/singleton-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
@@ -1929,112 +1881,108 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [বাংলায় ডিজাইন প্যাটার্ন - Singleton Pattern ওরফে একাদ্বিতীয় প্যাটার্ন](http://lordamit.blogspot.com/2012/04/singleton-pattern.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [সিঙ্গেলটন ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/30/%E0%A6%B8%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87%E0%A6%B2%E0%A6%9F%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-singleton-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### স্ট্রাটেজি ডিজাইন প্যাটার্ণ
+###### স্ট্রাটেজি ডিজাইন প্যাটার্ণ
 
 * [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/strategy-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/strategy_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [স্ট্রাটেজি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/15/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%9C%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-strategy/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### ডেকোরেটর ডিজাইন প্যাটার্ণ
+###### ডেকোরেটর ডিজাইন প্যাটার্ণ
 
 * [ডেকোরেটর ডিজাইন প্যাটার্ণ](http://software-engineering-notes-in-bangla.blogspot.com/2014/12/decorator-design-pattern.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 
-#### প্রোটোটাইপ ডিজাইন প্যাটার্ণ
+###### প্রোটোটাইপ ডিজাইন প্যাটার্ণ
 
 * [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/prototype_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [প্রোটোটাইপ ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/24/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A7%8B%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%AA-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-prototype-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### এডাপ্টার ডিজাইন প্যাটার্ণ
+###### এডাপ্টার ডিজাইন প্যাটার্ণ
 
 * [এডাপ্টার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/adapter_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [এডাপ্টার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/07/07/%E0%A6%8F%E0%A6%A1%E0%A6%BE%E0%A6%AA%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-adapter-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### ইটারেটর ডিজাইন প্যাটার্ণ
+###### ইটারেটর ডিজাইন প্যাটার্ণ
 
 * [ইটারেটর ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/iterator_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [ইটারেটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/10/25/iterator-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ
+###### চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ
 
 * [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/chain_of_responsibility.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [Chain of Responsibility ওরফে দায়িত্বের ফাইল চালাচালি](http://lordamit.blogspot.com/2012/06/chain-of-responsibility.html) - [অমিত শীল অমি](https://www.facebook.com/lordamit)
 * [চেইন অফ রেসপন্সিবিলিটি ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/26/%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%85%E0%A6%AB-%E0%A6%B0%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%AA%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A6%BF/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### অবজারভার ডিজাইন প্যাটার্ণ
+###### অবজারভার ডিজাইন প্যাটার্ণ
 
 * [অবজারভার ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/observer_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [অবজারভার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/29/%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A6%BE%E0%A6%B0%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-observer-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### কম্পোজিট ডিজাইন প্যাটার্ণ
+###### কম্পোজিট ডিজাইন প্যাটার্ণ
 
 * [কম্পোজিট ডিজাইন প্যাটার্ণ](http://architecture.howtocode.com.bd/design_patterns/composite_design_pattern.html) - [How-to-code](http://www.howtocode.com.bd/)
 * [কম্পোজিট ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/2015/04/26/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A7%8B%E0%A6%9C%E0%A6%BF%E0%A6%9F-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### মেমেন্টো ডিজাইন প্যাটার্ণ
+###### মেমেন্টো ডিজাইন প্যাটার্ণ
 
 * [মেমেন্টো ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/tag/%E0%A6%AE%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8B-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### এমভিসি (MVC)  ডিজাইন প্যাটার্ণ
+###### এমভিসি (MVC)  ডিজাইন প্যাটার্ণ
 
 * [এমভিসি (মডেল-ভিউ-কন্ট্রোলার) প্যাটার্ণ](http://masnun.com/2013/06/28/mvc-model-view-controller-pattern.html) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 
-#### ব্রীজ ডিজাইন প্যাটার্ণ
+###### ব্রীজ ডিজাইন প্যাটার্ণ
 
 * [ব্রীজ ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2015/01/05/%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%9C-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### মিডিয়েটর ডিজাইন প্যাটার্ণ
+###### মিডিয়েটর ডিজাইন প্যাটার্ণ
 
 * [মিডিয়েটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2014/09/15/%E0%A6%AE%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### ভিজিটর ডিজাইন প্যাটার্ণ
+###### ভিজিটর ডিজাইন প্যাটার্ণ
 
 * [ভিজিটর ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2014/07/08/%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A6%BF%E0%A6%9F%E0%A6%B0-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### স্টেট ডিজাইন প্যাটার্ণ
+###### স্টেট ডিজাইন প্যাটার্ণ
 
 * [ষ্টেট ডিজাইন প্যাটার্ন](https://logicalforhad.wordpress.com/2014/02/26/%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%9F-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### টেমপ্লেট মেথড ডিজাইন প্যাটার্ণ
+###### টেমপ্লেট মেথড ডিজাইন প্যাটার্ণ
 
 * [টেমপ্লেট মেথড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/10/03/%E0%A6%9F%E0%A7%87%E0%A6%AE%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A7%87%E0%A6%9F-%E0%A6%AE%E0%A7%87%E0%A6%A5%E0%A6%A1-%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### কমান্ড ডিজাইন প্যাটার্ণ
+###### কমান্ড ডিজাইন প্যাটার্ণ
 
 * [কমান্ড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/09/26/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-command-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### ফ্যাসাড ডিজাইন প্যাটার্ণ
+###### ফ্যাসাড ডিজাইন প্যাটার্ণ
 
 * [সহজ বাংলায় ডিজাইন প্যাটার্ন: ফ্যাসাড (Facade)](https://hasin.me/2014/03/07/design-pattern-facade/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 * [ফ্যাসাড ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/10/%E0%A6%AB%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-facade-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 * [ডিজাইন প্যাটার্নসমুহ: ফ্যাসাড প্যাটার্ন](http://code.tutsplus.com/bn/tutorials/design-patterns-the-facade-pattern--cms-22238)
 * [ডিজাইন প্যাটার্নের শুরু হোক বাংলায় – Facade](https://thehoneymad.wordpress.com/2012/05/22/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B6%E0%A7%81%E0%A6%B0%E0%A7%81/) - [স্বাগত প্রতীক](https://www.facebook.com/swagata.prateek)
 
-#### ফ্লাইওয়েট ডিজাইন প্যাটার্ণ
+###### ফ্লাইওয়েট ডিজাইন প্যাটার্ণ
 
 * [ফ্লাইওয়েট ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/06/02/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8-flyweight-pattern/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### নাল অবজেক্ট ডিজাইন প্যাটার্ণ
+###### নাল অবজেক্ট ডিজাইন প্যাটার্ণ
 
 * [নাল অবজেক্ট ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/05/04/%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%85%E0%A6%AC%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
-#### বিল্ডার ডিজাইন প্যাটার্ণ
+###### বিল্ডার ডিজাইন প্যাটার্ণ
 
 * [বিল্ডার ডিজাইন প্যাটার্ণ](https://logicalforhad.wordpress.com/2013/02/04/%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [এস. এম. ফরহাদ আলী](https://www.facebook.com/logicalforhad)
 
----
 
-### সফটওয়্যার আর্কিটেকচার
 
----
+##### সফটওয়্যার আর্কিটেকচার
 
 * [মাইক্রোসার্ভিস আর্কিটেকচার](http://apikothon.com/microservice-bangla-tutorial) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [সফটওয়্যার আর্কিটেকচার - বাংলা](http://architecture.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
----
 
-### ভার্সন কন্ট্রোল সিস্টেম (GIT)
 
----
+##### ভার্সন কন্ট্রোল সিস্টেম (GIT)
 
 * [গিট সম্পর্কে ধারণা, গিট ইন্সটল, ব্যবহার এবং গিটহাব এ একটা প্রজেক্ট পুশ করা](http://tech.jakir.me/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC-%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A6%BE/) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [ভার্সন কন্ট্রোল সিস্টেম](http://software-engineering-notes-in-bangla.blogspot.com/2015/06/blog-post.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
@@ -2047,11 +1995,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [গিট ও গিটহাব](http://subeen.com/%E0%A6%97%E0%A6%BF%E0%A6%9F-%E0%A6%93-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 - [গিটহাবে ওপেনসোর্স প্রজেক্টে কন্ট্রিবিউশনের সহজ ওয়ার্কফ্লো](https://medium.com/@me_shaon/%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%93%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F%E0%A7%87-%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%95%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A7%8B-1a2d8b107391) - [আহমেদ শামীম হাসান](https://www.facebook.com/ahmed.shamim.hassan)
 
----
 
-### সফটওয়্যার টেস্টিং
 
----
+##### সফটওয়্যার টেস্টিং
 
 * [টিডিডি – টেস্ট ড্রিভেন ডেভেলাপমেন্ট](http://subeen.com/%e0%a6%9f%e0%a6%bf%e0%a6%a1%e0%a6%bf%e0%a6%a1%e0%a6%bf-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f-%e0%a6%a1%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ad%e0%a7%87%e0%a6%a8-%e0%a6%a1%e0%a7%87%e0%a6%ad/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 * [ইউনিট টেস্টিং](http://subeen.com/%e0%a6%87%e0%a6%89%e0%a6%a8%e0%a6%bf%e0%a6%9f-%e0%a6%9f%e0%a7%87%e0%a6%b8%e0%a7%8d%e0%a6%9f%e0%a6%bf%e0%a6%82/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
@@ -2061,50 +2007,50 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [Selenium IDE: টেস্ট অটোমেশন-র ফ্রি টুল / প্লাগ-ইন](http://software-engineering-notes-in-bangla.blogspot.com/2016/05/selenium-ide.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [টেস্ট অটোমেশনে ব্যবহৃত ডিজাইন প্যাটার্ন -TAP অথবা POM](http://software-engineering-notes-in-bangla.blogspot.com/2016/08/tap-pom.html) - [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 
----
 
-### ডাটাবেজ সিস্টেম
 
----
+##### ডাটাবেজ সিস্টেম
 
 * [ডাটাবেজ নরমালাইজেশন](http://subeen.com/%E0%A6%A8%E0%A6%B0%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%9C/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 * [ডাটাবেজ ট্রানজেকশন ও এসিড](http://subeen.com/%e0%a6%a1%e0%a6%be%e0%a6%9f%e0%a6%be%e0%a6%ac%e0%a7%87%e0%a6%9c-%e0%a6%9f%e0%a7%8d%e0%a6%b0%e0%a6%be%e0%a6%a8%e0%a6%9c%e0%a7%87%e0%a6%95%e0%a6%b6%e0%a6%a8-%e0%a6%93-%e0%a6%8f%e0%a6%b8%e0%a6%bf/) - [মোঃ শফিউজ্জামান রাজিব](https://www.facebook.com/md.shafiuzzaman.rajib)
 
----
 
-### আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
----
+##### আর্টিফিশিয়াল ইন্টিলিজেন্স, মেশিন লার্নিং
 
 * [মেশিন লার্নিং? কম্পিউটার আবার শিখে কিভাবে!](http://adhikary.net/post/machine-learning/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
 * [পাইথন, ম্যাটল্যাব ও জাভাস্ক্রিপ্টে প্রেডিক্টিভ মডেল বিল্ডিং ও পারফর্মেন্স টেস্টিং](https://ml.manash.me/) - [মানস কুমার মণ্ডল](http://mandal.manash.me/)
 * [মেশিন লার্নিং , প্যাটার্ন রিকোগনিশন ও ডিসিশন ট্রি](http://backdoorweb.com/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A8/) - [ওসমান গনী নাহিদ](https://www.facebook.com/nahidcool1994)
 * [ডিপ লার্নিং ও আর্টিফিশিয়াল নিউরাল নেটওয়ার্ক](https://dl.howtocode.com.bd/) - [নুহিল মেহেদী](https://www.facebook.com/nuhil)
 
----
 
-### অন্যান্য
 
----
+##### অন্যান্য
 
-#### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
+###### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
 
 * [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [API Introduction](http://blog.sakib.ninja/2016/03/api-introduction.html) - [সাকিব সামি](https://www.facebook.com/s4kibs4mi)
 
-#### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
+
+
+###### স্কেলিং এন্ড পারফর্মেন্স অপটিমাইজেশন
 
 * [ওয়েব সার্ভার স্কেলিং](http://apikothon.com/category/%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%82-%E0%A6%93%E0%A7%9F%E0%A7%87%E0%A6%AC-%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%B0) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
 * [ভার্টিক্যাল ও হরাইজনটাল স্কেলিং](http://subeen.com/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%93-%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%9C%E0%A6%A8%E0%A6%9F%E0%A6%BE%E0%A6%B2/) - [তামিম শাহরিয়ার সুবীন](https://www.facebook.com/profile.php?id=573698472)
 
-#### ক্রিপ্টোগ্রাফি
+
+
+###### ক্রিপ্টোগ্রাফি
 
 * [ক্রিপ্টোগ্রাফি পর্ব ১: বেসিক কিছু টার্ম](http://shoshikkha.com/archives/723) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.১: ক্লাসিকাল সাইফার : ট্রান্সপজিশন](http://shoshikkha.com/archives/899) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.২: ক্লাসিকাল সাইফার – সাবস্টিটিউশন](http://shoshikkha.com/archives/1250) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 * [ক্রিপ্টোগ্রাফি পর্ব ২.৩: ভিজনেয়ার সাইফার](http://shoshikkha.com/archives/4520) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
-#### অন্যান্য
+
+
+###### অন্যান্য
 
 * [সফটওয়্যার ডেভেলপমেন্টের ক্লাসিক ভুলগুলো](http://software-engineering-notes-in-bangla.blogspot.com/2015/12/blog-post.html) -  [ইশতিয়াক হোসাইন](https://www.facebook.com/ishtiaque.hussain.7)
 * [প্রোগ্রামিংয়ের সাধারণ ভুলগুলো](http://ami-alavola.rhcloud.com/?p=142) - [আলাভোলা](https://medium.com/@amialavola)
@@ -2132,13 +2078,11 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [ব্লকচেইন? সে আবার কি? আল্টিমেট অখাটি বাংলায় ব্লকচেইন ১০১](https://with.dibakar.me/2018/08/03/%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8-%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF-%E0%A6%86%E0%A6%B2%E0%A7%8D%E0%A6%9F%E0%A6%BF/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 * [আনরিয়েল ইঞ্জিন ৪](https://with.dibakar.me/category/game-development/unreal-engine/) - [দিবাকর সূত্রধর](https://www.facebook.com/dipu.dibakar)
 
----
 
-### প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
 
----
+##### প্রোগ্রামিং ল্যাঙ্গুয়েজ টিউটোরিয়াল সিরিজ
 
-#### পাইথন (Python)
+###### পাইথন (Python)
 
 * [বাংলায় পাইথন](http://python.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 * [হাতে-কলমে পাইথন](http://www.adhikary.net/post/learn-python-by-building-0/) - [অনিরুদ্ধ অধিকারী](https://www.linkedin.com/in/tuxboy/)
@@ -2146,7 +2090,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [বাংলায় পাইথন প্রোগ্রামিং ল্যাঙ্গুয়েজ বই এবং টিউটোরিয়াল](http://jakir.me/python) - [জাকির হোসাইন](https://www.facebook.com/jakir007)
 * [পাইথন বাংলা টিউটোরিয়াল](https://pythonbangla.com) - [Mahmud Ahsan](https://twitter.com/mahmudahsan)
 
-#### জাভা (Java)
+###### জাভা (Java)
 
 * [জাভা প্রোগ্রামিং](http://java.howtocode.com.bd/)- [How-to-code](http://www.howtocode.com.bd/)
 
@@ -2154,7 +2098,7 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 * [জাভা এন্টারপ্রাইজ এডিশন](http://dimikcomputing.com/course/javaee-online-course/) - [Therap (BD) Ltd.](www.therapbd.com)
 
-#### সি (C)
+###### সি (C)
 
 - [বাংলায় সি প্রোগ্রামিং শিক্ষা](http://c.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
@@ -2164,40 +2108,38 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 
 - [বাংলা সি প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/ctutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 
-#### সি প্লাস প্লাস (C++)
+###### সি প্লাস প্লাস (C++)
 
 * [বাংলা সি প্লাস প্লাস প্রোগ্রামিং ভিডিও টিউটোরিয়াল](http://www.techsharif.com/cpptutorial/) - [শরীফ চৌধুরী](https://www.facebook.com/Sharif.Chowdhury.cse)
 * [সি প্লাস প্লাস টিউটোরিয়াল](http://shoshikkha.com/archives/category/computer-science/programming/language/c) - [মুনতাসির ওয়াহেদ](https://www.facebook.com/immuntasir)
 
-#### জাভাস্ক্রিপ্ট (Javascript)
+###### জাভাস্ক্রিপ্ট (Javascript)
 
 * [জাভাস্ক্রিপ্ট](http://js.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 * [বাংলায় জাভাস্ক্রিপ্ট](http://masnun.com/tutorials) - [আবু আশরাফ মাসনুন](https://www.facebook.com/abu.ashraf.masnun)
 * [নতুন করে শিখি জাভাস্ক্রিপ্ট](https://developer.mozilla.org/bn-BD/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - [Mozilla Developer Network Blog](https://developer.mozilla.org/bn-BD/)
 * [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me) - [Learn With Zonayed](https://with.zonayed.me/bn)
 
-#### পিএইচপি (PHP)
+###### পিএইচপি (PHP)
 
 * [বাংলায় পিএইচপি](http://php.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
-#### গো-ল্যাং (golang)
+###### গো-ল্যাং (golang)
 
 * [বাংলায় গো-ল্যাং (golang) টিউটোরিয়াল](http://golang.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 - [গো নিয়ে গড়াগড়ি](http://go.goragori.com/) - [হাসিন হায়দার](https://www.facebook.com/hasin)
 
-#### ক্লোজার (Clojure)
+###### ক্লোজার (Clojure)
 
 * [ক্লোজার - একটি আধুনিক ফাংশনাল ল্যাঙ্গুয়েজ](http://clojure.howtocode.com.bd/) - [How-to-code](http://www.howtocode.com.bd/)
 
-#### স্ক্যালা (Scala)
+###### স্ক্যালা (Scala)
 
 * [Scala দি নেক্সট বিগ থিং](http://scala.howtocode.com.bd/index.html) - [How-to-code](http://www.howtocode.com.bd/)
 
----
 
-### বই
 
----
+##### বই
 
 * [তামিম শাহরিয়ার সুবীন এর সি প্রোগ্রামিং বই – কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/)
 * [তামিম শাহরিয়ার সুবীন এর - পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com/)
@@ -2205,11 +2147,9 @@ You can read my collection of some bit trick for [here](./.random notes/.Bit Tri
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](http://hukush-pakush.com/) - [ইকরাম মাহমুদ](https://www.facebook.com/profile.php?id=100000831994504)
 * [প্রোগ্রামিং প্রতিযোগিতার শুরুর গল্প](https://drive.google.com/file/d/0B0uOHynlj5e7M19Kc08zU0JyM2M/view) - [মাহবুবুল হাসান](https://www.facebook.com/mahbub.shanto)
 
----
 
-### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 
----
+##### অনুপ্রেরণা এবং ক্যারিয়ার এডভাইজ
 
 * [কেন আমি প্রোগ্রামিং শিখবো?](http://www.shafaetsplanet.com/planetcoding/?p=1437) - [শাফায়েত আশরাফ](https://bd.linkedin.com/in/shafaetcsedu)
 * [নবীন প্রোগ্রামারদের জন্য](http://ami-alavola.rhcloud.com/?p=82) - [আলাভোলা](https://medium.com/@amialavola)
